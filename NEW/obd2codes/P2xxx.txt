@@ -1,0 +1,992 @@
+P2000 nox Adsorber Efficiency Below Threshold
+P2001 nox Adsorber Efficiency Below Threshold
+P2002 Diesel Particulate Filter Efficiency Below Threshold
+P2003 Diesel Particulate Filter Efficiency Below Threshold
+P2004 Intake Manifold Runner Control Stuck Open
+P2005 Intake Manifold Runner Control Stuck Open
+P2006 Intake Manifold Runner Control Stuck Closed
+P2007 Intake Manifold Runner Control Stuck Closed
+P2008 Intake Manifold Runner Control Circuit/Open
+P2009 Intake Manifold Runner Control Circuit Low
+P200A Intake Manifold Runner Performance
+P200B Intake Manifold Runner Performance
+P200C Diesel Particulate Filter Over Temperature
+P200D Diesel Particulate Filter Over Temperature
+P200E Catalyst System Over Temperature
+P200F Catalyst System Over Temperature
+P2010 Intake Manifold Runner Control Circuit High
+P2011 Intake Manifold Runner Control Circuit/Open
+P2012 Intake Manifold Runner Control Circuit Low
+P2013 Intake Manifold Runner Control Circuit High
+P2014 Intake Manifold Runner Position Sensor/Switch Circuit
+P2015 Intake Manifold Runner Position Sensor/Switch Circuit
+P2016 Intake Manifold Runner Position Sensor/Switch Circuit Low
+P2017 Intake Manifold Runner Position Sensor/Switch Circuit High
+P2018 Intake Manifold Runner Position Sensor/Switch Circuit Intermittent
+P2019 Intake Manifold Runner Position Sensor/Switch Circuit
+P201A Reductant Injection Valve Circuit Range/Performance
+P2020 Intake Manifold Runner Position Sensor/Switch Circuit
+P2021 Intake Manifold Runner Position Sensor/Switch Circuit Low
+P2022 Intake Manifold Runner Position Sensor/Switch Circuit High
+P2023 Intake Manifold Runner Position Sensor/Switch Circuit Intermittent
+P2024 Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor
+P2025 Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor
+P2026 Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor
+P2027 Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor
+P2028 Evaporative Emissions (EVAP) Fuel Vapor Temperature Sensor
+P2029 Fuel Fired Heater Disabled
+P202A Reductant Tank Heater Control Circuit/Open
+P202B Reductant Tank Heater Control Circuit Low
+P202C Reductant Tank Heater Control Circuit High
+P202D Reductant Leakage
+P202E Reductant Injection Valve Circuit Range/Performance
+P202F Reductant/Regeneration Supply Control Circuit Range/Performance
+P2030 Fuel Fired Heater Performance
+P2031 Exhaust Gas Temperature Sensor Circuit
+P2032 Exhaust Gas Temperature Sensor Circuit Low
+P2033 Exhaust Gas Temperature Sensor Circuit High
+P2034 Exhaust Gas Temperature Sensor Circuit
+P2035 Exhaust Gas Temperature Sensor Circuit Low
+P2036 Exhaust Gas Temperature Sensor Circuit High
+P2037 Reductant Injection Air Pressure Sensor "A" Circuit
+P2038 Reductant Injection Air Pressure Sensor "A" Circuit
+P2039 Reductant Injection Air Pressure Sensor "A" Circuit Low
+P203A Reductant Level Sensor Circuit
+P203B Reductant Level Sensor Circuit Range/Performance
+P203C Reductant Level Sensor Circuit Low
+P203D Reductant Level Sensor Circuit High
+P203E Reductant Level Sensor Circuit Intermittent/Erratic
+P203F Reductant Level Too Low
+P2040 Reductant Injection Air Pressure Sensor "A" Circuit High
+P2041 Reductant Injection Air Pressure Sensor "A" Circuit Intermittent
+P2042 Reductant Temperature Sensor Circuit
+P2043 Reductant Temperature Sensor Circuit Range/Performance
+P2044 Reductant Temperature Sensor Circuit Low
+P2045 Reductant Temperature Sensor Circuit High
+P2046 Reductant Temperature Sensor Circuit Intermittent
+P2047 Reductant Injection Valve Circuit/Open
+P2048 Reductant Injection Valve Circuit Low
+P2049 Reductant Injection Valve Circuit High
+P204A Reductant Pressure Sensor Circuit
+P204B Reductant Pressure Sensor Circuit Range/Performance
+P204C Reductant Pressure Sensor Circuit Low
+P204D Reductant Pressure Sensor Circuit High
+P204E Reductant Pressure Sensor Circuit Intermittent/Erratic
+P204F Reductant System Performance
+P2050 Reductant Injection Valve Circuit/Open
+P2051 Reductant Injection Valve Circuit Low
+P2052 Reductant Injection Valve Circuit High
+P2053 Reductant Injection Valve Circuit/Open
+P2054 Reductant Injection Valve Circuit Low
+P2055 Reductant Injection Valve Circuit High
+P2056 Reductant Injection Valve Circuit/Open
+P2057 Reductant Injection Valve Circuit Low
+P2058 Reductant Injection Valve Circuit High
+P2059 Reductant Injection Air Pump Control Circuit/Open
+P205A Reductant Tank Temperature Sensor Circuit
+P205B Reductant Tank Temperature Sensor Circuit Range/Performance
+P205C Reductant Tank Temperature Sensor Circuit Low
+P205D Reductant Tank Temperature Sensor Circuit High
+P205E Reductant Tank Temperature Sensor Circuit Intermittent/Erratic
+P205F Reductant System Performance
+P2060 Reductant Injection Air Pump Control Circuit Low
+P2061 Reductant Injection Air Pump Control Circuit High
+P2062 Reductant/Regeneration Supply Control Circuit/Open
+P2063 Reductant/Regeneration Supply Control Circuit Low
+P2064 Reductant/Regeneration Supply Control Circuit High
+P2065 Fuel Level Sensor "B" Circuit
+P2066 Fuel Level Sensor "B" Performance
+P2067 Fuel Level Sensor "B" Circuit Low
+P2068 Fuel Level Sensor "B" Circuit High
+P2069 Fuel Level Sensor "B" Circuit Intermittent
+P206A Reductant Quality Sensor Circuit
+P206B Reductant Quality Sensor Circuit Range/Performance
+P206C Reductant Quality Sensor Circuit Low
+P206D Reductant Quality Sensor Circuit High
+P206E Intake Manifold Tuning (IMT) Valve Stuck Open
+P206F Intake Manifold Tuning (IMT) Valve Stuck Closed
+P2070 Intake Manifold Tuning (IMT) Valve Stuck Open
+P2071 Intake Manifold Tuning (IMT) Valve Stuck Closed
+P2072 Throttle Actuator Control System - Ice Blockage
+P2073 Manifold Absolute Pressure/Mass Air Flow - Throttle Position
+P2074 Manifold Absolute Pressure/Mass Air Flow - Throttle Position
+P2075 Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P2076 Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P2077 Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P2078 Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P2079 Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P207A Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P207B Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P207C Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P207D Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P207E Intake Manifold Tuning (IMT) Valve Position Sensor/Switch Circuit
+P207F Reductant Quality Performance
+P2080 Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2081 Exhaust Gas Temperature Sensor Circuit Intermittent
+P2082 Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2083 Exhaust Gas Temperature Sensor Circuit Intermittent
+P2084 Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2085 Exhaust Gas Temperature Sensor Circuit Intermittent
+P2086 Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2087 Exhaust Gas Temperature Sensor Circuit Intermittent
+P2088 "A" Camshaft Position Actuator Control Circuit Low
+P2089 "A" Camshaft Position Actuator Control Circuit High
+P208A Reductant Pump Control Circuit/Open
+P208B Reductant Pump Control Range/Performance
+P208C Reductant Pump Control Circuit Low
+P208D Reductant Pump Control Circuit High
+P208E Reductant Injection Valve Stuck Closed
+P208F Reductant Injection Valve Stuck Closed
+P2090 "B" Camshaft Position Actuator Control Circuit Low
+P2091 "B" Camshaft Position Actuator Control Circuit High
+P2092 "A" Camshaft Position Actuator Control Circuit Low
+P2093 "A" Camshaft Position Actuator Control Circuit High
+P2094 "B" Camshaft Position Actuator Control Circuit Low
+P2095 "B" Camshaft Position Actuator Control Circuit High
+P2096 Post Catalyst Fuel Trim System Too Lean
+P2097 Post Catalyst Fuel Trim System Too Rich
+P2098 Post Catalyst Fuel Trim System Too Lean
+P2099 Post Catalyst Fuel Trim System Too Rich
+P209A Reductant Injection Air Pressure Sensor "B" Circuit
+P209B Reductant Injection Air Pressure Sensor "B" Circuit
+P209C Reductant Injection Air Pressure Sensor "B" Circuit Low
+P209D Reductant Injection Air Pressure Sensor "B" Circuit High
+P209E Reductant Injection Air Pressure Sensor "A"/"B" Correlation
+P209F Reductant Tank Heater Control Circuit Performance
+P20A0 Reductant Purge Control Valve Circuit /Open
+P20A1 Reductant Purge Control Valve Performance
+P20A2 Reductant Purge Control Valve Circuit Low
+P20A3 Reductant Purge Control Valve Circuit High
+P20A4 Reductant Purge Control Valve Stuck Open
+P20A5 Reductant Purge Control Valve Stuck Closed
+P20A6 Reductant Injection Air Pressure Control Valve Circuit/Open
+P20A7 Reductant Injection Air Pressure Control Valve Performance
+P20A8 Reductant Injection Air Pressure Control Valve Circuit Low
+P20A9 Reductant Injection Air Pressure Control Valve Circuit High
+P20AA Reductant Injection Air Pressure Control Valve Stuck Open
+P20AB Reductant Injection Air Pressure Control Valve Stuck Closed
+P20AC Reductant Metering Unit Temperature Sensor Circuit
+P20AD Reductant Metering Unit Temperature Sensor Circuit
+P20AE Reductant Metering Unit Temperature Sensor Circuit Low
+P20AF Reductant Metering Unit Temperature Sensor Circuit High
+P20B0 Reductant Metering Unit Temperature Sensor Circuit
+P20B1 Reductant Heater Coolant Control Valve Circuit/Open
+P20B2 Reductant Heater Coolant Control Valve Performance
+P20B3 Reductant Heater Coolant Control Valve Circuit Low
+P20B4 Reductant Heater Coolant Control Valve Circuit High
+P20B5 Reductant Metering Unit Heater Control Circuit/Open
+P20B6 Reductant Metering Unit Heater Control Circuit Performance
+P20B7 Reductant Metering Unit Heater Control Circuit Low
+P20B8 Reductant Metering Unit Heater Control Circuit High
+P20B9 Reductant Heater "A" Control Circuit/Open
+P20BA Reductant Heater "A" Control Circuit Performance
+P20BB Reductant Heater "A" Control Circuit Low
+P20BC Reductant Heater "A" Control Circuit High
+P20BD Reductant Heater "B" Control Circuit/Open
+P20BE Reductant Heater "B" Control Circuit Performance
+P20BF Reductant Heater "B" Control Circuit Low
+P20C0 Reductant Heater "B" Control Circuit High
+P20C1 Reductant Heater "C" Control Circuit/Open
+P20C2 Reductant Heater "C" Control Circuit Performance
+P20C3 Reductant Heater "C" Control Circuit Low
+P20C4 Reductant Heater "C" Control Circuit High
+P20C5 Reductant Heater "D" Control Circuit/Open
+P20C6 Reductant Heater "D" Control Circuit Performance
+P20C7 Reductant Heater "D" Control Circuit Low
+P20C8 Reductant Heater "D" Control Circuit High
+P20C9 Reductant Control Module Requested MIL Illumination
+P20CA Reductant Injection Air Pressure Leakage
+P20CB Exhaust Aftertreatment Fuel Injector "A" Control Circuit/Open
+P20CC Exhaust Aftertreatment Fuel Injector "A" Control Performance
+P20CD Exhaust Aftertreatment Fuel Injector "A" Control Circuit Low
+P20CE Exhaust Aftertreatment Fuel Injector "A" Control Circuit High
+P20CF Exhaust Aftertreatment Fuel Injector "A" Stuck Open
+P20D0 Exhaust Aftertreatment Fuel Injector "A" Stuck Closed
+P20D1 Exhaust Aftertreatment Fuel Injector "B" Control Circuit/Open
+P20D2 Exhaust Aftertreatment Fuel Injector "B" Control Performance
+P20D3 Exhaust Aftertreatment Fuel Injector "B" Control Circuit Low
+P20D4 Exhaust Aftertreatment Fuel Injector "B" Control Circuit High
+P20D5 Exhaust Aftertreatment Fuel Injector "B" Stuck Open
+P20D6 Exhaust Aftertreatment Fuel Injector "B" Stuck Closed
+P20D7 Exhaust Aftertreatment Fuel Supply Control Circuit/Open
+P20D8 Exhaust Aftertreatment Fuel Supply Control Performance
+P20D9 Exhaust Aftertreatment Fuel Supply Control Circuit Low
+P20DA Exhaust Aftertreatment Fuel Supply Control Circuit High
+P20DB Exhaust Aftertreatment Fuel Supply Control Stuck Open
+P20DC Exhaust Aftertreatment Fuel Supply Control Stuck Closed
+P20DD Exhaust Aftertreatment Fuel Pressure Sensor Circuit
+P20DE Exhaust Aftertreatment Fuel Pressure Sensor Circuit
+P20DF Exhaust Aftertreatment Fuel Pressure Sensor Circuit Low
+P20E0 Exhaust Aftertreatment Fuel Pressure Sensor Circuit High
+P20E1 Exhaust Aftertreatment Fuel Pressure Sensor Circuit
+P20E2 Exhaust Gas Temperature Sensor 1/2 Correlation
+P20E3 Exhaust Gas Temperature Sensor 1/3 Correlation
+P20E4 Exhaust Gas Temperature Sensor 2/3 Correlation
+P20E5 Exhaust Gas Temperature Sensor 1/2 Correlation
+P20E6 Reductant Injection Air Pressure Too Low
+P20E7 Reductant Injection Air Pressure Too High
+P20E8 Reductant Pressure Too Low
+P20E9 Reductant Pressure Too High
+P20EA Reductant Control Module Power Relay De-Energized Performance
+P20EB Reductant Control Module Power Relay De-Energized Performance
+P20EC SCR nox Catalyst - Over Temperature
+P20ED SCR nox Pre-Catalyst - Over Temperature
+P20EE SCR nox Catalyst Efficiency Below Threshold
+P20EF SCR nox Pre- Catalyst Efficiency Below Threshold
+P20F0 SCR nox Catalyst - Over Temperature
+P20F1 SCR nox Pre-Catalyst - Over Temperature
+P20F2 SCR nox Catalyst Efficiency Below Threshold
+P20F3 SCR nox Pre- Catalyst Efficiency Below Threshold
+P20F4 Reductant Consumption Too Low
+P20F5 Reductant Consumption Too High
+P20F6 Reductant Injection Valve Stuck Open
+P20F7 Reductant Injection Valve Stuck Open
+P2100 Throttle Actuator "A" Control Motor Circuit/Open
+P2101 Throttle Actuator "A" Control Motor Circuit Range/Performance
+P2102 Throttle Actuator "A" Control Motor Circuit Low
+P2103 Throttle Actuator "A" Control Motor Circuit High
+P2104 Throttle Actuator Control System - Forced Idle
+P2105 Throttle Actuator Control System - Forced Engine Shutdown
+P2106 Throttle Actuator Control System - Forced Limited Power
+P2107 Throttle Actuator Control Module Processor
+P2108 Throttle Actuator Control Module Performance
+P2109 Throttle/Pedal Position Sensor "A" Minimum Stop Performance
+P210A Throttle Actuator "B" Control Motor Circuit/Open
+P210B Throttle Actuator "B" Control Motor Circuit Range/Performance
+P210C Throttle Actuator "B" Control Motor Circuit Low
+P210D Throttle Actuator "B" Control Motor Circuit High
+P210E Throttle/Pedal Position Sensor/Switch "C"/"F" Voltage Correlation
+P2110 Throttle Actuator Control System - Forced Limited RPM
+P2111 Throttle Actuator Control System - Stuck Open
+P2112 Throttle Actuator Control System - Stuck Closed
+P2113 Throttle/Pedal Position Sensor "B" Minimum Stop Performance
+P2114 Throttle/Pedal Position Sensor "C" Minimum Stop Performance
+P2115 Throttle/Pedal Position Sensor "D" Minimum Stop Performance
+P2116 Throttle/Pedal Position Sensor "E" Minimum Stop Performance
+P2117 Throttle/Pedal Position Sensor "F" Minimum Stop Performance
+P2118 Throttle Actuator Control Motor Current Range/Performance
+P2119 Throttle Actuator Control Throttle Body Range/Performance
+P2120 Throttle/Pedal Position Sensor/Switch "D" Circuit
+P2121 Throttle/Pedal Position Sensor/Switch "D" Circuit
+P2122 Throttle/Pedal Position Sensor/Switch "D" Circuit Low
+P2123 Throttle/Pedal Position Sensor/Switch "D" Circuit High
+P2124 Throttle/Pedal Position Sensor/Switch "D" Circuit Intermittent
+P2125 Throttle/Pedal Position Sensor/Switch "E" Circuit
+P2126 Throttle/Pedal Position Sensor/Switch "E" Circuit
+P2127 Throttle/Pedal Position Sensor/Switch "E" Circuit Low
+P2128 Throttle/Pedal Position Sensor/Switch "E" Circuit High
+P2129 Throttle/Pedal Position Sensor/Switch "E" Circuit Intermittent
+P212A Throttle Position Sensor/Switch "G" Circuit
+P212B Throttle Position Sensor/Switch "G" Circuit Range/Performance
+P212C Throttle Position Sensor/Switch "G" Circuit Low
+P212D Throttle Position Sensor/Switch "G" Circuit High
+P212E Throttle Position Sensor/Switch "G" Circuit Intermittent
+P2130 Throttle/Pedal Position Sensor/Switch "F" Circuit
+P2131 Throttle/Pedal Position Sensor/Switch "F" Circuit
+P2132 Throttle/Pedal Position Sensor/Switch "F" Circuit Low
+P2133 Throttle/Pedal Position Sensor/Switch "F" Circuit High
+P2134 Throttle/Pedal Position Sensor/Switch "F" Circuit Intermittent
+P2135 Throttle/Pedal Position Sensor/Switch "A"/"B" Voltage Correlation
+P2136 Throttle/Pedal Position Sensor/Switch "A"/"C" Voltage Correlation
+P2137 Throttle/Pedal Position Sensor/Switch "B"/"C" Voltage Correlation
+P2138 Throttle/Pedal Position Sensor/Switch "D"/"E" Voltage Correlation
+P2139 Throttle/Pedal Position Sensor/Switch "D"/"F" Voltage Correlation
+P213A Exhaust Gas Recirculation Throttle Control Circuit "B" /Open
+P213B Exhaust Gas Recirculation Throttle Control Circuit "B"
+P213C Exhaust Gas Recirculation Throttle Control Circuit "B" Low
+P213D Exhaust Gas Recirculation Throttle Control Circuit "B" High
+P213E Fuel Injection System Fault - Forced Engine Shutdown
+P213F Fuel Pump System Fault - Forced Engine Shutdown
+P2140 Throttle/Pedal Position Sensor/Switch "E"/"F" Voltage Correlation
+P2141 Exhaust Gas Recirculation Throttle Control Circuit "A" Low
+P2142 Exhaust Gas Recirculation Throttle Control Circuit "A" High
+P2143 Exhaust Gas Recirculation Vent Control Circuit/Open
+P2144 Exhaust Gas Recirculation Vent Control Circuit Low
+P2145 Exhaust Gas Recirculation Vent Control Circuit High
+P2146 Fuel Injector Group "A" Supply Voltage Circuit/Open
+P2147 Fuel Injector Group "A" Supply Voltage Circuit Low
+P2148 Fuel Injector Group "A" Supply Voltage Circuit High
+P2149 Fuel Injector Group "B" Supply Voltage Circuit/Open
+P2150 Fuel Injector Group "B" Supply Voltage Circuit Low
+P2151 Fuel Injector Group "B" Supply Voltage Circuit High
+P2152 Fuel Injector Group "C" Supply Voltage Circuit/Open
+P2153 Fuel Injector Group "C" Supply Voltage Circuit Low
+P2154 Fuel Injector Group "C" Supply Voltage Circuit High
+P2155 Fuel Injector Group "D" Supply Voltage Circuit/Open
+P2156 Fuel Injector Group "D" Supply Voltage Circuit Low
+P2157 Fuel Injector Group "D" Supply Voltage Circuit High
+P2158 Vehicle Speed Sensor "B"
+P2159 Vehicle Speed Sensor "B" Range/Performance
+P215A Vehicle Speed - Wheel Speed Correlation
+P215B Vehicle Speed - Output Shaft Speed Correlation
+P215C Output Shaft Speed - Wheel Speed Correlation
+P2160 Vehicle Speed Sensor "B" Circuit Low
+P2161 Vehicle Speed Sensor "B" Intermittent/Erratic/High
+P2162 Vehicle Speed Sensor "A"/"B" Correlation
+P2163 Throttle/Pedal Position Sensor "A" Maximum Stop Performance
+P2164 Throttle/Pedal Position Sensor "B" Maximum Stop Performance
+P2165 Throttle/Pedal Position Sensor "C" Maximum Stop Performance
+P2166 Throttle/Pedal Position Sensor "D" Maximum Stop Performance
+P2167 Throttle/Pedal Position Sensor "E" Maximum Stop Performance
+P2168 Throttle/Pedal Position Sensor "F" Maximum Stop Performance
+P2169 Exhaust Pressure Regulator Vent Solenoid Control Circuit/Open
+P216A Fuel Injector Group "E" Supply Voltage Circuit/Open
+P216B Fuel Injector Group "E" Supply Voltage Circuit Low
+P216C Fuel Injector Group "E" Supply Voltage Circuit High
+P216D Fuel Injector Group "F" Supply Voltage Circuit/Open
+P216E Fuel Injector Group "F" Supply Voltage Circuit Low
+P216F Fuel Injector Group "F" Supply Voltage Circuit High
+P2170 Exhaust Pressure Regulator Vent Solenoid Control Circuit Low
+P2171 Exhaust Pressure Regulator Vent Solenoid Control Circuit High
+P2172 Throttle Actuator Control System - Sudden High Air Flow Detected
+P2173 Throttle Actuator Control System - High Air Flow Detected
+P2174 Throttle Actuator Control System - Sudden Low Air Flow Detected
+P2175 Throttle Actuator Control System - Low Air Flow Detected
+P2176 Throttle Actuator Control System - Idle Position not Learned
+P2177 System Too Lean Off Idle
+P2178 System Too Rich Off Idle
+P2179 System Too Lean Off Idle
+P217A Fuel Injector Group "G" Supply Voltage Circuit/Open
+P217B Fuel Injector Group "G" Supply Voltage Circuit Low
+P217C Fuel Injector Group "G" Supply Voltage Circuit High
+P217D Fuel Injector Group "H" Supply Voltage Circuit/Open
+P217E Fuel Injector Group "H" Supply Voltage Circuit Low
+P217F Fuel Injector Group "H" Supply Voltage Circuit High
+P2180 System Too Rich Off Idle
+P2181 Cooling System Performance
+P2182 Engine Coolant Temperature Sensor 2 Circuit
+P2183 Engine Coolant Temperature Sensor 2 Circuit Range/Performance
+P2184 Engine Coolant Temperature Sensor 2 Circuit Low
+P2185 Engine Coolant Temperature Sensor 2 Circuit High
+P2186 Engine Coolant Temperature Sensor 2 Circuit Intermittent/Erratic
+P2187 System Too Lean at Idle
+P2188 System Too Rich at Idle
+P2189 System Too Lean at Idle
+P2190 System Too Rich at Idle
+P2191 System Too Lean at Higher Load
+P2192 System Too Rich at Higher Load
+P2193 System Too Lean at Higher Load
+P2194 System Too Rich at Higher Load
+P2195 O2 Sensor Signal Biased/Stuck Lean
+P2196 O2 Sensor Signal Biased/Stuck Rich
+P2197 O2 Sensor Signal Biased/Stuck Lean
+P2198 O2 Sensor Signal Biased/Stuck Rich
+P2199 Intake Air Temperature Sensor 1/2 Correlation
+P2200 nox Sensor Circuit
+P2201 nox Sensor Circuit Range/Performance
+P2202 nox Sensor Circuit Low
+P2203 nox Sensor Circuit High
+P2204 nox Sensor Circuit Intermittent
+P2205 nox Sensor Heater Control Circuit/Open
+P2206 nox Sensor Heater Control Circuit Low
+P2207 nox Sensor Heater Control Circuit High
+P2208 nox Sensor Heater Sense Circuit
+P2209 nox Sensor Heater Sense Circuit Range/Performance
+P2210 nox Sensor Heater Sense Circuit Low
+P2211 nox Sensor Heater Sense Circuit High
+P2212 nox Sensor Heater Sense Circuit Intermittent
+P2213 nox Sensor Circuit
+P2214 nox Sensor Circuit Range/Performance
+P2215 nox Sensor Circuit Low
+P2216 nox Sensor Circuit High
+P2217 nox Sensor Circuit Intermittent
+P2218 nox Sensor Heater Control Circuit/Open
+P2219 nox Sensor Heater Control Circuit Low
+P2220 nox Sensor Heater Control Circuit High
+P2221 nox Sensor Heater Sense Circuit
+P2222 nox Sensor Heater Sense Circuit Range/Performance
+P2223 nox Sensor Heater Sense Circuit Low
+P2224 nox Sensor Heater Sense Circuit High
+P2225 nox Sensor Heater Sense Circuit Intermittent
+P2226 Barometric Pressure Sensor "A" Circuit
+P2227 Barometric Pressure Sensor "A" Circuit Range/Performance
+P2228 Barometric Pressure Sensor "A" Circuit Low
+P2229 Barometric Pressure Sensor "A" Circuit High
+P222A Barometric Pressure Sensor "B" Circuit
+P222B Barometric Pressure Sensor "B" Circuit Range/Performance
+P222C Barometric Pressure Sensor "B" Circuit Low
+P222D Barometric Pressure Sensor "B" Circuit High
+P222E Barometric Pressure Sensor "B" Circuit Intermittent/Erratic
+P222F Barometric Pressure Sensor "A"/"B" Correlation
+P2230 Barometric Pressure Sensor "A" Circuit Intermittent/Erratic
+P2231 O2 Sensor Signal Circuit Shorted to Heater Circuit
+P2232 O2 Sensor Signal Circuit Shorted to Heater Circuit
+P2233 O2 Sensor Signal Circuit Shorted to Heater Circuit
+P2234 O2 Sensor Signal Circuit Shorted to Heater Circuit
+P2235 O2 Sensor Signal Circuit Shorted to Heater Circuit
+P2236 O2 Sensor Signal Circuit Shorted to Heater Circuit
+P2237 O2 Sensor Positive Current Control Circuit/Open
+P2238 O2 Sensor Positive Current Control Circuit Low
+P2239 O2 Sensor Positive Current Control Circuit High
+P2240 O2 Sensor Positive Current Control Circuit/Open
+P2241 O2 Sensor Positive Current Control Circuit Low
+P2242 O2 Sensor Positive Current Control Circuit High
+P2243 O2 Sensor Reference Voltage Circuit/Open
+P2244 O2 Sensor Reference Voltage Performance
+P2245 O2 Sensor Reference Voltage Circuit Low
+P2246 O2 Sensor Reference Voltage Circuit High
+P2247 O2 Sensor Reference Voltage Circuit/Open
+P2248 O2 Sensor Reference Voltage Performance
+P2249 O2 Sensor Reference Voltage Circuit Low
+P2250 O2 Sensor Reference Voltage Circuit High
+P2251 O2 Sensor Negative Current Control Circuit/Open
+P2252 O2 Sensor Negative Current Control Circuit Low
+P2253 O2 Sensor Negative Current Control Circuit High
+P2254 O2 Sensor Negative Current Control Circuit/Open
+P2255 O2 Sensor Negative Current Control Circuit Low
+P2256 O2 Sensor Negative Current Control Circuit High
+P2257 Secondary Air Injection System Control "A" Circuit Low
+P2258 Secondary Air Injection System Control "A" Circuit High
+P2259 Secondary Air Injection System Control "B" Circuit Low
+P2260 Secondary Air Injection System Control "B" Circuit High
+P2261 Turbocharger/Supercharger Bypass Valve - Mechanical
+P2262 Turbocharger/Supercharger Boost Pressure not Detected -
+P2263 Turbocharger/Supercharger Boost System Performance
+P2264 Water in Fuel Sensor Circuit
+P2265 Water in Fuel Sensor Circuit Range/Performance
+P2266 Water in Fuel Sensor Circuit Low
+P2267 Water in Fuel Sensor Circuit High
+P2268 Water in Fuel Sensor Circuit Intermittent
+P2269 Water in Fuel Condition
+P226A Water in Fuel Lamp Control Circuit
+P226B Turbocharger/Supercharger Boost Pressure Too High - Mechanical
+P2270 O2 Sensor Signal Biased/Stuck Lean
+P2271 O2 Sensor Signal Biased/Stuck Rich
+P2272 O2 Sensor Signal Biased/Stuck Lean
+P2273 O2 Sensor Signal Biased/Stuck Rich
+P2274 O2 Sensor Signal Biased/Stuck Lean
+P2275 O2 Sensor Signal Biased/Stuck Rich
+P2276 O2 Sensor Signal Biased/Stuck Lean
+P2277 O2 Sensor Signal Biased/Stuck Rich
+P2278 O2 Sensor Signals Swapped Bank 1 Sensor 3/Bank 2 Sensor 3
+P2279 Intake Air System Leak
+P2280 Air Flow Restriction/Air Leak Between Air Filter and MAF
+P2281 Air Leak Between MAF and Throttle Body
+P2282 Air Leak Between Throttle Body and Intake Valves
+P2283 Injector Control Pressure Sensor Circuit
+P2284 Injector Control Pressure Sensor Circuit Range/Performance
+P2285 Injector Control Pressure Sensor Circuit Low
+P2286 Injector Control Pressure Sensor Circuit High
+P2287 Injector Control Pressure Sensor Circuit Intermittent
+P2288 Injector Control Pressure Too High
+P2289 Injector Control Pressure Too High - Engine Off
+P228A Fuel Pressure Regulator 1 - Forced Engine Shutdown
+P228B Fuel Pressure Regulator 2 - Forced Engine Shutdown
+P228C Fuel Pressure Regulator 1 Exceeded Control Limits - Pressure Too
+P228D Fuel Pressure Regulator 1 Exceeded Control Limits - Pressure Too
+P228E Fuel Pressure Regulator 1 Exceeded Learning Limits - Too Low
+P228F Fuel Pressure Regulator 1 Exceeded Learning Limits - Too High
+P2290 Injector Control Pressure Too Low
+P2291 Injector Control Pressure Too Low - Engine Cranking
+P2292 Injector Control Pressure Erratic
+P2293 Fuel Pressure Regulator 2 Performance
+P2294 Fuel Pressure Regulator 2 Control Circuit/Open
+P2295 Fuel Pressure Regulator 2 Control Circuit Low
+P2296 Fuel Pressure Regulator 2 Control Circuit High
+P2297 O2 Sensor Out of Range During Deceleration
+P2298 O2 Sensor Out of Range During Deceleration
+P2299 Brake Pedal Position/Accelerator Pedal Position Incompatible
+P229A Fuel Pressure Regulator 2 Exceeded Control Limits - Pressure Too
+P229B Fuel Pressure Regulator 2 Exceeded Control Limits - Pressure Too
+P229C Fuel Pressure Regulator 2 Exceeded Learning Limits - Too Low
+P229D Fuel Pressure Regulator 2 Exceeded Learning Limits - Too High
+P2400 Evaporative Emission System Leak Detection Pump Control
+P2401 Evaporative Emission System Leak Detection Pump Control Circuit
+P2402 Evaporative Emission System Leak Detection Pump Control Circuit
+P2403 Evaporative Emission System Leak Detection Pump Sense
+P2404 Evaporative Emission System Leak Detection Pump Sense Circuit
+P2405 Evaporative Emission System Leak Detection Pump Sense Circuit
+P2406 Evaporative Emission System Leak Detection Pump Sense Circuit
+P2407 Evaporative Emission System Leak Detection Pump Sense Circuit
+P2408 Fuel Cap Sensor/Switch Circuit
+P2409 Fuel Cap Sensor/Switch Circuit Range/Performance
+P240A Evaporative Emission System Leak Detection Pump Heater Control
+P240B Evaporative Emission System Leak Detection Pump Heater Control
+P240C Evaporative Emission System Leak Detection Pump Heater Control
+P2410 Fuel Cap Sensor/Switch Circuit Low
+P2411 Fuel Cap Sensor/Switch Circuit High
+P2412 Fuel Cap Sensor/Switch Circuit Intermittent/Erratic
+P2413 Exhaust Gas Recirculation System Performance
+P2414 O2 Sensor Exhaust Sample Error
+P2415 O2 Sensor Exhaust Sample Error
+P2416 O2 Sensor Signals Swapped Bank 1 Sensor 2/Bank 1 Sensor 3
+P2417 O2 Sensor Signals Swapped Bank 2 Sensor 2/Bank 2 Sensor 3
+P2418 Evaporative Emission System Switching Valve Control Circuit/Open
+P2419 Evaporative Emission System Switching Valve Control Circuit Low
+P2420 Evaporative Emission System Switching Valve Control Circuit High
+P2421 Evaporative Emission System Vent Valve Stuck Open
+P2422 Evaporative Emission System Vent Valve Stuck Closed
+P2423 HC Adsorption Catalyst Efficiency Below Threshold
+P2424 HC Adsorption Catalyst Efficiency Below Threshold
+P2425 Exhaust Gas Recirculation Cooling Valve Control Circuit/Open
+P2426 Exhaust Gas Recirculation Cooling Valve Control Circuit Low
+P2427 Exhaust Gas Recirculation Cooling Valve Control Circuit High
+P2428 Exhaust Gas Temperature Too High
+P2429 Exhaust Gas Temperature Too High
+P242A Exhaust Gas Temperature Sensor Circuit
+P242B Exhaust Gas Temperature Sensor Circuit Range/Performance
+P242C Exhaust Gas Temperature Sensor Circuit Low
+P242D Exhaust Gas Temperature Sensor Circuit High
+P242E Exhaust Gas Temperature Sensor Circuit Intermittent/Erratic
+P242F Diesel Particulate Filter Restriction - Ash Accumulation
+P2430 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2431 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2432 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2433 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2434 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2435 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2436 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2437 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2438 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2439 Secondary Air Injection System Air Flow/Pressure Sensor Circuit
+P2440 Secondary Air Injection System Switching Valve Stuck Open
+P2441 Secondary Air Injection System Switching Valve Stuck Closed
+P2442 Secondary Air Injection System Switching Valve Stuck Open
+P2443 Secondary Air Injection System Switching Valve Stuck Closed
+P2444 Secondary Air Injection System Pump Stuck On
+P2445 Secondary Air Injection System Pump Stuck Off
+P2446 Secondary Air Injection System Pump Stuck On
+P2447 Secondary Air Injection System Pump Stuck Off
+P2448 Secondary Air Injection System High Air Flow
+P2449 Secondary Air Injection System High Air Flow
+P244A Diesel Particulate Filter Differential Pressure Too Low
+P244B Diesel Particulate Filter Differential Pressure Too High
+P244C Exhaust Temperature Too Low For Particulate Filter Regeneration
+P244D Exhaust Temperature Too High For Particulate Filter Regeneration
+P244E Exhaust Temperature Too Low For Particulate Filter Regeneration
+P244F Exhaust Temperature Too High For Particulate Filter Regeneration
+P2450 Evaporative Emission System Switching Valve Performance/Stuck
+P2451 Evaporative Emission System Switching Valve Stuck Closed
+P2452 Diesel Particulate Filter Pressure Sensor "A" Circuit
+P2453 Diesel Particulate Filter Pressure Sensor "A" Circuit
+P2454 Diesel Particulate Filter Pressure Sensor "A" Circuit Low
+P2455 Diesel Particulate Filter Pressure Sensor "A" Circuit High
+P2456 Diesel Particulate Filter Pressure Sensor "A" Circuit
+P2457 Exhaust Gas Recirculation Cooling System Performance
+P2458 Diesel Particulate Filter Regeneration Duration
+P2459 Diesel Particulate Filter Regeneration Frequency
+P245A Exhaust Gas Recirculation Cooler Bypass Control Circuit/Open
+P245B Exhaust Gas Recirculation Cooler Bypass Control Circuit
+P245C Exhaust Gas Recirculation Cooler Bypass Control Circuit Low
+P245D Exhaust Gas Recirculation Cooler Bypass Control Circuit High
+P245E Diesel Particulate Filter Pressure Sensor "B" Circuit
+P245F Diesel Particulate Filter Pressure Sensor "B" Circuit
+P2460 Diesel Particulate Filter Pressure Sensor "B" Circuit Low
+P2461 Diesel Particulate Filter Pressure Sensor "B" Circuit High
+P2462 Diesel Particulate Filter Pressure Sensor "B" Circuit
+P2463 Diesel Particulate Filter Restriction - Soot Accumulation
+P2464 Diesel Particulate Filter Differential Pressure Too Low
+P2465 Diesel Particulate Filter Differential Pressure Too High
+P2466 Exhaust Gas Temperature Sensor Circuit
+P2467 Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2468 Exhaust Gas Temperature Sensor Circuit Low
+P2469 Exhaust Gas Temperature Sensor Circuit High
+P246A Exhaust Gas Temperature Sensor Circuit Intermittent/Erratic
+P246B Vehicle Conditions Incorrect for Diesel Particulate Filter
+P246C Diesel Particulate Filter Restriction - Forced Limited Power
+P246D Diesel Particulate Filter Pressure Sensor "A"/"B" Correlation
+P246E Exhaust Gas Temperature Sensor Circuit
+P246F Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2470 Exhaust Gas Temperature Sensor Circuit Low
+P2471 Exhaust Gas Temperature Sensor Circuit High
+P2472 Exhaust Gas Temperature Sensor Circuit Intermittent/Erratic
+P2473 Exhaust Gas Temperature Sensor Circuit
+P2474 Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2475 Exhaust Gas Temperature Sensor Circuit Low
+P2476 Exhaust Gas Temperature Sensor Circuit High
+P2477 Exhaust Gas Temperature Sensor Circuit Intermittent/Erratic
+P2478 Exhaust Gas Temperature Out of Range
+P2479 Exhaust Gas Temperature Out of Range
+P247A Exhaust Gas Temperature Out of Range
+P247B Exhaust Gas Temperature Out of Range
+P247C Exhaust Gas Temperature Out of Range
+P247D Exhaust Gas Temperature Out of Range
+P247E Exhaust Gas Temperature Out of Range
+P247F Exhaust Gas Temperature Out of Range
+P2480 Exhaust Gas Temperature Sensor Circuit/Open
+P2481 Exhaust Gas Temperature Sensor Circuit Low
+P2482 Exhaust Gas Temperature Sensor Circuit High
+P2483 Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2484 Exhaust Gas Temperature Sensor Circuit Intermittent/Erratic
+P2485 Exhaust Gas Temperature Sensor Circuit/Open
+P2486 Exhaust Gas Temperature Sensor Circuit Low
+P2487 Exhaust Gas Temperature Sensor Circuit High
+P2488 Exhaust Gas Temperature Sensor Circuit Range/Performance
+P2489 Exhaust Gas Temperature Sensor Circuit Intermittent/Erratic
+P2500 Generator Lamp/L-Terminal Circuit Low
+P2501 Generator Lamp/L-Terminal Circuit High
+P2502 Charging System Voltage
+P2503 Charging System Voltage Low
+P2504 Charging System Voltage High
+P2505 ECM/PCM Power Input Signal
+P2506 ECM/PCM Power Input Signal Range/Performance
+P2507 ECM/PCM Power Input Signal Low
+P2508 ECM/PCM Power Input Signal High
+P2509 ECM/PCM Power Input Signal Intermittent
+P250A Engine Oil Level Sensor Circuit
+P250B Engine Oil Level Sensor Circuit Range/Performance
+P250C Engine Oil Level Sensor Circuit Low
+P250D Engine Oil Level Sensor Circuit High
+P250E Engine Oil Level Sensor Circuit Intermittent/Erratic
+P250F Engine Oil Level Too Low
+P2510 ECM/PCM Power Relay Sense Circuit Range/Performance
+P2511 ECM/PCM Power Relay Sense Circuit Intermittent
+P2512 Event Data Recorder Request Circuit/ Open
+P2513 Event Data Recorder Request Circuit Low
+P2514 Event Data Recorder Request Circuit High
+P2515 A/C Refrigerant Pressure Sensor "B" Circuit
+P2516 A/C Refrigerant Pressure Sensor "B" Circuit Range/Performance
+P2517 A/C Refrigerant Pressure Sensor "B" Circuit Low
+P2518 A/C Refrigerant Pressure Sensor "B" Circuit High
+P2519 A/C Request "A" Circuit
+P251A PTO Enable Switch Circuit/Open
+P251B PTO Enable Switch Circuit Low
+P251C PTO Enable Switch Circuit High
+P251D PTO Engine Shutdown Circuit/Open
+P251E PTO Engine Shutdown Circuit Low
+P251F PTO Engine Shutdown Circuit High
+P2520 A/C Request "A" Circuit Low
+P2521 A/C Request "A" Circuit High
+P2522 A/C Request "B" Circuit
+P2523 A/C Request "B" Circuit Low
+P2524 A/C Request "B" Circuit High
+P2525 Vacuum Reservoir Pressure Sensor Circuit
+P2526 Vacuum Reservoir Pressure Sensor Circuit Range/Performance
+P2527 Vacuum Reservoir Pressure Sensor Circuit Low
+P2528 Vacuum Reservoir Pressure Sensor Circuit High
+P2529 Vacuum Reservoir Pressure Sensor Circuit Intermittent
+P252A Engine Oil Quality Sensor Circuit
+P252B Engine Oil Quality Sensor Circuit Range/Performance
+P252C Engine Oil Quality Sensor Circuit Low
+P252D Engine Oil Quality Sensor Circuit High
+P252E Engine Oil Quality Circuit Intermittent/Erratic
+P252F Engine Oil Level Too High
+P2530 Ignition Switch Run Position Circuit
+P2531 Ignition Switch Run Position Circuit Low
+P2532 Ignition Switch Run Position Circuit High
+P2533 Ignition Switch Run/Start Position Circuit
+P2534 Ignition Switch Run/Start Position Circuit Low
+P2535 Ignition Switch Run/Start Position Circuit High
+P2536 Ignition Switch Accessory Position Circuit
+P2537 Ignition Switch Accessory Position Circuit Low
+P2538 Ignition Switch Accessory Position Circuit High
+P2539 Low Pressure Fuel System Sensor Circuit
+P253A PTO Sense Circuit/Open
+P253B PTO Sense Circuit Range/Performance
+P253C PTO Sense Circuit Low
+P253D PTO Sense Circuit High
+P253E PTO Sense Circuit Intermittent/Erratic
+P253F Engine Oil Deteriorated
+P2540 Low Pressure Fuel System Sensor Circuit Range/Performance
+P2541 Low Pressure Fuel System Sensor Circuit Low
+P2542 Low Pressure Fuel System Sensor Circuit High
+P2543 Low Pressure Fuel System Sensor Circuit Intermittent
+P2544 Torque Management Request Input Signal "A"
+P2545 Torque Management Request Input Signal "A" Range/Performance
+P2546 Torque Management Request Input Signal "A" Low
+P2547 Torque Management Request Input Signal "A" High
+P2548 Torque Management Request Input Signal "B"
+P2549 Torque Management Request Input Signal "B" Range/Performance
+P254A PTO Speed Selector Sensor/Switch 1 Circuit/Open
+P254B PTO Speed Selector Sensor/Switch 1 Range/Performance
+P254C PTO Speed Selector Sensor/Switch 1 Circuit Low
+P254D PTO Speed Selector Sensor/Switch 1 Circuit High
+P254E PTO Speed Selector Sensor/Switch 1 Circuit Intermittent/Erratic
+P254F Engine Hood Switch Circuit
+P2550 Torque Management Request Input Signal "B" Low
+P2551 Torque Management Request Input Signal "B" High
+P2552 Throttle/Fuel Inhibit Circuit
+P2553 Throttle/Fuel Inhibit Circuit Range/Performance
+P2554 Throttle/Fuel Inhibit Circuit Low
+P2555 Throttle/Fuel Inhibit Circuit High
+P2556 Engine Coolant Level Sensor/Switch Circuit
+P2557 Engine Coolant Level Sensor/Switch Circuit Range/Performance
+P2558 Engine Coolant Level Sensor/Switch Circuit Low
+P2559 Engine Coolant Level Sensor/Switch Circuit High
+P255A PTO Speed Selector Sensor/Switch 2 Circuit/Open
+P255B PTO Speed Selector Sensor/Switch 2 Range/Performance
+P255C PTO Speed Selector Sensor/Switch 2 Circuit Low
+P255D PTO Speed Selector Sensor/Switch 2 Circuit High
+P255E PTO Speed Selector Sensor/Switch 2 Circuit Intermittent/Erratic
+P255F A/C Request "A" Circuit Range/Performance
+P2560 Engine Coolant Level Low
+P2561 A/C Control Module Requested MIL Illumination
+P2562 Turbocharger Boost Control Position Sensor "A" Circuit
+P2563 Turbocharger Boost Control Position Sensor "A" Circuit
+P2564 Turbocharger Boost Control Position Sensor "A" Circuit Low
+P2565 Turbocharger Boost Control Position Sensor "A" Circuit High
+P2566 Turbocharger Boost Control Position Sensor "A" Circuit Intermittent
+P2567 Direct Ozone Reduction Catalyst Temperature Sensor Circuit
+P2568 Direct Ozone Reduction Catalyst Temperature Sensor Circuit
+P2569 Direct Ozone Reduction Catalyst Temperature Sensor Circuit Low
+P256A Engine Idle Speed Selector Sensor/Switch Circuit/Open
+P256B Engine Idle Speed Selector Sensor/Switch Range/Performance
+P256C Engine Idle Speed Selector Sensor/Switch Circuit Low
+P256D Engine Idle Speed Selector Sensor/Switch Circuit High
+P256E Engine Idle Speed Selector Sensor/Switch Circuit
+P256F A/C Request "B" Circuit Range/Performance
+P2570 Direct Ozone Reduction Catalyst Temperature Sensor Circuit High
+P2571 Direct Ozone Reduction Catalyst Temperature Sensor Circuit
+P2572 Direct Ozone Reduction Catalyst Deterioration Sensor Circuit
+P2573 Direct Ozone Reduction Catalyst Deterioration Sensor Circuit
+P2574 Direct Ozone Reduction Catalyst Deterioration Sensor Circuit Low
+P2575 Direct Ozone Reduction Catalyst Deterioration Sensor Circuit High
+P2576 Direct Ozone Reduction Catalyst Deterioration Sensor Circuit
+P2577 Direct Ozone Reduction Catalyst Efficiency Below Threshold
+P2578 Turbocharger Speed Sensor Circuit
+P2579 Turbocharger Speed Sensor Circuit Range/Performance
+P257A Vacuum Reservoir Control Circuit/Open
+P257B Vacuum Reservoir Control Circuit Low
+P257C Vacuum Reservoir Control Circuit High
+P257D Engine Hood Switch Circuit Range/Performance
+P257E Engine Hood Switch Circuit Low
+P257F Engine Hood Switch Circuit High
+P2580 Turbocharger Speed Sensor Circuit Low
+P2581 Turbocharger Speed Sensor Circuit High
+P2582 Turbocharger Speed Sensor Circuit Intermittent
+P2583 Cruise Control Front Distance Range Sensor
+P2584 Fuel Additive Control Module Requested MIL Illumination
+P2585 Fuel Additive Control Module Warning Lamp Request
+P2586 Turbocharger Boost Control Position Sensor "B" Circuit
+P2587 Turbocharger Boost Control Position Sensor "B" Circuit
+P2588 Turbocharger Boost Control Position Sensor "B" Circuit Low
+P2589 Turbocharger Boost Control Position Sensor "B" Circuit High
+P258A Vacuum Pump Control Circuit/Open
+P258B Vacuum Pump Control Range/Performance
+P258C Vacuum Pump Control Circuit Low
+P258D Vacuum Pump Control Circuit High
+P258E PTO Enable Switch Performance
+P258F Torque Management Request Output Signal
+P2590 Turbocharger Boost Control Position Sensor "B" Circuit
+P2591 Cruise Control Front Distance Range Sensor
+P2592 Cruise Control Front Distance Range Sensor
+P2700 Transmission Friction Element "A" Apply Time Range/Performance
+P2701 Transmission Friction Element "B" Apply Time Range/Performance
+P2702 Transmission Friction Element "C" Apply Time Range/Performance
+P2703 Transmission Friction Element "D" Apply Time Range/Performance
+P2704 Transmission Friction Element "E" Apply Time Range/Performance
+P2705 Transmission Friction Element "F" Apply Time Range/Performance
+P2706 Shift Solenoid "F"
+P2707 Shift Solenoid "F" Performance/Stuck Off
+P2708 Shift Solenoid "F" Stuck On
+P2709 Shift Solenoid "F" Electrical
+P2710 Shift Solenoid "F" Intermittent
+P2711 Unexpected Mechanical Gear Disengagement
+P2712 Hydraulic Power Unit Leakage
+P2713 Pressure Control Solenoid "D"
+P2714 Pressure Control Solenoid "D" Performance/Stuck Off
+P2715 Pressure Control Solenoid "D" Stuck On
+P2716 Pressure Control Solenoid "D" Electrical
+P2717 Pressure Control Solenoid "D" Intermittent
+P2718 Pressure Control Solenoid "D" Control Circuit/Open
+P2719 Pressure Control Solenoid "D" Control Circuit Range/Performance
+P2720 Pressure Control Solenoid "D" Control Circuit Low
+P2721 Pressure Control Solenoid "D" Control Circuit High
+P2722 Pressure Control Solenoid "E"
+P2723 Pressure Control Solenoid "E" Performance/Stuck Off
+P2724 Pressure Control Solenoid "E" Stuck On
+P2725 Pressure Control Solenoid "E" Electrical
+P2726 Pressure Control Solenoid "E" Intermittent
+P2727 Pressure Control Solenoid "E" Control Circuit/Open
+P2728 Pressure Control Solenoid "E" Control Circuit Range/Performance
+P2729 Pressure Control Solenoid "E" Control Circuit Low
+P2730 Pressure Control Solenoid "E" Control Circuit High
+P2731 Pressure Control Solenoid "F"
+P2732 Pressure Control Solenoid "F" Performance/Stuck Off
+P2733 Pressure Control Solenoid "F" Stuck On
+P2734 Pressure Control Solenoid "F" Electrical
+P2735 Pressure Control Solenoid "F" Intermittent
+P2736 Pressure Control Solenoid "F" Control Circuit/Open
+P2737 Pressure Control Solenoid "F" Control Circuit Range/Performance
+P2738 Pressure Control Solenoid "F" Control Circuit Low
+P2739 Pressure Control Solenoid "F" Control Circuit High
+P273A Transmission Friction Element "G" Apply Time Range/Performance
+P273B Transmission Friction Element "H" Apply Time Range/Performance
+P2740 Transmission Fluid Temperature Sensor "B" Circuit"
+P2741 Transmission Fluid Temperature Sensor "B" Circuit
+P2742 Transmission Fluid Temperature Sensor "B" Circuit Low
+P2743 Transmission Fluid Temperature Sensor "B" Circuit High
+P2744 Transmission Fluid Temperature Sensor "B" Circuit Intermittent
+P2745 Intermediate Shaft Speed Sensor "B" Circuit
+P2746 Intermediate Shaft Speed Sensor "B" Circuit Range/Performance
+P2747 Intermediate Shaft Speed Sensor "B" Circuit no Signal
+P2748 Intermediate Shaft Speed Sensor "B" Circuit Intermittent
+P2749 Intermediate Shaft Speed Sensor "C" Circuit
+P2750 Intermediate Shaft Speed Sensor "C" Circuit Range/Performance
+P2751 Intermediate Shaft Speed Sensor "C" Circuit no Signal
+P2752 Intermediate Shaft Speed Sensor "C" Circuit Intermittent
+P2753 Transmission Fluid Cooler Control Circuit/Open
+P2754 Transmission Fluid Cooler Control Circuit Low
+P2755 Transmission Fluid Cooler Control Circuit High
+P2756 Torque Converter Clutch Pressure Control Solenoid
+P2757 Torque Converter Clutch Pressure Control Solenoid Control Circuit
+P2758 Torque Converter Clutch Pressure Control Solenoid Control Circuit
+P2759 Torque Converter Clutch Pressure Control Solenoid Control Circuit
+P2760 Torque Converter Clutch Pressure Control Solenoid Control Circuit
+P2761 Torque Converter Clutch Pressure Control Solenoid Control
+P2762 Torque Converter Clutch Pressure Control Solenoid Control Circuit
+P2763 Torque Converter Clutch Pressure Control Solenoid Control Circuit
+P2764 Torque Converter Clutch Pressure Control Solenoid Control Circuit
+P2765 Input/Turbine Speed Sensor "B" Circuit
+P2766 Input/Turbine Speed Sensor "B" Circuit Range/Performance
+P2767 Input/Turbine Speed Sensor "B" Circuit no Signal
+P2768 Input/Turbine Speed Sensor "B" Circuit Intermittent
+P2769 Torque Converter Clutch Circuit Low
+P2770 Torque Converter Clutch Circuit High
+P2771 Four Wheel Drive (4WD) Low Switch Circuit
+P2772 Four Wheel Drive (4WD) Low Switch Circuit Range/Performance
+P2773 Four Wheel Drive (4WD) Low Switch Circuit Low
+P2774 Four Wheel Drive (4WD) Low Switch Circuit High
+P2775 Upshift Switch Circuit Range/Performance
+P2776 Upshift Switch Circuit Low
+P2777 Upshift Switch Circuit High
+P2778 Upshift Switch Circuit Intermittent/Erratic
+P2779 Downshift Switch Circuit Range/Performance
+P2780 Downshift Switch Circuit Low
+P2781 Downshift Switch Circuit High
+P2782 Downshift Switch Circuit Intermittent/Erratic
+P2783 Torque Converter Temperature Too High
+P2784 Input/Turbine Speed Sensor "A"/"B" Correlation
+P2785 Clutch Actuator Temperature Too High
+P2786 Gear Shift Actuator Temperature Too High
+P2787 Clutch Temperature Too High
+P2788 Auto Shift Manual Adaptive Learning at Limit
+P2789 Clutch "A" Adaptive Learning at Limit
+P278A Kick Down Switch Circuit
+P278B Kick Down Switch Circuit Range/Performance
+P278C Kick Down Switch Circuit Low
+P278D Kick Down Switch Circuit High
+P278E Kick Down Switch Circuit Intermittent/Erratic
+P278F Clutch "B" Adaptive Learning at Limit
+P2790 Gate Select Direction Circuit
+P2791 Gate Select Direction Circuit Low
+P2792 Gate Select Direction Circuit High
+P2793 Gear Shift Direction Circuit
+P2794 Gear Shift Direction Circuit Low
+P2795 Gear Shift Direction Circuit High
+P2796 AUXILIARY Transmission Fluid Pump Control Circuit/Open
+P2797 AUXILIARY Transmission Fluid Pump Performance
+P2798 AUXILIARY Transmission Fluid Pump Control Circuit Low
+P2799 AUXILIARY Transmission Fluid Pump Control Circuit High
+P279A Transfer Case Gear High Incorrect Ratio
+P279B Transfer Case Gear Low Incorrect Ratio
+P279C Transfer Case Gear Neutral Incorrect Ratio
+P279D Four Wheel Drive (4WD) Range Signal Circuit
+P279E Four Wheel Drive (4WD) Range Signal Circuit Range/Performance
+P279F Four Wheel Drive (4WD) Range Signal Circuit Low
+P27A0 Four Wheel Drive (4WD) Range Signal Circuit High
+P2800 Transmission Range Sensor "B" Circuit (PRNDL Input)
+P2801 Transmission Range Sensor "B" Circuit Range/Performance
+P2802 Transmission Range Sensor "B" Circuit Low
+P2803 Transmission Range Sensor "B" Circuit High
+P2804 Transmission Range Sensor "B" Circuit Intermittent
+P2805 Transmission Range Sensor "A"/"B" Correlation
+P2806 Transmission Range Sensor Alignment
+P2807 Pressure Control Solenoid "G"
+P2808 Pressure Control Solenoid "G" Performance/Stuck Off
+P2809 Pressure Control Solenoid "G" Stuck On
+P280A Transmission Range Sensor "A" Circuit not Learned
+P280B Transmission Range Sensor "B" Circuit not Learned
+P2810 Pressure Control Solenoid "G" Electrical
+P2811 Pressure Control Solenoid "G" Intermittent
+P2812 Pressure Control Solenoid "G" Control Circuit/Open
+P2813 Pressure Control Solenoid "G" Control Circuit Range/Performance
+P2814 Pressure Control Solenoid "G" Control Circuit Low
+P2815 Pressure Control Solenoid "G" Control Circuit High
+P2816 Pressure Control Solenoid "H"
+P2817 Pressure Control Solenoid "H" Performance/Stuck Off
+P2818 Pressure Control Solenoid "H" Stuck On
+P2819 Pressure Control Solenoid "H" Electrical
+P281A Pressure Control Solenoid "H" Intermittent
+P281B Pressure Control Solenoid "H" Control Circuit/Open
+P281C Pressure Control Solenoid "H" Control Circuit Range/Performance
+P281D Pressure Control Solenoid "H" Control Circuit Low
+P281E Pressure Control Solenoid "H" Control Circuit High
+P281F Pressure Control Solenoid "J"
+P2820 Pressure Control Solenoid "J" Performance/Stuck Off
+P2821 Pressure Control Solenoid "J" Stuck On
+P2822 Pressure Control Solenoid "J" Electrical
+P2823 Pressure Control Solenoid "J" Intermittent
+P2824 Pressure Control Solenoid "J" Control Circuit/Open
+P2825 Pressure Control Solenoid "J" Control Circuit Range/Performance
+P2826 Pressure Control Solenoid "J" Control Circuit Low
+P2827 Pressure Control Solenoid "J" Control Circuit High
+P2828 Pressure Control Solenoid "K"
+P2829 Pressure Control Solenoid "K" Performance/Stuck Off
+P282A Pressure Control Solenoid "K" Stuck On
+P282B Pressure Control Solenoid "K" Electrical
+P282C Pressure Control Solenoid "K" Intermittent
+P282D Pressure Control Solenoid "K" Control Circuit/Open
+P282E Pressure Control Solenoid "K" Control Circuit Range/Performance
+P282F Pressure Control Solenoid "K" Control Circuit Low
+P2830 Pressure Control Solenoid "K" Control Circuit High
+P2831 Shift Fork "A" Position Circuit
+P2832 Shift Fork "A" Position Circuit Range/Performance
+P2833 Shift Fork "A" Position Circuit Low
+P2834 Shift Fork "A" Position Circuit High
+P2835 Shift Fork "A" Position Circuit Intermittent
+P2836 Shift Fork "B" Position Circuit
+P2837 Shift Fork "B" Position Circuit Range/Performance
+P2838 Shift Fork "B" Position Circuit Low
+P2839 Shift Fork "B" Position Circuit High
+P283A Shift Fork "B" Position Circuit Intermittent
+P283B Shift Fork "C" Position Circuit
+P283C Shift Fork "C" Position Circuit Range/Performance
+P283D Shift Fork "C" Position Circuit Low
+P283E Shift Fork "C" Position Circuit High
+P283F Shift Fork "C" Position Circuit Intermittent
+P2840 Shift Fork "D" Position Circuit
+P2841 Shift Fork "D" Position Circuit Range/Performance
+P2842 Shift Fork "D" Position Circuit Low
+P2843 Shift Fork "D" Position Circuit High
+P2844 Shift Fork "D" Position Circuit Intermittent
+P2845 Shift Fork "A" Position Sensor Incorrect Neutral Position Indicated
+P2846 Shift Fork "B" Position Sensor Incorrect Neutral Position Indicated
+P2847 Shift Fork "C" Position Sensor Incorrect Neutral Position Indicated
+P2848 Shift Fork "D" Position Sensor Incorrect Neutral Position Indicated
+P2849 Shift Fork "A" Stuck
+P284A Shift Fork "B" Stuck
+P284B Shift Fork "C" Stuck
+P284C Shift Fork "D" Stuck
+P284D Shift Fork "A" Unrequested Movement
+P284E Shift Fork "B" Unrequested Movement
+P284F Shift Fork "C" Unrequested Movement
+P2850 Shift Fork "D" Unrequested Movement
+P2851 Shift Fork Position Sensor "A"/"B" Correlation
+P2852 Shift Fork Position Sensor "C"/"D" Correlation
+P2853 Clutch "A" Pressure Discharge Performance
+P2854 Clutch "B" Pressure Discharge Performance
+P2855 Clutch "A" Pressure Charge Performance
+P2856 Clutch "B" Pressure Charge Performance
+P2857 Clutch "A" Pressure Engagement Performance
+P2858 Clutch "B" Pressure Engagement Performance
+P2859 Clutch "A" Pressure Disengagement Performance
+P285A Clutch "B" Pressure Disengagement Performance
+P2A00 O2 Sensor Circuit Range/Performance
+P2A01 O2 Sensor Circuit Range/Performance
+P2A02 O2 Sensor Circuit Range/Performance
+P2A03 O2 Sensor Circuit Range/Performance
+P2A04 O2 Sensor Circuit Range/Performance
+P2A05 O2 Sensor Circuit Range/Performance
+P2A06 O2 Sensor Negative Voltage
+P2A07 O2 Sensor Negative Voltage
+P2A08 O2 Sensor Negative Voltage
+P2A09 O2 Sensor Negative Voltage
+P2A10 O2 Sensor Negative Voltage
+P2A11 O2 Sensor Negative Voltage
+P2BA7 nox Exceedence - Empty Reagent Tank
+P2BA8 nox Exceedence - Interruption of Reagent Dosing Activity
+P2BA9 nox Exceedence - Insufficient Reagent Quality
+P2BAA nox Exceedence - Low Reagent Consumption
+P2BAB nox Exceedence - Incorrect EGR Flow
+P2BAC nox Exceedence - Deactivation of EGR
+P2BAD nox Exceedence - Root Cause Unknown
+P2BAE nox Exceedence - nox control monitoring system
+P2BA7 nox Exceedence - Empty Reagent Tank
+P2BA8 nox Exceedence - Interruption of Reagent Dosing Activity
+P2BA9 nox Exceedence - Insufficient Reagent Quality
+P2BAA nox Exceedence - Low Reagent Consumption
+P2BAB nox Exceedence - Incorrect EGR Flow
+P2BAC nox Exceedence - Deactivation of EGR
+P2BAD nox Exceedence - Root Cause Unknown
+P2BAE nox Exceedence - nox control monitoring system

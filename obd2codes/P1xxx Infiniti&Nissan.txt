@@ -1,0 +1,177 @@
+P1031 Heated oxygen sensor (H02S), bank 1, heater – voltage low
+P1032 Heated oxygen sensor (H02S), bank 1, heater – voltage high
+P1051 Heated oxygen sensor (H02S), bank 2, heater – voltage low
+P1052 Heated oxygen sensor (H02S), bank 2, heater – voltage high
+P1065 Engine control module (ECM) – battery voltage supply
+P1078 Camshaft position (CMP) sensor, exhaust – low voltage
+P1084 Camshaft position (CMP) sensor, exhaust – high voltage
+P1087 VVEL Small Event Angle Malfunction Bank 1
+P1088 VVEL Small Event Angle Malfunction Bank 2
+P1089 VVEL Control Shaft Position Sensor Bank 1 Circuit
+P1090 VVEL Actuator Motor Bank 1
+P1091 VVEL Actuator Motor Relay Circuit
+P1092 VVEL Control Shaft Position Sensor Bank 2 Circuit
+P1093 VVEL Actuator Motor Bank 2
+P1102 Mass air flow (MAF) sensor – performance problem
+P1103 MAP Sensor High Voltage
+P1104 MAP Sensor Low Voltage
+P1105 MAP - BARO switching valve - circuit malfunction
+P1110 Intake valve timing control solenoid, bank 1 – malfunction
+P1111 Intake valve timing control solenoid, bank 1 – circuit malfunction
+P1119 Engine coolant temperature (ECT) sensor, radiator – circuit malfunction
+P1120 Throttle position (TP) circuit malfunction
+P1121 Throttle motor – malfunction
+P1122 Throttle motor – circuit malfunction
+P1123 Throttle motor relay – circuit malfunction
+P1124 Throttle motor – short circuit
+P1125 Throttle position (TP) sensor 1 & 2 - signal malfunction
+P1126 Throttle motor – open circuit
+P1128 Throttle motor – short circuit
+P1130 Intake manifold air control solenoid – malfunction
+P1131 Intake manifold air control solenoid – malfunction
+P1132 Swirl Control Valve Circuit
+P1135 Intake valve timing control solenoid, bank 2 – malfunction
+P1136 Intake valve timing control solenoid, bank 2 – circuit malfunction
+P1137 Swirl Control Valve Control Position Sensor Circuit
+P1138 Swirl Control Valve Control System Performance
+P1140 Camshaft position (CMP) actuator LH – circuit malfunction
+P1143 Heated oxygen sensor (H02S) 1, bank 1 – voltage low
+P1144 Heated oxygen sensor (H02S) 1, bank 1 – voltage high
+P1145 Camshaft position (CMP) actuator RH – circuit malfunction
+P1146 Heated oxygen sensor (H02S) 2, bank 1 – voltage low
+P1147 Heated oxygen sensor (H02S) 2, bank 1 – voltage high
+P1148 Closed loop control, bank 1 – inoperative
+P1163 Heated oxygen sensor (H02S)
+P1164 Heated oxygen sensor (H02S) 1, bank 2 – voltage high
+P1165 Intake manifold air control system -vacuum check switch circuit malfunction
+P1166 Heated oxygen sensor (H02S) 2, bank 2 – voltage high
+P1167 Heated oxygen sensor (H02S) 2, bank 2 – voltage high
+P1168 Closed loop control LH – inoperative
+P1195 Engine Does Not Start
+P1196 Poor Engine Power
+P1197 Low Input From Fuel Level Sensor
+P1210 Traction control system - malfunction
+P1211 ABS/TCS control module – communication malfunction
+P1212 ABS/TCS control module – circuit malfunction
+P1217 Engine over temperature
+P1220 Fuel pump control module – circuit malfunction
+P1223 Throttle position (TP) sensor 2 -voltage low
+P1224 Throttle position (TP).sensor 2 – voltage high
+P1225 Throttle motor position sensor – learning problem, voltage low
+P1226 Throttle motor position sensor – learning problem
+P1227 Accelerator pedal position (APP) sensor 2 – voltage low
+P1228 Accelerator pedal position (APP) sensor 2 – voltage high
+P1229 Engine control module (ECM) – sensor supply voltage low/high
+P1233 Electronic throttle control – performance
+P1234 Throttle motor position sensor – learning problem, voltage low, bank 2
+P1235 Throttle motor position sensor – learning problem, bank 2
+P1236 Throttle control motor – short circuit
+P1238 Throttle control motor – malfunction
+P1239 Throttle position (TP) – performance
+P1271 Heated oxygen sensor (H02S), bank 1 – voltage low
+P1272 Heated oxygen sensor (H02S), bank 1 – voltage high
+P1273 Heated oxygen sensor (H02S), bank 1 – lean mixture
+P1274 Heated oxygen sensor (H02S), bank 1 – rich mixture
+P1276 Heated oxygen sensor (H02S), bank 1 – activity
+P1277 Air Fuel Ratio Sensor 1 Bank 1 Circuit Slow Response
+P1278 Heated oxygen sensor (H02S), bank 1 – slow response
+P1279 Heated oxygen sensor (H02S), bank 1 – slow response
+P1281 Heated oxygen sensor (H02S), bank 2 – voltage low
+P1282 Heated oxygen sensor (H02S), bank 2 – voltage high
+P1283 Heated oxygen sensor (H02S), bank 2 – lean mixture
+P1284 Heated oxygen sensor (H02S), bank 2 – rich mixture
+P1286 Heated oxygen sensor (H02S), bank 2 – activity
+P1288 Heated oxygen sensor (H02S), bank 2 – slow response
+P1289 Heated oxygen sensor (H02S), bank 2 – slow response
+P1290 Throttle control motor relay – voltage low
+P1320 Ignition signal – circuit malfunction
+P1335 Crankshaft position (CKP) sensor – circuit malfunction
+P1336 Crankshaft position (CKP) sensor- signal malfunction
+P1400 Exhaust gas recirculation (EGR) valve - voltage incorrect
+P1401 Exhaust gas recirculation temperature (EGRT) sensor – circuit malfunction
+P1402 Exhaust gas recirculation (EGR) system – excessive flow
+P1421 Cold start emission control – malfunction
+P1440 Evaporative emission (EVAP) canister purge control system – small leak
+P1441 Evaporative emission (EVAP) canister purge control system – small leak
+P1442 Evaporative emission (EVAP) canister purge system – small leak
+P1443 Evaporative emission (EVAP) canister purge control system - circuit malfunction
+P1444 Evaporative emission (EVAP) canister purge control system – malfunction
+P1445 Evaporative emission (EVAP) canister purge control valve - circuit malfunction
+P1446 Evaporative emission (EVAP) canister purge control valve – malfunction
+P1447 Evaporative emission (EVAP) canister purge control system – malfunction
+P1448 Evaporative emission (EVAP) canister purge control valve – malfunction
+P1456 Evaporative emission (EVAP) canister purge system – very small leak
+P1464 Fuel gauge tank sensor- voltage high
+P1480 Engine coolant blower motor control – circuit malfunction
+P1490 Evaporative emission (EVAP) canister purge control system – malfunction
+P1491 Evaporative emission (EVAP) canister purge control system – malfunction
+P1492 Evaporative emission (EVAP) canister purge control valve - malfunction
+P1493 Evaporative emission (EVAP) canister purge control valve - malfunction
+P1550 Battery condition sensor – malfunction
+P1551 Battery condition sensor – low voltage
+P1552 Battery condition sensor – high voltage
+P1553 Battery condition sensor – signal too high
+P1554 Battery condition sensor – signal too low
+P1564 Cruise control master switch – circuit malfunction
+P1568 Cruise control master switch – signal out of specification
+P1572 Cruise control brake pedal switch – circuit malfunction
+P1574 Cruise control vehicle speed sensor – signal malfunction
+P1605 AT diagnosis communication -signal failure
+P1610 Ignition key/engine control module (ECM) – malfunction
+P1611 Immobilizer control module/engine control module (ECM) – coding
+P1612 Immobilizer control module/engine control module (ECM) communication – malfunction
+P1613 Engine control module (ECM), immobilizer function – internal failure
+P1614 Immobilizer control module/module coding plug communication – no signal
+P1615 Ignition key/immobilizer control module communication – malfunction
+P1700 CVT shift control – malfunction
+P1701 Transmission Control Module Power Supply
+P1702 Transmission Control Module RAM
+P1703 Transmission Control Module ROM
+P1704 Transmission Control Module
+P1705 AT- throttle position (TP) sensor- voltage high or low
+P1706 Park/neutral position (PNP) switch – circuit malfunction
+P1710 Automatic Transmission Fluid Temperature Sensor Circuit.
+P1715 Automatic transmission turbine shaft speed (TSS) sensor- circuit malfunction
+P1716 AT – turbine revolution sensor- circuit malfunction
+P1720 Vehicle speed sensor (VSS) – signal variation
+P1721 Vehicle Speed Sensor MTR
+P1722 Estimated Vehicle Speed Signal
+P1726 Electric Throttle Control System
+P1730 AT- fail safe function -circuit malfunction
+P1731 A/T 1st Engine Brake
+P1740 CVT lock-up select solenoid valve – malfunction
+P1752 AT – input clutch – solenoid valve malfunction
+P1754 AT- input clutch- solenoid valve malfunction
+P1757 AT- front brake- solenoid valve malfunction
+P1759 AT -front brake – solenoid valve malfunction
+P1760 AT- overrun clutch solenoid – voltage low
+P1762 AT- direct clutch- solenoid valve malfunction
+P1764 AT- direct clutch – solenoid valve malfunction
+P1767 AT- high/low reverse solenoid valve – malfunction
+P1769 AT – high/low reverse solenoid valve – malfunction
+P1772 AT – low coast brake solenoid valve – malfunction
+P1774 AT – low coast brake solenoid valve – malfunction
+P1775 Torque Converter Clutch Solenoid Valve
+P1776 Ignition Retard Request Duration Fault
+P1777 CVT step motor – circuit malfunction
+P1778 CVT step motor – mechanical malfunction
+P1780 AT- shift change – signal malfunction
+P1800 Intake manifold air control solenoid – circuit malfunction
+P1801 Variable Intake Air System Control Solenoid Valve 2
+P1805 Brake pedal position (BPP) switch – circuit malfunction
+P1807 Vehicle Speed Sensor A/T
+P1808 Vehicle Speed Sensor ABS
+P1810 4 LO Switch
+P1813 4WD Shift Switch
+P1814 Wait Detection Switch
+P1815 Manual Mode Switch
+P1816 Park/Neutral Position Switch
+P1817 Actuator Motor
+P1818 Actuator Position Switch
+P1819 Transfer Control Device
+P1820 Engine Speed Signal
+P1841 Automatic Transmission Fluid Pressure Switch 1
+P1843 Automatic Transmission Fluid Pressure Switch 3
+P1845 Automatic Transmission Fluid Pressure Switch 5
+P1846 Automatic Transmission Fluid Pressure Switch 6
+P1900 Engine coolant blower motor - circuit

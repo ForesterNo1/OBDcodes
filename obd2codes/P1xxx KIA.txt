@@ -1,0 +1,131 @@
+P1100 Manifold absolute pressure (MAP) sensor- for EGR system – circuit malfunction
+P1102 Manifold absolute pressure (MAP) sensor – for EGR system – mode 3
+P1103 Manifold absolute pressure (MAP) sensor- for EGR system – mode 2
+P1106 Manifold absolute pressure (MAP) sensor – signal high
+P1107 Manifold absolute pressure (MAP) sensor – signal low
+P1110 Electronic throttle system (ETS) – malfunction
+P1111 Intake air temperature (IAT) sensor- circuit low input intermittent
+P1112 Intake air temperature (IAT) sensor- circuit high input intermittent
+P1114 Engine coolant temperature (ECT) sensor – signal malfunction
+P1115 Engine coolant temperature (ECT) sensor – signal malfunctior:
+P1117 HO2S Circuit Low Voltage Bank 1 Sensor 2
+P1118 Electronic throttle system (ETS), throttle motor – malfunction
+P1121 AT- TP sensor signal
+P1134 Heated oxygen sensor (H02S)- front, bank 1 – signal malfunction
+P1151 Accelerator pedal position (APP) sensor – circuit malfunction
+P1152 Accelerator pedal position (APP) sensor – low input
+P1153 Accelerator pedal position (APP) sensor – high input
+P1154 Heated oxygen sensor (H02S) -front, bank 2 – signal malfunction
+P1155 Limp-home solenoid – malfunction
+P1159 Intake manifold air control actuator – circuit malfunction
+P1166 Heated oxygen sensor (H02S)- front, bank 1 – control limit
+P1167 Heated oxygen sensor (H02S) – front, bank 2 – control limit
+P1168 Heated oxygen sensor (H02S), heater- rear, bank 1 – circuit malfunction
+P1169 Heated oxygen sensor (H02S), heater- rear, bank 2 – t:ircuit malfunction
+P1170 Heated oxygen sensor (H02S) – front- no signal change
+P1171 Electronic throttle system (ETS), WOT – malfunction
+P1172 Electronic throttle system (ETS), throttle motor – circuit malfunction
+P1173 Electronic throttle system (ETS) -throttle valve command/actual throttle valve position, correlation
+P1174 Electronic throttle system (ETS), closed throttle – range/performance problem
+P1175 Electronic throttle system (ETS), closed throttle – range/performance problem
+P1176 Electronic throttle system (ETS), throttle motor – circuit 1 malfunction
+P1177 Electronic throttle system (ETS), throttle motor – circuit 2 malfunction
+P1178 Electronic throttle system (ETS) – supply voltage
+P1183 Fuel Pressure Regulator Open
+P1186 Fuel Pressure Too Low
+P1187 Fuel Pressure Monitoring - Regulator Valve Stick
+P1188 Fuel Pressure Monitoring - Leakage
+P1189 Fuel Pressure Monitoring - Governor Deviation at Engine speed Too high
+P1190 Intake Throttle Actuator Malfunction
+P1191 Electronic Throttle System Limp Home Valve On
+P1192 Limp-home solenoid – signal malfunction
+P1193 Limp-home solenoid – rpm lower than expected
+P1194 Limp-home solenoid – signal malfunction
+P1195 Manifold absolute pressure (MAP) sensor - for EGR system - circuit malfunction
+P1196 Limp-home solenoid – malfunction
+P1250 Fuel pressure regulator control solenoid – circuit malfunction
+P1252 Pressure Regulator Control Solenoid Valve No. 2 Circuit Malfunction
+P1295 Electronic throttle system (ETS) – circuit malfunction
+P1307 G-force sensor – signal malfunction
+P1308 G-force sensor – signal low
+P1309 G-force sensor – signal high
+P1330 Ignition adjustment connector – short to ground
+P1345 No Camshaft Position Sensor Signal
+P1372 Crankshaft position (CKP) sensor – signal malfunction
+P1386 Knock sensor (KS)
+P1401 EVAP system malfunction
+P1402 Evaporative emission (EVAP) leak detection module pump - circuit malfunction - Spectra 2002
+P1403 Evaporative emission (EVAP) leak detection module solenoid – circuit malfunction
+P1404 Evaporative emission (EVAP) leak detection module heater – circuit malfunction
+P1446 Evaporative emission (EVAP) leak detection module solenoid – circuit malfunction
+P1447 Evaporative emission (EVAP) leak detection module pump – circuit malfunction
+P1448 Evaporative emission (EVAP) leak detection module heater – circuit malfunction
+P1449 Evaporative emission {EVAP) canister purge valve – circuit malfunction
+P1450 Evaporative emission (EVAP) canister purge system – vacuum leak detected
+P1455 Fuel tank level sensor- circuit malfunction
+P1457 Evaporative emission (EVAP) canister purge valve (low)
+P1458 AJC compressor control – signal malfunction
+P1485 Exhaust gas recirculation (EGR) solenoid (vacuum) – circuit malfunction
+P1486 Exhaust gas recirculation (EGR) solenoid (vent) – circuit malfunction
+P1487 Manifold absolute pressure (MAP) sensor solenoid – EGR system – circuit malfunction
+P1496 Exhaust gas recirculation (EGR) valve – circuit 1 malfunction
+P1497 Exhaust gas recirculation (EGR) valve – circuit 2 malfunction
+P1498 Exhaust gas recirculation (EGR) valve – circuit 3 malfunction
+P1499 Exhaust gas recirculation (EGR) valve – circuit 4 malfunction
+P1500 Vehicle speed signal – malfunction
+P1501 Battery Temperature Too High
+P1502 Battery Not Charging
+P1503 Cruise control master switch – malfunction
+P1504 Cruise control master switch – signal malfunction
+P1505 Idle air control (lAC) valve -opening coil signal low
+P1506 Idle air control (lAC) valve – opening coil signal high
+P1507 Idle air control (lAC) valve – closing coil signal low
+P1508 Idle air control (lAC) valve – closing coil signal high
+P1510 Idle air control {lAC) valve – coil 1 -circuit malfunction
+P1511 Idle air control (lAC) valve – coil 2 – circuit malfunction
+P1521 Power steering pressure (PSP) switch – circuit malfunction
+P1523 Electronic throttle system (ETS)- malfunction
+P1529 MIL request signal – TCM to ECM
+P1550 Knock sensor (KS) – circuit malfunction
+P1560 Knock sensor (KS)/serial communication interface – circuit malfunction
+P1586 AT coding signal
+P1587 CAN Communication Error MT/AT Recognition Error
+P1602 Transmission control module (TCM) – communication malfunction
+P1603 CAN Communication Bus Error
+P1607 Engine control module (ECM)/electronic throttle system (ETS) control module – communication malfunction
+P1608 Engine control module (ECM) - malfunction
+P1609 Immobilizer – malfunction
+P1611 MIL request signal – circuit/voltage low
+P1613 Engine control module (ECM) - self test failed
+P1614 MIL request signal - circuit/voltage high
+P1615 Electronic throttle system (ETS) control module – malfunction
+P1616 Engine control relay – circuit malfunction
+P161B Engine control module (ECM)/torque information – malfunction
+P1623 Malfunction indicator lamp (MIL) – circuit malfunction
+P1624 Except Optima: MIL request signal - TCM to ECM
+P1625 Engine coolant blower motor relay high speed – circuit malfunction
+P1630 CAN Communication BUS OFF
+P1631 Generator voltage – no charge
+P1632 Battery voltage monitor - circuit malfunction
+P1633 Battery voltage – overcharging
+P1634 Generator terminal B – open circuit
+P1640 Engine control relay – voltage low/high
+P1642 Engine control module (ECM) – non immobilizer/incorrect type
+P1673 Coolant blower motor – circuit malfunction
+P1690 Immobilizer control module – malfunction
+P1691 Immobilizer read coil
+P1693 MIL - circuit malfunction
+P1694 CAN data bus, immobilizer control module – signal malfunction
+P1695 Engine control module (ECM)- EEPROM error
+P1696 Immobilizer control module – invalid data received·
+P1700 Overdrive lamp – circuit malfunction
+P1707 Cruise/brake switch – circuit malfunction
+P1765 Transmission control module (TCM)- torque reduction malfunction
+P1780 Transmission control module (TCM) – ignition advance circuit malfunction
+P1794 Supply voltage
+P1795 4WD low gear position switch- circuit malfunction
+P1797 Park/neutral position (PNP) switch – circuit malfunction
+P1800 Engine torque signal – malfunction
+P1801 Immobilizer Transponder Error
+P1802 Immobilizer Antenna Error
+P1803 Immobilizer ECU Signal Error

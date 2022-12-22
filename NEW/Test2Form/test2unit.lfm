@@ -1,0 +1,113 @@
+object Form1: TForm1
+  Left = 845
+  Height = 458
+  Top = 237
+  Width = 755
+  Caption = 'Form1'
+  ClientHeight = 458
+  ClientWidth = 755
+  DesignTimePPI = 120
+  LCLVersion = '2.2.0.4'
+  object Code: TMemo
+    Left = 368
+    Height = 137
+    Top = 264
+    Width = 352
+    Lines.Strings = (
+      'Code'
+    )
+    TabOrder = 0
+  end
+  object ComboBox1: TComboBox
+    Left = 40
+    Height = 28
+    Top = 40
+    Width = 280
+    ItemHeight = 20
+    TabOrder = 1
+    Text = 'Выберете марку автомобиля'
+  end
+  object Label1: TLabel
+    Left = 48
+    Height = 20
+    Top = 120
+    Width = 127
+    Caption = 'Введите код OBDII'
+  end
+  object ComboBox2: TComboBox
+    Left = 48
+    Height = 28
+    Top = 192
+    Width = 48
+    ItemHeight = 20
+    OnChange = ComboBox2Change
+    TabOrder = 2
+    Text = 'P'
+  end
+  object ComboBox3: TComboBox
+    Left = 112
+    Height = 28
+    Top = 192
+    Width = 53
+    ItemHeight = 20
+    TabOrder = 3
+    Text = '0'
+  end
+  object Edit1: TEdit
+    Left = 184
+    Height = 28
+    Top = 192
+    Width = 136
+    TabOrder = 4
+    Text = 'Введите код'
+  end
+  object OK: TButton
+    Left = 224
+    Height = 31
+    Top = 120
+    Width = 94
+    Caption = 'OK'
+    TabOrder = 5
+  end
+  object Carpicture: TMemo
+    Left = 52
+    Height = 137
+    Top = 264
+    Width = 268
+    Lines.Strings = (
+      'Carpicture'
+    )
+    TabOrder = 6
+  end
+  object rictureinfo: TMemo
+    Left = 368
+    Height = 177
+    Top = 64
+    Width = 352
+    Lines.Strings = (
+      'rictureinfo'
+    )
+    TabOrder = 7
+  end
+  object SETT: TComboBox
+    Left = 680
+    Height = 28
+    Top = 16
+    Width = 56
+    ItemHeight = 20
+    TabOrder = 8
+    Text = 'SETT'
+  end
+  object TabControl1: TTabControl
+    Left = 0
+    Height = 24
+    Top = 0
+    Width = 165
+    TabIndex = 1
+    Tabs.Strings = (
+      'New Tab'
+      'New Tab1'
+    )
+    TabOrder = 9
+  end
+end

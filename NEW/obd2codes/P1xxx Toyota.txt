@@ -1,0 +1,147 @@
+P1010 Oil control valve/variable valve lift – LH bank – circuit malfunction
+P1011 Oil control valve/variable valve lift – LH bank – open malfunction
+P1012 Oil control valve/variable valve lift – LH bank – close malfunction
+P101D Heated oxygen sensor (H02S) 1, bank 1 – heater circuit malfunction – stuck on
+P1023 Camshaft Position Signal Output B Circuit
+P102D Heated oxygen sensor (H02S) 2, bank 1 – heater circuit malfunction – stuck on
+P1100 BARO Sensor Circuit Malfunction
+P1115 Coolant Temperature Sensor Circuit For Heat Storage System
+P1116 Coolant Temperature Sensor Circuit Stack for Coolant Heat Storage System
+P1117 Coolant Temperature Sensor Circuit Stack for Coolant Heat Storage System
+P1118 Coolant Temperature Sensor Circuit High for Coolant Heat Storage System
+P1120 Accelerator pedal position (APP) sensor - circuit malfunction
+P1121 Accelerator pedal position (APP) sensor - range/performance problem
+P1123 Coolant Flow Control Valve Position Sensor Circuit High
+P1125 Throttle actuator control (TAC) motor - circuit malfunction
+P1126 Magnetic clutch - circuit malfunction
+P1127 Throttle actuator control (TAC) power source - circuit malfunction
+P1128 Throttle actuator control (TAC) lock - malfunction
+P1129 Throttle actuator control (TAC) system - malfunction
+P1130 Heated oxygen sensor (H02S)- LH front- range/performance malfunction
+P1133 Heated oxygen sensor (H02S) – LH front- response malfunction
+P1135 Heated oxygen sensor (H02S) – LH front – heater circuit malfunction
+P1150 Air fuel sensor - California - RH front - performance malfunction
+P1153 Air fuel sensor - California - RH front - response malfunction
+P1155 Air fuel sensor - California - RH front - heater circuit malfunction
+P1170 Port Injector Fuel Performance
+P1200 Fuel pump (FP) relay/ECM - circuit malfunction
+P1215 Electronic Driving Unit Circuit
+P1222 Throttle Motor Circuit
+P1228 Fuel Pump Malfunction
+P1229 Fuel System Over Pressure
+P1235 High Pressure Fuel Pump Circuit
+P1236 High Pressure Fuel Pump Number 2 Circuit
+P1276 Port Injector Circuit Number 1
+P1277 Port Injector Circuit Number 2
+P1278 Port Injector Circuit Number 3
+P1279 Port Injector Circuit Number 4
+P1300 Ignition control - circuit malfunction
+P1305 Ignition control - cylinder No. 2 - circuit malfunction
+P1310 Ignition control - cylinder No. 3 - circuit malfunction
+P1315 Ignition control - cylinder No. 4 - circuit malfunction
+P1320 Ignition control - cylinder No. 5 - circuit malfunction
+P1325 Ignition control - cylinder No. 6 - circuit malfunction
+P1330 Ignition control - cylinder No. 7 - circuit malfunction
+P1335 Crankshaft position (CKP) sensor - circuit malfunction
+P1340 Ignition control - cylinder No. 8 - circuit malfunction
+P1341 Camshaft Position Sensor 'A' No Signal Over 600 RPM Bank 1 Sensor 2
+P1342 Camshaft Position Sensor 'A' Low Input
+P1343 Camshaft Position Sensor 'A' High Input
+P1345 Variable valve timing sensor - LH bank - circuit malfunction
+P1346 Variable valve timing sensor - LH bank - range/performance problem
+P1349 Camshaft position (CMP) actuator system - malfunction
+P1350 Variable valve timing sensor - RH bank - circuit malfunction
+P1351 Variable valve timing sensor - RH bank - range/performance problem
+P1354 Variable valve timing system - RH bank - malfunction
+P1360 A' Camshaft Position Actuator Circuit Open/Low/High Bank 1
+P1361 A' Camshaft Position Actuator Circuit Open/Low/High Bank 2
+P1362 B' Camshaft Position Actuator Circuit Open/Low/High Bank 1
+P1363 B' Camshaft Position Actuator Circuit Open/Low/High Bank 2
+P1364 C' Camshaft Position Actuator Circuit Open/Low/High Bank 1
+P1366 E' Camshaft Position Actuator Circuit Open/Low/High Bank 1
+P1367 E' Camshaft Position Actuator Circuit Open/Low/High Bank 2
+P1400 Throttle position (TP) sensor 2 - circuit malfunction
+P1401 Throttle position (TP) sensor 2 - range/ performance problem
+P1405 Turbocharger (TC) pressure sensor - circuit malfunction
+P1406 Turbocharger (TC) pressure sensor - range/ performance problem
+P1410 Exhaust gas recirculation (EGR) valve position sensor - malfunction
+P1411 Exhaust gas recirculation (EGR) valve position sensor - range/performance problem
+P1420 EVAP Canister Small Leak
+P1421 EVAP Canister Gross Leak
+P1422 Fuel Tank Small leak
+P1423 Fuel Tank Gross Leak
+P1436 Bypass Valve Malfunction
+P1440 Secondary Air Injection Vacuum Switching Valve Circuit Malfunction Bank 1
+P1441 Secondary Air Injection System Switching Valve No.2 Stuck Open Bank 1
+P1442 Stuck Closed In Secondary Air Injection Vacuum Switching Valve Bank 1
+P1443 Secondary Air Injection Vacuum Switching Valve Circuit Malfunction Bank 2
+P1444 Secondary Air Injection System Switching Valve Stuck Open Bank 2
+P1445 Secondary Air Injection System Switching Valve Stuck Close Bank 2
+P1450 Fuel Tank Pressure Sensor
+P1451 Fuel Tank Pressure Sensor Range/Performance
+P1452 Fuel Tank Pressure Sensor Low Input
+P1453 Fuel Tank Pressure Sensor High Input
+P1455 Vapor Reducing Fuel Tank System Malfunction
+P1500 Starter signal - circuit malfunction
+P1510 Supercharger (SC) pressure control - circuit malfunction
+P1511 Turbocharger (TC) pressure - too low
+P1512 Turbocharger (TC) pressure - too high
+P1520 Stop lamp switch - signal malfunction
+P1550 Battery Current Sensor Circuit Range/Performance
+P1551 Battery Current Sensor Circuit Low Input
+P1552 Battery Current Sensor Circuit High Input
+P1555 Reactor Temperature Sensor Circuit Low
+P1556 Reactor Temperature Sensor Circuit High
+P1557 DC/DC Converter Temperature Sensor Circuit
+P1565 Cruise control switch - signal malfunction
+P1566 Cruise Control Main Switch Circuit Malfunction
+P1569 Brake system – malfunction
+P1570 Radar Sensor Malfunction
+P1572 Improper Aiming Of Radar Sensor Beam Axis
+P1575 Cruise control/skid control warning buzzer – malfunction
+P1578 Brake system – malfunction
+P1589 Acceleration Sensor Learning Value
+P1600 Engine control module (ECM) - supply voltage
+P1601 Injector Correction Circuit Malfunction
+P1602 Battery voltage monitor – malfunction
+P1603 Engine Stall History
+P1604 Startability Malfunction
+P1605 Knock control - malfunction
+P1607 Cruise Control Input Processor
+P1613 Secondary air injection (AIR) – malfunction
+P1614 Secondary air injection (AIR), bank 2 – malfunction
+P1615 CAN data bus, cruise control module – communication error
+P1616 CAN data bus, cruise control module – communication error
+P1630 Traction control system - malfunction
+P1631 Communication Error Between From ECM To VSC
+P1633 Engine control module (ECM) - throttle actuator control (TAC) system - malfunction
+P1645 Body control module - malfunction
+P1647 Transmission control module (TCM) - system malfunction
+P1652 Turbocharger (TC) 2 air control solenoid - circuit malfunction
+P1653 SCV Circuit Malfunction
+P1656 Oil control valve - circuit malfunction
+P1658 Turbocharger (TC) wastegate regulating valve - circuit malfunction
+P1661 Turbocharger (TC) 2 exhaust gas control valve - circuit malfunction
+P1662 Exhaust bypass valve - circuit malfunction
+P1663 Oil control valve/variable valve timing - RH bank - malfunction
+P1690 Oil control valve/variable valve timing - malfunction
+P1692 Variable valve timing - malfunction
+P1693 Variable valve timing - malfunction
+P1700 Output shaft speed (OSS) sensor
+P1705 AT - direct clutch speed sensor
+P1715 Rear wheel speed sensor(s) - malfunction
+P1725 Input shaft speed (ISS) sensor/turbine shaft speed (TSS) sensor - circuit malfunction
+P1730 Intermediate shaft speed sensor - AT
+P1755 Torque converter clutch (TCC) solenoid - circuit malfunction
+P1760 AT - pressure control shift solenoid
+P1765 AT - pressure control shift solenoid
+P1770 Differential lock solenoid - circuit malfunction
+P1780 Park/neutral position (PNP) switch - circuit malfunction
+P1781 Shift lever switch - malfunction
+P1782 Transfer box low ratio switch – circuit malfunction
+P1783 Transfer box neutral switch – circuit malfunction
+P1790 Shift/timing solenoid
+P1810 CAN data bus malfunction - malfunction
+P1815 Shift control solenoid - malfunction
+P1818 Shift control solenoid - circuit malfunction
+P3193 Fuel Run Out

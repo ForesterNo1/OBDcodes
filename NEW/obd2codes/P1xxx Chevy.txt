@@ -1,0 +1,506 @@
+P1011 Intake camshaft position (CMP) actuator, bank 1 -incorrect park position
+P1012 Exhaust camshaft position (CMP) actuator, bank 1-incorrect park position
+P1013 Intake Camshaft Position Actuator Park Position Bank 2
+P1014 Exhaust camshaft position (CMP) actuator, bank 2-incorrect park position
+P1031 HO2S Heater Current Monitor Control Circuit Banks 1 and 2 Sensor 1
+P1032 HO2S Heater Warm Up Control Circuit Banks 1 and 2 Sensor 1
+P1093 Fuel rail pressure (FRP) sensor, command/actualfuel pressure -signal variation
+P1094 Fuel rail pressure (FRP) sensor -signal out ofrange
+P1101 Intake airflow -incorrect
+P1105 Secondary Vacuum Sensor Circuit
+P1106 Manifold absolute pressure (MAP) sensor voltage high, intermittent
+P1107 Manifold absolute pressure (MAP) sensor voltage low, intermittent
+P1108 Manifold absolute pressure (MAP) sensor voltage high
+P1109 Secondary Port Throttle System
+P1111 Intake air temperature (IAT) sensor -voltage high, intermittent
+P1112 Intake air temperature (IAT) sensor -voltage low, intermittent
+P1113 Intake Resonance Switchover Solenoid Control Circuit
+P1114 Engine coolant temperature (ECT) sensor voltage low, intermittent
+P1115 Engine coolant temperature (ECT) sensor voltage high, intermittent
+P1116 Engine coolant temperature (EeT) sensor circuit malfunction
+P1117 Engine Coolant Temperature Signal Out-Of-Range Low
+P1118 Engine Coolant Temp. Signal Out-Of-Range High
+P1119 Engine Coolant Temperature Signal Out Of Rage
+P1120 Throttle motor position sensor 1 -circuitmalfunction
+P1121 Throttle position (TP) sensor -voltage high, intermittent
+P1122 Throttle position (TP) sensor -voltage low, intermittent
+P1125 Accelerator pedal position (APP) sensor 1/2 signal malfunction
+P1130 HO2S Circuit Low Variance Bank 1 Sensor 1
+P1131 HO2S Circuit Low Variance Bank 1 Sensor 2
+P1132 Heated oxygen sensor (H02S) 1, bank 1 signal circuit shorted to heater circuit
+P1133 Heated oxygen sensor (H02S) 1, bank 1 insufficient switching
+P1134 Heated oxygen sensor (H02S) 1, bank 1 -slow response
+P1135 HO2S Lean Mean Bank 1 Sensor 1
+P1136 HO2S Rich Mean Bank 1 Sensor 1
+P1137 Heated oxygen sensor (H02S) 2, bank 1 voltage low
+P1138 Heated oxygen sensor (H02S) 2, bank 1 voltage high
+P1139 HO2S Insufficient Switching Bank 1 Sensor 2
+P1140 HO2S Transition Time Ratio Bank 1 Sensor 2
+P1141 HO2S Heater Control Circuit Bank 1 Sensor 2
+P1143 HO2S Bank 1 Sensor 3 Lean System or Low Voltage
+P1144 HO2S Bank 1 Sensor 3 Rich or High Voltage
+P1145 HO2S Cross Counts Bank 1 Sensor 3
+P1152 Heated oxygen sensor (H02S) 1, bank 2 signal circuit shorted to heater circuit
+P1153 Heated oxygen sensor (H02S) 1, bank 2insufficient switching
+P1154 Heated oxygen sensor (H02S) 1, bank 2 slow response
+P1155 HO2S Lean Average Bank 2 Sensor 1
+P1156 HO2S Rich Average Bank 2 Sensor 1
+P1157 HO2S Bank 2 Sensor 2 Lean System Or Low Voltage
+P1158 Heated oxygen sensor (H02S) 2, bank 2 -not switching, fuel trim (FT) rich mixture
+P1159 HO2S Cross Counts Bank 2 Sensor 2
+P1161 HO2S Heater Control Circuit Bank 2 Sensor 2
+P1163 HO2S Bank 2 Sensor 3 Lean System Or Low Voltage
+P1164 HO2S Bank 2 Sensor 3 Rich Or High Voltage
+P1165 HO2S Cross Counts Bank 2 Sensor 3
+P1166 Heated oxygen sensor (H02S) 2, bank 1 voltage low
+P1170 Bank To Bank Fuel TrimOffset
+P1171 Fuel system -lean during acceleration
+P1172
+Fuel level sensors, primary & secondary sensorno fuel level change during fuel
+transfer fromsecondary to primary tank
+P1174 Heated oxygen sensor (H02S) 1, bank 1 mixture variation between cylinders
+P1175 Heated oxygen sensor (H02S) 1, bank 2 mixture variation between cylinders
+P1182 Supercharger (SC) boost pressure sensor malfunction
+P1183 Supercharger (SC) boost pressure sensor voltage low
+P1184 Supercharger (SC) boost pressure sensor voltage high
+P1185 Engine Oil Temperature Sensor Circuit
+P1186 Engine Oil Temperature Sensor Circuit Performance
+P1187 Engine oil temperature (EOT) sensor -voltage low
+P1188 Engine oil temperature (EOT) sensor -voltage high
+P1189 Engine oil pressure warning lamp switch circuit malfunction
+P1190 Engine Vacuum Leak
+P1191 Intake manifold system ,-air leak
+P1200 Injectors -circuit malfunction
+P1201 Gas Mass Sensor Circuit Range/Performance
+P1202 Gas Mass Sensor Circuit Low Frequency
+P1203 Gas Mass Sensor Circuit High Frequency
+P1211 Mass Air Flow Circuit Intermittent High
+P1212 Mass Air Flow Circuit Intermittent Low
+P1214 Injection Pump Timing Offset
+P1215 Generator Driver Circuit Conditions
+P1216 Fuel Solenoid Response Time Too Short Conditions
+P1217 Fuel Solenoid Response Time Too Long
+P1218 Injection Pump Calibration Circuit
+P1219 Throttle Position Sensor Reference Voltage
+P1220 Throttle motor position sensor 2 -circuit malfunction
+P1221 Throttle motor position sensor 1/2 -signalvariation
+P1222 Injector control, circuit monitor -malfunction
+P1223 Injector 1 -circuit malfunction
+P1224 Injector 1 -circuit malfunction
+P1225 Injector Circuit Cylinder 2 Intermittent
+P1226 Injector 2 -circuit malfunction
+P1227 Injector 2 -circuit malfunction
+P1228 Injector Circuit Cylinder 3 Intermittent
+P1229 Injector 3 -circuit malfunction
+P122A Injector 3 -circuit malfunction
+P1231 Injector Circuit Cylinder 4 Intermittent
+P1232 Injector 4 -circuit malfunction
+P1233 Injector 4 -circuit malfunction
+P1234 Injector Circuit Cylinder 5 Intermittent
+P1235 Injector 5 -circuit malfunction
+P1236 Injector 5 -circuit malfunction
+P1237 Injector Circuit Cylinder 6 Intermittent
+P1238 Injector 6 -circuit malfunction
+P1239 Injector 6 -circuit malfunction
+P1240 Injector Circuit Cylinder 7 Intermittent
+P1241 Injector 7 -circuit malfunction
+P1242 Injector 7 -circuit malfunction
+P1243 Injector Circuit Cylinder 8 Intermittent
+P1244 Injector 8 -circuit malfunction
+P1245 Intake Plenum Switchover Valve
+P1247 Injector 8 -circuit malfunction
+P1248 Injector 1 Positive Voltage Control Circuit Shorted to Control Circuit
+P1249 Injector 2 Positive Voltage Control Circuit Shorted to Control Circuit
+P1250 Intake manifold heater -circuit malfunction
+P1255 Fuel pump control module -driver over-temperature
+P1257 Supercharger System Overboost
+P1258 Engine overheating
+P1260 Fuel Pump Speed Relay Control Circuit Conditions
+P1261 Injectors 1, 4, 6 & 7 -high voltage
+P1262 Injectors 2, 3, 5 & 8 -high voltage
+P1270 Engine control module (ECM), APP sensor signal-analogue/digital process malfunction
+P1271 Accelerator pedal position (APP) sensor 1/2 signal variation
+P1272 Accelerator pedal position (APP) sensor 2/3 -signal variation
+P1273 Accelerator pedal position (APP) sensor 1/3 –signal variation
+P1274 Injectors Wired Incorrectly
+P1275 Accelerator pedal position (APP) sensor 1 circuitmalfunction
+P1276 Accelerator pedal position (APP) sensor 1 rangeperformance
+P1277 Accelerator pedal position (APP) sensor 1 voltage low
+P1278 Accelerator pedal position (APP) sensor 1voltage high
+P1280 Accelerator pedal position (APP) sensor 2 circuit malfunction
+P1281 Accelerator pedal position (APP) sensor 2 range performance
+P1282 Accelerator pedal position (APP) sensor 2voltage low
+P1283 Accelerator pedal position (APP) sensor 2voltage high
+P1285 Accelerator pedal position (APP) sensor 3 circuitmalfunction
+P1286 Accelerator pedal position (APP) sensor 3 range performance
+P1287 Accelerator Pedal Position Sensor 3 Circuit Low Voltage
+P1288 Accelerator pedal position (APP) sensor 3voltage high
+P1293 Fuel injection control module -circuit malfunction bank 1
+P1294 Fuel injection control module -circuit malfunction bank 2
+P1295 Fuel injection control module -circuit malfunction bank 1
+P1296 Fuel injection control module -circuit malfunction bank 2
+P129D Ignition switch circu it 1 -low voltage
+P129F Fuel pump speed signal -incorrect
+P12A1 Fuel pump speed circuit -high duty cycle
+P12A2 Fuel pump speed circuit -performance
+P12A4 Fuel pump enable circuit voltage -low
+P12A5 Fuel pump enable circuit voltage -high
+P12A6 Fuel pump enable circuit voltage -performance
+P12A7 Fuel pump phase U-V-W circuit
+P12AO Fuel pump speed circuit -low duty cycle
+P1300 Ignition coil 1 control -feedback circuit malfunction
+P1305 Ignition coil 2 control -feedback circuitmalfunction
+P1310 Ignition coil 3 control -feedback circuitmalfunction
+P1315 Ignition coil 4 control -feedback circuitmalfunction
+P1320 IC Module 4X Reference Circuit Intermittent No Pulses
+P1321 Electronic Ignition System Fault Line
+P1322 EI System or Ignition Control Extra or Missing
+P1323 IC 24X Reference Circuit Low Frequency
+P1324 Crank RPM Too Low
+P1335 Crankshaft position (CKP) sensor -circuit malfunction
+P1336 Crankshaft position (CKP) sensor -variation notlearned
+P1345 Crankshaft Position (CKP)-Camshaft Position (CMP) Correlation
+P1346 Camshaft position actuator -circuit malfunction
+P1349 Camshaft position actuator -circuit malfunction
+P1350 Ignition control system, bypass monitor circuitmalfunction
+P1351 Ignition control system, coil -voltage high
+P1352 Ignition control system, bypass circuit voltage high
+P1353 Ignition control module (ICM) -ignition coil 3circuit voltage high
+P1354 Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 4
+P1355 Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 5
+P1356 Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 6
+P1357 Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 7
+P1358 Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 8
+P1359 Ignition Control Circuit Group 1
+P1360 Ignition Control Circuit Group 2
+P1361 Ignition control system, ignition control (IC) circuit -voltage low
+P1362 Ignition control, bypass circuit -voltage low
+P1363 Ignition control module (ICM) -ignition coil 3 circuit voltage low
+P1364 Ignition Control Cylinder 4 Not Toggling After Enable
+P1365 Ignition Control Cylinder 5 Not Toggling After Enable
+P1366 Ignition Control Cylinder 6 Not Toggling After Enable
+P1367 Ignition Control Cylinder 7 Not Toggling After Enable
+P1368 Ignition Control Cylinder 8 Not Toggling After Enable
+P1370 Ignition Control Module 4X Reference Circuit Too Many Pulses
+P1371 Ignition control reference signal. low/high resolution -low signal lost
+P1372 Crankshaft Position Sensor A-B Correlation Conditions
+P1374 Crankshaft position (CKP) sensor, high to lowresolution frequency -signal variation
+P1375 IC 24X Reference Circuit High Voltage
+P1376 Ignition Ground Circuit
+P1377 Ignition Control Module Cam Ref Pulse To 4X Ref Pulse Incorrect
+P1380
+Antilock brake system (ABS)/traction control system (TCS),
+rough road signal to engine control module (ECM) -malfunction
+P1381
+Antilock brake system (ABS)/traction control system (TCS),
+rough road signal to engine control module (ECM) -no communication
+P1390 Wheel Speed Sensor 1 G-Sensor Circuit
+P1391 Rough road sensor -signal malfunction
+P1392 Rough road sensor -voltage low
+P1393 Rough road sensor -voltage high
+P1394 Wheel Speed Sensor 1 G-Sensor Circuit Intermittent
+P1395 Wheel Speed Sensor 2 G-Sensor Circuit
+P1396 Rough road sensor -signal malfunction
+P1397 Rough road sensor -signal malfunction
+P1398 Wheel Speed Sensor 2 G-Sensor Circuit High Voltage
+P1399 Wheel Speed Sensor 2 G-Sensor Circuit Intermittent
+P1400 Cold start emission control -malfunction
+P1403 Exhaust gas recirculation (EGR) solenoid 1circuit malfunction
+P1404 Exhaust gas recirculation (EGR) valve not fully closing
+P1405 Exhaust gas recirculation (EGR) solenoid 3 circuit malfunction
+P1406 Exhaust gas recirculation (EGR) valve position sensor range performance
+P1407 EGR Air Intrusion in Exhaust Supply to EGR Valve
+P1408 Manifold absolute pressure (MAP) sensor voltageout range
+P1409 EGR Vacuum System Leak
+P1410 Evaporative emission (EVAP) canister purge valve-circuit malfunction
+P1415 Secondary air injection (AIR) system, bank 1
+P1416 Secondary air injection (AIR) system, bank 2
+P1418 Secondary Air Injection System Relay 'A' Control Circuit High
+P1420 Intake Air Low Pressure Switch Circuit Low Voltage
+P1421 Intake Air Low Pressure Switch Circuit High Voltage
+P1423 Intake Air High Pressure Switch Circuit High Voltage
+P1431 Fuel level sensor -circuit malfunction
+P1432 Fuel level sensor low voltage
+P1433 Fuel level sensor -voltage high
+P1441 Evaporative emission (EVAP) system -leak detected
+P1442 Evaporative emission (EVAP) system vacuum switch -circuit malfunction
+P1448 Diesel particulate filter (DPF) regeneration frequency -too low
+P1450 Barometric pressure (BARO) sensor -voltage outof range
+P1451 Barometric pressure (BARO) sensor performance range
+P1460 Cooling Fan Control System
+P1480 Cooling Fan 1 Control Circuit High
+P1481 Cooling Fan Speed Signal Lost
+P1482 Cooling Fan Circuit Condition
+P1483 Engine cooling system -performance
+P1484 Cooling Fan RPM Signal Malfunction
+P1500 Ignition switch, cranking signal/system voltage -circuit malfunction
+P1501 Theft Deterrent System Fault Conditions
+P1502 Theft Deterrent Fuel Enable Signal Not Received
+P1503 Theft Deterrent Fuel Enable Signal Not Correct
+P1504 Engine control module (ECM). vehicle speed sensor (VSS) output signal -circuit malfunction
+P1508 Idle air control (lAC) valve -low rpm
+P1509 Idle air control (lAC) valve -high rpm
+P1510 Engine control module (ECM), KAM supply voltage -circuit malfunction
+P1511 Throttle Control System Backup System Performance
+P1512 Throttle control unit -signal variation
+P1514 Throttle control unit, intake air flow -excessive
+P1515 Throttle command/actual throttle position -signalvariation
+P1516 Throttle command/actual throttle position signal variation
+P1517 Throttle control module -malfunction
+P1518 Throttle control. module/engine control module(ECM) -communication malfunction
+P1519 Throttle motor position sensor 1 -signal malfunction
+P1520 Park/neutral position (PNP) switch -circuit malfunction
+P1521 Transmission Engaged at High Throttle Angle
+P1522 Park/Neutral to Drive/Reverse at High RPM
+P1523 Throttle control unit, closed throttle position -performance
+P1524 Throttle Closed Position Performance
+P1525 Throttle Body Service Required
+P1526 Minimum Throttle Position Not Learned Conditions
+P1527 Throttle Position Sensor Learned Closed Throttle Degrees Out Of-Range
+P1528 Governor
+P1529 Heated Windshield Request Problem
+P1530 A/C refrigerant pressure sensor/switch -circuitmalfunction
+P1531 A/C refrigerant pressure sensor -voltage low
+P1532 AlC refrigerant temperature sensor -voltage low
+P1533 AlC refrigerant temperature sensor -voltage high
+P1534 A/C High Side Temperature Sensor Low Voltage
+P1535 A/C High Side Temperature Sensor Circuit
+P1536 Engine Coolant Overtemperature Air Conditioning Disabled
+P1537 A/C Request Circuit Low Voltage
+P1538 A/C Request Circuit High Voltage
+P1539 AlC compressor clutch relay -voltage high
+P1540 A/C System High Pressure
+P1541 A/C High Side Over Temperature
+P1542 A/C System High Pressure High Temperature
+P1543 AlC system -performance
+P1544 A/C Refrigerant Condition Very Low
+P1545 AlC compressor clutch relay -voltage low
+P1546 A/C compressor clutch relay -circuit malfunction
+P1547 A/C System Performance Degraded
+P1548 A/C Recirculation Circuit
+P154A Intake air heater -feedback circuit
+P154B Intake air heater -voltage signal circuit
+P154C Intake air heater -current signal circuit
+P154D Intake air heater -temperature signal circuit
+P1550 Cruise control system, motor actuator -circuitmalfunction
+P1551 Throttle valve -rest position incorrect
+P1554 Cruise control status circuit -high voltage
+P1555 Electronic Variable Orifice Output
+P1558 Cruise control system -performance low
+P1559 Cruise Control Power Management Mode
+P1560 Transaxle Not in Drive Cruise Control Disabled
+P1561 Cruise control, vent solenoid -circuit malfunction
+P1562 Cruise control, vacuum solenoid -circuit malfunction
+P1563 Cruise Vehicle Speed/Set Speed Difference Too High
+P1564 Cruise Control System Vehicle Acceleration Too High
+P1565 Cruise control servo position sensor -circuit malfunction
+P1566 Cruise Control System Engine RPM Too High
+P1567 Cruise control master switch -circuit malfunction
+P1568 Cruise control system -performance high
+P1569 Cruise Servo Stroke High While Not In Cruise
+P1570 Cruise Control System Traction Control Active
+P1571 Traction control system (TCS), torque request signal -malfunction
+P1572 Traction control system (TCS). active signal -malfunction
+P1573 Engine control module (ECM), antilock brake system (ASS)/traction control system (TCS)communication -malfunction
+P1574 Brake pedal position (BPP) switch, voltage high
+P1575 Brake pedal position (BPP) .switch. extended travel contacts -voltage high
+P1576 Brake Booster Vacuum Sensor Circuit High Voltage
+P1577 Brake Booster Vacuum Sensor Circuit Low Input
+P1578 Brake Booster Vacuum Sensor Circuit Low Vacuum
+P1579 P/N to D/R at High Throttle Angle - Power Reduction Mode Active
+P1580 Cruise Move Circuit Low Voltage
+P1581 Cruise Control Module Move Circuit High Input Conditions
+P1582 Cruise Control Module Direction Low Input Conditions
+P1583 Cruise Direction CircuitHigh Voltage
+P1584 Cruise Control Disabled
+P1585 Cruise control system, inhibit output circuit
+P1586 Cruise control system. brake switch 2 -circuit malfunction
+P1587 Cruise Control Clutch Control Circuit Low
+P1588 Cruise Control Clutch Control Circuit High
+P1599 Cruise control system -engine management has operated in limited power mode
+P1600 Engine control module (ECM) -malfunction
+P1601 CAN data bus, ECM/ASSITCS/instrumentation control module/diagnostic control module some communication lost
+P1602 CAN data bus -antilock brake system (ASS)/ traction control system (TCS)
+P1603 Loss Of Sensing Diagnostic Mode Data Conditions
+P1604 CAN data bus -instrument panel
+P1605 CAN data bus -A/C
+P1606 Serial Communication Problem With Device 6
+P1607 Serial Communication Problem With Device 7
+P1608 Serial Communication Problem With Device 8
+P1609 Loss Of TCS Serial Data
+P160C Glow plug control module engine calibration information -not programmed
+P1610 CAN data bus -body control module (SCM)
+P1611 Loss Of Continuous Variable Real Time Damping Serial Data Conditions
+P1612 Loss Of IPM Serial Data
+P1613 Loss Of DIM Serial Data
+P1614 Loss Of RIM Serial Data
+P1615 Loss Of VTD Serial Data
+P1617 Engine Oil Level Switch Circuit
+P1619 Engine Oil Life Monitor Reset Circuit
+P161B Throttle motor control module -performance
+P1620 Low Engine Coolant Circuit Conditions
+P1621 Engine control module (ECM) -malfunction
+P1622 Cylinder Select
+P1623 Engine control module (ECM), PROM -malfunction
+P1624 Engine control module (ECM) memory performance
+P1625 PCM Flash Checksum TCM Conditions
+P1626 Engine control module (ECM) -fuel enable signal lost
+P1627 Engine control module (ECM) -malfunction
+P1628 Powertrain Control Module Engine Control Temperature Pullup Resistor Conditions
+P1629 Engine control module (ECM) -fuel enable signal not received
+P1630 Engine control module (ECM). immobilizer code -leaming mode
+P1631 Engine control module (ECM) -incorrect immobilizer code
+P1632 Engine control module (ECM) -fuel disable signal received
+P1633 Engine control module (ECM), ignition supply voltage
+P1634 Engine control module (ECM), ignition supply voltage
+P1635 Engine control module (ECM). sensor supply voltage -circuit malfunction
+P1636 PCM Stack Overrun
+P1637 Alternator warning lamp. control signal -circuit malfunction
+P1638 Alternator ‘F’ terminal -circuit malfunction
+P1639 Engine control module (ECM). sensor supply voltage -circuit malfunction
+P1640 Engine control module, output driver 1 -supplyv oltage high
+P1641 Malfunction indicator lamp (MIL) -circuit malfunction
+P1642 Secondary air injection (AIR) pump relay circuit malfunction
+P1643 Glow plug warning lamp -circuit malfunction
+P1644 Traction control system (TCS). delivered torque signal -malfunction
+P1645 Evaporative Emission Vent Solenoid Control Circuit
+P1646 EVAP Vent Solenoid Output Circuit
+P1647 Driver 1 Line 7
+P1648 Anti-Theft Device Wrong Security Code
+P1650 Engine control module, output driver 2 -supply voltage high
+P1651 Engine coolant blower motor relay 1 -circuit malfunction
+P1652 Engine coolant blower motor relay 2 -circuit malfunction
+P1653 Engine oil level ‘low’ warning lamp, control signal -circuit malfunction
+P1654 A/C compressor clutch relay -circuit malfunction
+P1655 Evaporative emission (EVAP) canister purge valve -circuit malfunction
+P1656 Camshaft position actuator -circuit malfunction
+P1657 Skip shift solenoid -circuit malfunction
+P1658 Fuel injector control module (FICM) -malfunction
+P1660 Engine control module, output driver 3 -supply voltage high
+P1661 Malfunction indicator lamp (MIL) -circuit malfunction
+P1662 Cruise control, inhibit output circuit malfunction
+P1663 Alternator warning lamp, control signal -circuitmalfunction
+P1664 Skip shift warning lamp -circuit malfunction
+P1665 Evaporative emission (EVAP) canister vent valve -circuit malfunction
+P1666 Driver 3 Line 6
+P1667 Reverse inhibit solenoid -circuit malfunction
+P1668 Alternator ‘L’ terminal -circuit malfunction
+P1669 ABS Unit Expected
+P166B Intake air heater -over temperature
+P166C Intake air heater -resistance
+P1670 ECM -internal circuit malfunction, ignition coil
+P1671 Malfunction indicator lamp (MIL) -circuit malfunction
+P1672 Engine oil level ‘low’ warning lamp, control signal -circuit malfunction
+P1673 Engine coolant ‘hot’ waming lamp, control signal -circuit malfunction
+P1674 Tachometer -circuit malfunction
+P1675 Evaporative emission (EVAP) canister vent valve -circuit malfunction
+P1676 Evaporative emission (EVAP) canister purgevalve -circuit malfunction
+P1677 Immobilizer Function Deactivated
+P1678 Immobilizer Powertrain Identification Failed
+P1679 Immobilizer Environment Identification Failed
+P167A ECM -internal circuit malfunction, heated oxygen sensor (H02S) 1, bank 1
+P1680 Engine control module (ECM) -malfunction
+P1681 Engine control module (ECM) -malfunction
+P1682 Engine control module (ECM) -ignition power supply variation
+P1683 Engine control module (ECM) -malfunction
+P1684 Transmission Control Module Power Up Temperature Sensor Performance
+P1685 Transmission Control Module Power Up Temperature Sensor Circuit Low Voltage
+P1686 Transmission Control Module Power Up Temperature Sensor Circuit High Voltage
+P1687 Fuel injector control module (FICM) -stuck on
+P1689 Traction control system (TCS), delivered torque signal -malfunction
+P1690 Engine Control Module Loop Overrun
+P1691 Coolant Gauge Circuit Conditions
+P1692 Coolant Gauge Circuit High Voltage
+P1693 Tachometer Circuit Conditions
+P1694 Tachometer Circuit High Voltage
+P1695 Remote Keyless Entry Circuit Low Input Conditions
+P1696 Remote Keyless Entry Circuit High Input Conditions
+P16F3 Engine control module (ECM) -malfunction
+P1700 Transmission control module (TCM) -MIL request circuit malfunction
+P1701 Transmission MIL Request Circuit
+P1705 Park Neutral Output Circuit Conditions
+P1713 Transmission Fluid Pressure Sensor/Switch
+P1719 Transmission control module (TCM) -detects excessive variation between transmission input/output shaft speed sensors
+P1740 Cruise control system, overdrive disable signal -voltage low
+P1743 Throttle Position Invalid Signal
+P1760 Transaxle Control Module Supply Voltage Interrupted
+P1779 Engine control module (ECM), torque reduction signal via controller area network (CAN)data bus -out of range
+P1780 Engine control module (ECM), controller area network (CAN) data bus -lost communicationwith transmission control module (TCM)
+P1781 Engine control module (ECM), torque reduction signal -out of range
+P1790 Transmission Control Module Checksum
+P1791 Engine control module (ECM), accelerator pedal position (APP) sensor signal viacontroller area network (CAN) data bus -out of range
+P1792 Engine control module (ECM), engine coolant temperature (ECT) sensor signal viacontroller area network (CAN) data bus -out of range
+P1793 Transmission Control Module Stack Overrun
+P1795 Throttle Body Position
+P1800 ECM to TCM Engine Coolant Signal
+P1801 Performance Selector Switch Failure
+P1804 Ground Control Relay
+P1810 Transmission fluid pressure (TFP) switch manual valve position
+P1811 Shift time too long -adaptation limit reached
+P1812 Transmission Fluid Overtemperature
+P1813 Torque Control Solenoid Malfunction
+P1814 Torque converter clutch (TCC) -over-stressed
+P1815 A/T Range Sensor Circuit Malfunction
+P1816 Transmission fluid pressure (TFP) switch -invalidgear selection
+P1818 Transmission fluid pressure (TFP) switch -invalidgear selection
+P1819 Transmission range (TR) switch, signals ‘AlBIC &P’ -signal variation
+P1820 Transmission range (TR) switch, signal ‘A’ voltage low
+P1822 Transmission range (TR) switch, signal ‘B’ voltage high
+P1823 Transmission range (TR) switch, signal ‘P’ voltagelow
+P1824 Internal Mode Switch 'P' Circuit High Voltage
+P1825 Transmission range (TR) switch, signals ‘AlBIC &P’ incorrect signal
+P1826 Transmission range (TR) switch, signal ‘C’ voltage high
+P1831 PC Solenoid Power Circuit Low Voltage
+P1833 A/T Solenoids Power Circuit Low Voltage
+P1835 Kick-Down Switch Circuit
+P1836 Kick-Down Switch Failed Open
+P1837 Kick-Down Switch Failed Short
+P1838 Internal Mode Switch 'A' Circuit High Voltage
+P1839 Internal Mode Switch 'C' Circuit Low Voltage
+P1840 Internal Mode Switch 'S' Circuit Low Voltage
+P1841 Internal Mode Switch 'S' Circuit High Voltage
+P1842 1-2 Shift Solenoid Circuit Low Input Voltage
+P1843 1-2 Shift Solenoid Circuit High Input Voltage
+P1844 Transmission Fluid Pressure Sensor/Switch 'A' Circuit Intermittent
+P1845 2-3 Shift Solenoid Circuit Low Input Voltage
+P1847 2-3 Shift Solenoid Circuit High Input Voltage
+P1850 Brake Band Apply Solenoid Circuit
+P1852 Brake Band Apply Solenoid Low Input Voltage
+P1853 Brake Band Apply Solenoid High Input Voltage
+P1860 Torque converter clutch (TCC) solenoid -circuit malfunction
+P1864 Torque Converter Clutch Enable Solenoid Electrical Fault Conditions
+P1868 Transmission fluid life
+P1870 Torque converter clutch (TCC) -slip speed excessive
+P1873 Torque Converter Clutch Stator Temperature Switch Circuit Low
+P1874 Torque Converter Clutch Stator Temperature Switch Circuit High
+P1875 Transmission, 4WD low selection signal-circuit malfunction
+P1884 TCC Enable/Shift Light Circuit
+P1886 Transaxle Shift Timing Solenoid Performance
+P1887 Torque converter clutch (TCC) solenoid release switch -circuit malfunction
+P1890 Throttle Position Signal Input
+P1891 Throttle Position Sensor PWM Signal Low
+P1892 Throttle Position Sensor PWM Signal High
+P1893 Engine Torque Signal Low Voltage
+P1894 Engine Torque Signal High Voltage
+P1895 Engine Torque Delivered Circuit
+P1915 Internal Mode Switch Start/Wrong Range
+P3400 Cylinder cut-out system -malfunction
+P3401 Cylinder cut-out solenoid, cylinder 1 malfunction
+P3425 Cylinder cut-out solenoid, cylinder 4 malfunction
+P3441 Cylinder cut-out solenoid, cylinder 6 malfunction
+P3449 Cylinder cut-out solenoid, cylinder 7 malfunction
+U1000 CAN data bus -communication malfunction
+U1016 CAN data bus, engine control module (ECM)/antilock brake system (ABS)/traction control system (TCS)/instrumentation control modulel diagnostic control module -loss of serial communication
+U1026 Transmission control module (TCM)/four wheel drive control module, CAN databuscommunication malfunction
+U1040 Antilock brake system (ABS)/traction control system (TCS), CAN data bus -communication malfunction
+U1041 Antilock brake system (ABS)/traction control system (TCS), CAN data bus -communication malfunction
+U1064 . Body control module (BCM), CAN data bus -communication malfunction
+U1192 Engine control module (ECM)/immobilizer control module, CAN data bus -Signal malfunction
+U1193 Engine control module (ECM)/immobilizer control module, CAN data bus -signal malfunction
+U1300 CAN data bus -signal low
+U1301 CAN data bus -Signal high
+U1510 Lost Communication With HVAC Control Module
+U1800 Engine control module (ECM)/fuel injector control module (FICM), CAN data bus -communication malfunction
+U1802 Fuel pump control module (FPCM)communication malfunction
+U2104 Engine control module (ECM)/transmissioncontrol module (TCM)/fuel injector control module (FICM),CAN data bus communication malfunction
+U2106 Engine control module (ECM)/transmission control module (TCM)/fuel injector control module (FICM),CAN data bus communication malfunction

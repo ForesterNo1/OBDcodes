@@ -1,0 +1,127 @@
+P1020 MIVEC Performance Problem Bank 1
+P1021 Engine Oil Control Valve Circuit Bank 1
+P1022 Variable valve timing control, bank 2 – performance problem
+P1023 Valve timing control valve, bank 2 – circuit malfunction
+P1025 Valve timing control valve, exhaust – circuit malfunction
+P1100 Intake manifold air control actuator position sensor – circuit malfunction
+P1101 Traction control vacuum solenoid – circuit malfunction
+P1102 Traction control vent solenoid -circuit malfunction
+P1103 Turbocharger (TC) wastegate actuator- malfunction
+P1104 Turbocharger (TC) wastegate regulating valve – malfunction
+P1105 Fuel pressure regulator control solenoid – malfunction
+P1115 Engine coolant temperature (ECT) sensor/intake air temperature (IAT) sensor/outside air temperature sensor – signal variation
+P1128 Closed Loop Fueling Not Achieved Bank 1
+P1129 Closed Loop Fueling Not Achieved Bank 2
+P1231 Automatic stability control – implausible signal
+P1232 Throttle control fail safe mode – malfunction
+P1233 Throttle position (TP) sensor A – malfunction
+P1234 Throttle position (TP) sensor B – malfunction
+P1235 Mass air flow (MAF) sensor – malfunction
+P1236 Accelerator pedal position (APP) sensor B – malfunction
+P1237 Accelerator pedal position (APP) sensor – malfunction
+P1238 Mass air flow (MAF) sensor – malfunction
+P1239 Crankshaft position (CKP) sensor – range/performance problem
+P1240 Ignition timing error
+P1241 Torque management system – range/performance problem
+P1242 Engine RPM input – range/performance problem
+P1243 Engine control module (ECM) – processor fault
+P1244 Engine control module (ECM) – RAM error
+P1245 Engine control module (ECM) – RAM error
+P1246 Engine control module (ECM) – processor fault
+P1247 A/T Plausibility
+P1248 AWD Plausibility
+P1294 Idle Air Control Motor Circuit
+P1295 No 5 Volts To Throttle Position Sensor
+P1296 No 5 Volts to MAP Sensor
+P1297 No Change In MAP From Start To Run
+P1300 Ignition timing adjustment – circuit malfunction
+P1303 Misfiring Cylinder 3
+P1320 Ignition timing – cold start emission control
+P1390 Timing Belt Skipped 1 Tooth Or More
+P1391 Intermittent Loose Of Camshaft Position Or Crankshaft Position Sensor
+P1400 Manifold absolute pressure (MAP) sensor- circuit malfunction
+P1404 EGR Position Sensor Rationality Closed
+P1421 Clogged Or Dirty Catalyst
+P1422 Temperature Sensor Has Failed
+P1443 Evaporative emission (EVAP) canister purge system – control valve 2 circuit malfunction
+P1486 EVAP Leak Monitor Pinched Hose Found
+P1487 High Speed Radiator Fan Control Relay Condition
+P1489 High Speed Radiator Fan Control Relay Condition
+P1490 Low Speed Radiator Fan Control Relay Condition
+P1492 Battery Temperature Sensor Voltage Too high
+P1493 Battery Temperature Sensor Signal Too Low Condition
+P1494 EVAP Ventilation Switch Or Mechanical Fault
+P1495 EVAP Ventilation Solenoid Circuit
+P1496 5 Volt Supply Output Too Low
+P1500 Generator system – circuit malfunction
+P1501 Vehicle Speed Sensor 1/2 Correlation Drive Wheels
+P1502 Vehicle Speed Sensor 1/2 Correlation Non Drive Wheels
+P1506 Idle air control (lAC) valve – RPM lower than expected
+P1507 Idle air control (lAC) valve – RPM higher than expected
+P1530 A/C control module – circuit malfunction
+P1540 Radiator sensor – signal malfunction
+P1541 Radiator sensor – signal malfunction
+P1543 Radiator outlet engine temperature (ECT) – low input
+P1544 Radiator outlet engine temperature (ECT) – high input
+P1545 Radiator outlet engine temperature (ECT) – signal variation
+P1546 Radiator outlet engine temperature (ECT) – signal variation
+P1547 Radiator outlet engine temperature (ECT) – signal variation
+P1564 Cruise control master switch – malfunction
+P1571 Cruise control brake pedal switch – malfunction
+P1572 Brake Pedal Switch Circuit Malfunction
+P1573 Brake Switch Stuck Off
+P1574 Engine control module (ECM) – malfunction
+P1580 Radiator outlet engine temperature (ECT) – communication malfunction
+P1593 Cruise control system, multi-function input A – circuit stuck
+P1600 AT to ECM – signal failure
+P1601 ECM to throttle control unit – communication malfunction
+P1602 ECM to system LSI – communication malfunction
+P1603 Engine control module (ECM) – battery supply voltage
+P1603 3 Engine control module (ECM) – battery supply voltage
+P1603 4 Engine control module (ECM) – RAM link error
+P1604 Engine control module (ECM) – RAM read/write error
+P1607 Engine control module (ECM) – shut down timer error
+P1610 Immobilizer control module – circuit malfunction
+P1637 Malfunction of Memory Backup
+P1676 VIN not programmed or mismatch – ECM
+P1696 Engine control module (ECM) – EEPROM error
+P1697 Engine control module (ECM) – EEPROM error
+P1715 Automatic transmission speed sensors A and 8 – malfunction
+P1720 Vehicle speed sensor (VSS) – circuit malfunction
+P1750 AT- torque converter/shift control and pressure control solenoid valves – malfunction
+P1751 Automatic transmission – control relay malfunction
+P1768 Transaxle Control Relays Always Off
+P1791 Engine coolant temperature to TCM – signal malfunction
+P1795 Throttle position (TP) switch to TCM – signal malfunction
+P1820 Shift Fork Position Sensor 1 System Voltage Low Range Out
+P1821 Shift Fork Position Sensor 1 System Voltage High Range Out
+P1822 Shift Fork Position Sensor 1 System Output Range Out
+P1823 Shift Fork Position Sensor 1 System Neutral
+P1824 Shift Fork Position Sensor 1 System Poor Performance
+P1825 Shift Fork Position Sensor 2 System Voltage Low Range Out
+P1826 Shift Fork Position Sensor 2 System Voltage High Range Out
+P1827 Shift Fork Position Sensor 2 System Output Range Out
+P1828 Shift Fork Position Sensor 2 System Neutral
+P1829 Shift Fork Position Sensor 2 System Poor Performance
+P1831 Shift Fork Position Sensor 3 System Voltage Hihg Range Out
+P1832 Shift Fork Position Sensor 3 System Voltage High Range Out
+P1833 Shift Fork Position Sensor 3 System Neutral
+P1834 Shift Fork Position Sensor 3 System Poor Performance
+P1836 Shift Fork 1 Malfunction
+P1844 Shift Fork 3 Malfunction
+P1852 Shift Fork 1 Or 2 Opposite Direction Movement
+P1855 Shift Fork 3 Or 4 Opposite Direction Movement
+P1857 Odd Number Gear Axle Interlock
+P1858 Even Number Gear Axle Interlock
+P1859 Disengagement Too Late With Clutch 1
+P1862 High Side 1 System Overcurrent
+P1863 High Side 1 System Open Circuit
+P1864 High Side 1 System Short To Power Supply
+P1866 High Side 2 System Overcurrent
+P1867 High Side 2 System Open Circuit
+P1868 High Side 2 System
+P1876 Gear Block 1st
+P1877 Gear Block 2nd
+P1878 Gear Block 3rd
+P1879 Gear Block 4th
+P1D37 AC Input Fuse Abnormal Or AC Power Supply Equipment Abnormal (Mitsubishi)

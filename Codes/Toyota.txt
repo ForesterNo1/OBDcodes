@@ -1,0 +1,86 @@
+0	No such code
+1	Normal Condition.
+2 	Air Flow Meter signal.
+3 	Ignition signal.
+4 	Engine Coolant Temperature Sensor signal.
+5 	Oxygen Sensor.
+6 	RPM signal (Crank Angle Pulse).
+7 	Throttle Position Sensor signal.
+8 	Intake Air Temperature Sensor signal.
+9 	Vehicle Speed Sensor signal.
+10 	Starter signal.
+11	Switch signal. or ECU/ECM.
+12 	Knock Control Sensor signal or RPM signal.
+13 	Knock Control CPU (ECM).
+14	Turbocharger Pressure or Ignition signal.
+15	No such code
+16	No such code
+17	No such code
+18	No such code
+19	No such code
+20	No such code
+21 	Oxygen Sensor.
+22 	Engine Coolant Temperature Sensor signal.
+23 	Intake Air Temperature Sensor signal.
+24 	Intake Air Temperature Sensor signal.
+25 	Air-Fuel Ratio Lean.
+26 	Air-Fuel Ratio Rich.
+27 	Sub Oxygen Sensor signal.
+28 	No. 2 Oxygen Sensor signal.
+29	No such code
+30	Uncknown code
+31 	Air Flow Meter signal (Vacuum Sensor signal).
+32 	Air Flow Meter signal.
+34 	Turbocharger Pressure signal.
+35 	Turbocharger Pressure Sensor signal.
+35 	HAC Sensor signal.
+36	No such code
+37	No such code
+38	No such code
+39	No such code
+40	No such code
+41 	Throttle Position Sensor signal.
+42 	Vehicle Speed Sensor signal.
+43 	Starter signal.
+44	No such code
+45	No such code
+46	No such code
+47	No such code
+48	No such code
+49	No such code
+50	No such code
+51 	Switch signal.
+52 	Knock Sensor signal.
+53 	Knock Sensor signal.
+54 	Inter-cooler ECM signal.
+55	No such code
+56	No such code
+57	No such code
+58	No such code
+59	No such code
+60	No such code
+61	No such code
+62	No such code
+63	No such code
+64	No such code
+65	No such code
+66	No such code
+67	No such code
+68	No such code
+69	No such code
+70	No such code
+71 	EGR System.
+72 	Fuel Cut Solenoid signal.
+73	No such code
+74	No such code
+75	No such code
+76	No such code
+77	No such code
+78 	Fuel Pump Control signal.
+79	No such code
+80	No such code
+81 	TCM Communication.
+82	No such code
+83 	TCM Communication.
+84 	TCM Communication.
+85 	TCM Communication.

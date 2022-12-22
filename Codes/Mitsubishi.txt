@@ -1,0 +1,86 @@
+0	No such code
+1 	Oxygen Sensor.
+2 	Ignition Signal.
+3 	Air Flow Sensor.
+4 	Pressure Sensor.
+5 	Throttle Position Sensor.
+6 	Idle Speed Control Motor Position Switch.
+7 	Engine Coolant Temperature Sensor.
+8	No such code
+9	No such code
+10	No such code
+11 	Oxygen sensor fault.
+12 	Airflow sensor fault.
+13 	Intake air temp sensor fault.
+14 	Throttle position sensor (TPS) fault.
+15 	Idle speed control (ISC) motor position sensor fault.
+16	No such code
+17	No such code
+18	No such code
+19	No such code
+20	No such code
+21 	Coolant temp sensor fault.
+22 	Crankshaft position (CKP) sesnor fault.
+23 	Camshaft position (CMP) sensor fault.
+24 	Vehicle speed sensor (VSS) fault.
+25 	Barometric (BARO) pressure sensor fault.
+26	No such code
+27	No such code
+28	No such code
+29	No such code
+30	No such code
+31 	Knock sensor fault.
+32 	MAP sensor faulty.
+33	No such code
+34	No such code
+35	No such code
+36 	Ignition timing adjustment signal fault.
+37	No such code
+38	No such code
+39 	Oxygen (O2) sensor fault.
+40	No such code
+41 	Injector(s) fault
+42 	Fuel pump fault.
+43 	EGR fault.
+44 	Ignition coil (cylinders #1 & #4) fault.
+45	No such code
+46	No such code
+47	No such code
+48	No such code
+49	No such code
+50	No such code
+51	No such code
+52 	Ignition coil (cylinders #2 & #5) fault.
+53 	Ignition coil (cylinders #3 & #6) fault.
+54	No such code
+55 	Idle air control (IAC) valve position sensor fault.
+56	No such code
+57	No such code
+58	No such code
+59 	Rear Oxygen (O2) sesnor fault.
+60	No such code
+61 	Transaxle control module torque reduction signal fault.
+62 	Variable Induction control (VIC) valve position sensor fault.
+63	No such code
+64	No such code
+65	No such code
+66	No such code
+67	No such code
+68	No such code
+69	No such code
+70	No such code
+71 	Traction control (TC) vacuum valve solenoid fault.
+72 	Traction Control (TC) vent valve solenoid fault.
+73	No such code
+74	No such code
+75	No such code
+76	No such code
+77	No such code
+78	No such code
+79	No such code
+80	No such code
+81	No such code
+82	No such code
+83	No such code
+84	No such code
+85	No such code

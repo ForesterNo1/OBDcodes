@@ -1,0 +1,595 @@
+U0001 Controller area network (CAN) data bus: high speed bus/communication control module
+U0002 Controller area network (CAN) data bus: high speed bus - performance problem/ configuration error
+U0003 Controller area network (CAN) data bus: high speed bus(+)- open circuit
+U0004 Controller area network (CAN) data bus: high speed bus(+)- voltage low
+U0005 Controller area network (CAN) data bus: high speed bus(+)- voltage high
+U0006 Controller area network (CAN) data bus: high speed bus(-)- open circuit
+U0007 Controller area network (CAN) data bus: high speed bus (-)-voltage low
+U0008 Controller area network (CAN) data bus: high speed bus(-)- voltage high
+U0009 Controller area network (CAN) data bus: high speed bus (-)-shorted to data bus(+)
+U0010 Controller area network (CAN) data bus: medium speed bus
+U0011 Controller area network (CAN) data bus: medium speed bus - performance problem
+U0012 Controller area network (CAN) data bus: medium speed bus(+)- open circuit
+U0013 Controller area network (CAN) data bus: medium speed bus(+)- voltage low
+U0014 Controller area network (CAN) data bus: medium speed bus(+)- voltage high
+U0015 Controller area network (CAN) data bus: medium speed bus(-)
+U0016 Controller area network (CAN) data bus: medium speed bus(-)- voltage low
+U0017 Controller area network (CAN) data bus: medium speed bus(-)- voltage high
+U0018 Controller area network (CAN) data bus: medium speed bus (-)-shorted to data bus(+)
+U0019 Controller area network (CAN) data bus: low speed bus
+U0020 Controller area network (CAN) data bus: low speed bus - performance problem
+U0021 Controller area network (CAN) data bus: low speed bus (+) - open circuit
+U0022 Controller area network (CAN) data bus: low speed bus (+) - voltage low
+U0023 Controller area network (CAN) data bus: low speed bus (+) - voltage high
+U0024 Controller area network (CAN) data bus: low speed bus (-) - open circuit
+U0025 Controller area network (CAN) data bus: low speed bus (-) - voltage low
+U0026 Controller area network (CAN) data bus: low speed bus (-) - voltage high
+U0027 Controller area network (CAN) data bus: low speed bus (-) - shorted to data bus (+)
+U0028 Vehicle area network (VAN) data bus A
+U0029 Vehicle area network (VAN) data bus A - performance problem
+U0030 Vehicle area network (VAN) data bus A (+)- open circuit
+U0031 Vehicle area network (VAN) data bus A (+)- voltage low
+U0032 Vehicle area network (VAN) data bus A (+)- voltage high
+U0033 Vehicle area network (VAN) data bus A (-)- open circuit
+U0034 Vehicle area network (VAN) data bus A (-)- voltage low
+U0035 Vehicle area network (VAN) data bus A (-)- voltage high
+U0036 Vehicle area network (VAN) data bus A (-)- shorted to data bus A (+)
+U0037 Vehicle area network (VAN) data bus B
+U0038 Vehicle area network (VAN) data bus B - performance problem
+U0039 Vehicle area network (VAN) data bus B (+)- open circuit
+U0040 Vehicle area network (VAN) data bus B (+)- voltage low
+U0041 Vehicle area network (VAN) data bus B (+)- voltage high
+U0042 Vehicle area network (VAN) data bus B (-)- open circuit
+U0043 Vehicle area network (VAN) data bus B (-)- voltage low
+U0044 Vehicle area network (VAN) data bus B (-)- voltage high
+U0045 Vehicle area network (VAN) data bus B (-)- shorted to data bus B (+)
+U0046 Vehicle area network (VAN) data bus C
+U0047 Vehicle area network (VAN) data bus C - performance problem
+U0048 Vehicle area network (VAN) data bus C (+)- open circuit
+U0049 Vehicle area network (VAN) data bus C (+)- voltage low
+U0050 Vehicle area network (VAN) data bus C (+)- voltage high
+U0051 Vehicle area network (VAN) data bus C (-)- open circuit
+U0052 Vehicle area network (VAN) data bus C (-)- voltage low
+U0053 Vehicle area network (VAN) data bus C (-)- voltage high
+U0054 Vehicle area network (VAN) data bus C (-)- shorted to data bus C (+)
+U0055 Vehicle area network (VAN) data bus D
+U0056 Vehicle area network (VAN) data bus D- performance problem
+U0057 Vehicle area network (VAN) data bus D (+)- open circuit
+U0058 Vehicle area network (VAN) data bus D (+)- voltage low
+U0059 Vehicle area network (VAN) data bus D (+)- voltage high
+U0060 Vehicle area network (VAN) data bus D (-)- open circuit
+U0061 Vehicle area network (VAN) data bus D (-)- voltage low
+U0062 Vehicle area network (VAN) data bus D (-)- voltage high
+U0063 Vehicle area network (VAN) data bus D (-)- shorted to data bus D (+)
+U0064 Vehicle area network (VAN) data bus E
+U0065 Vehicle area network (VAN) data bus E - performance problem
+U0066 Vehicle area network (VAN) data bus E (+)- open circuit
+U0067 Vehicle area network (VAN) data bus E (+)- voltage low
+U0068 Vehicle area network (VAN) data bus E (+)- voltage high
+U0069 Vehicle area network (VAN) data bus E (-)- open circuit
+U0070 Vehicle area network (VAN) data bus E (-)- voltage low
+U0071 Vehicle area network (VAN) data bus E (-)- voltage high
+U0072 Vehicle area network (VAN) data bus E (-)- shorted to data bus E (+)
+U0073 Control module - data bus Off
+U0100 Data bus: engine control module (ECM) A - no communication
+U0101 Data bus: transmission control module (TCM) - no communication
+U0102 Data bus: transfer box control module - no communication
+U0103 Data bus: gear shift module - no communication / System relay - low signal
+U0104 Data bus: cruise control module - no communication
+U0105 Data bus: injector control module - no communication
+U0106 Data bus: glow plug control module - no communication
+U0107 Data bus: throttle actuator control (TAC) module - no communication
+U0108 Data bus: alternative fuel control module - no communication
+U0109 Data bus: fuel pump (FP) control module - no communication
+U0110 Data bus: drive motor control module - no communication
+U0111 Data bus: battery energy control module A - no communication
+U0112 Data bus: battery energy control module B - no communication
+U0113 Data bus: emissions critical control information - no communication
+U0114 Data bus: four wheel drive clutch control module - no communication
+U0115 Data bus: engine control module (ECM) B - no communication
+U0121 Data bus: anti-lock brake system (ABS) control module - no communication
+U0122 Data bus: vehicle dynamics control module - no communication
+U0123 Data bus: yaw rate sensor module - no communication
+U0124 Data bus: lateral acceleration sensor module - no communication
+U0125 Data bus: multi-axis acceleration sensor module - no communication
+U0126 Data bus: steering position sensor control module - no communication
+U0127 Data bus: tire pressure monitor module- no communication
+U0128 Data bus: parking brake control module - no communication
+U0129 Data bus: brake system control module - no communication
+U0130 Data bus: steering effort control module - no communication
+U0131 Data bus: power steering control module - no communication
+U0132 Data bus: suspension ride height control module - no communication
+U0140 Data bus: body control module (8CM)- no communication
+U0141 Data bus: body control module (8CM) A- no communication
+U0142 Data bus: body control module (8CM) 8 - no communication
+U0143 Data bus: body control module (8CM) C- no communication
+U0144 Data bus: body control module (8CM) D- no communication
+U0145 Data bus: body control module (8CM) E - no communication
+U0146 Data bus: gateway A- no communication
+U0147 Data bus: gateway 8 - no communication
+U0148 Data bus: gateway C - no communication
+U0149 Data bus: gateway D- no communication
+U0150 Data bus: gateway E - no communication
+U0151 Data bus: supplementary restraint system (SRS) control module - no communication
+U0152 Data bus : supplementary restraint system (SRS) control module: left - no communication
+U0153 Data bus: supplementary restraint system (SRS) control module: right - no communication
+U0154 Data bus: supplementary restraint system (SRS) occupant sensing control module- no communication
+U0155 Data bus: instrumentation control module - no communication
+U0156 Data bus: information centre A - no communication
+U0157 Data bus: information centre B - no communication
+U0158 Data bus: head up display - no communication
+U0159 Data bus: parking aid control module A - no communication
+U0160 Data bus: audible alert control module - no communication
+U0161 Data bus: compass module - no communication
+U0162 Data bus: navigation display module - no communication
+U0163 Data bus: navigation control module - no communication
+U0164 Data bus: NC control module - no communication
+U0165 Data bus: NC control module: rear
+U0166 Data bus: auxiliary heater control module - no communication
+U0167 Data bus: immobilizer control 'module - no communication / Engine control module - internal fault
+U0168 Data bus: alarm system control module - no communication
+U0169 Data bus: sunroof control module - no communication
+U0170 Data bus: supplementary restraint system (SRS) sensor A - no communication
+U0171 Data bus: supplementary restraint system (SRS) sensor B - no communication
+U0172 Data bus: supplementary restraint system (SRS) sensor C - no communication
+U0173 Data bus: supplementary restraint system (SRS) sensor D - no communication
+U0174 Data bus: supplementary restraint system (SRS) sensor E - no communication
+U0175 Data bus: supplementary restraint system (SRS) sensor F - no communication
+U0176 Data bus: supplementary restraint system (SRS) sensor G - no communication
+U0177 Data bus: supplementary restraint system (SRS) sensor H - no communication
+U0178 Data bus: supplementary restraint system (SRS) sensor I - no communication
+U0179 Data bus: supplementary restraint system (SRS) sensor J - no communication
+U0180 Data bus: automatic lighting control module - no communication
+U0181 Data bus: headlamp level control module - no communication
+U0182 Data bus: lamps control module: front - no communication
+U0183 Data bus: lamps control module: rear- no communication
+U0184 Data bus: radio - no communication
+U0185 Data bus: aerial module - no communication
+U0186 Data bus: audio unit output amplifier- no communication
+U0187 Data bus: digital disc player/changer module A - no communication
+U0188 Data bus: digital disc player/changer module B - no communication
+U0189 Data bus: digital disc player/changer module C - no communication
+U0190 Data bus: digital disc player/changer module D - no communication
+U0191 Data bus: television - no communication
+U0192 Data bus: personal computer - no communication
+U0193 Data bus: digital audio control module A- no communication
+U0194 Data bus: digital audio control module B - no communication
+U0195 Data bus: subscription entertainment receiver module - no communication
+U0196 Data bus: entertainment control module: rear - no communication
+U0197 Data bus: t.elephone control module - no communication
+U0198 Data bus: telematics control module - no communication
+U0199 Data bus: door function control module A - no communication
+U0200 Data bus: door function control module B - no communication
+U0201 Data bus: door function control module C - no communication
+U0202 Data bus: door function control module D - no communication
+U0203 Data bus: door function control module E - no communication
+U0204 Data bus: door function control module F - no communication
+U0205 Data bus: door function control module G - no communication
+U0206 Data bus: convertible top control module - no communication
+U0207 Data bus: moveable roof control module - no communication
+U0208 Data bus: seat adjustment control module A - no communication
+U0209 Data bus: seat adjustment control module B - no communication
+U0210 Data bus: seat adjustment control module C - no communication
+U0211 Data bus: seat adjustment control module D - no communication
+U0212 Data bus: steering column control module - no communication
+U0213 Data bus: mirror control module A - no communication
+U0214 Data bus: remote function actuation - no communication
+U0215 Data bus: door contact switch A - no communication
+U0216 Data bus: door contact switch B - no communication
+U0217 Data bus: door contact switch C - no communication
+U0218 Data bus: door contact switch D - no communication
+U0219 Data bus: door contact switch E - no communication
+U0220 Data bus: door contact switch F - no communication
+U0221 Data bus: door contact switch G - no communication
+U0222 Data bus: electric window motor A- no communication
+U0223 Data bus: electric window motor B - no communication
+U0224 Data bus: electric window motor C - no communication
+U0225 Data bus: electric window motor D - no communication
+U0226 Data bus: electric window motor E - no communication
+U0227 Data bus: electric window motor F - no communication
+U0228 Data bus: electric window motor G - no communication
+U0229 Data bus: heated steering wheel module - no communication
+U0230 Data bus: tailgate control module - no communication
+U0231 Data bus: rain sensor control module- no communication
+U0232 Data bus: side obstacle detection control module: left - no communication
+U0233 Data bus: side obstacle detection control module: right- no communication
+U0234 Data bus: convenience recall module - no communication
+U0235 Data bus: cruise control front distance range sensor - no communication
+U0253 Lost Communication With Accessory Protocol Interface Module
+U0284 Lost Communication With Active Grille Air Shutter 1 Motor Module
+U0293 Data bus: HVAC control unit- no communication
+U029D Lost Communication With NOX Sensor A
+U0300 Control module - internal software incompatibility
+U0301 Software incompatibility - engine control module (ECM)
+U0302 Software incompatibility - transmission control module (TCM)
+U0303 Software incompatibility - transfer box control module
+U0304 Software incompatibility - gear shift module
+U0305 Software incompatibility - cruise control module
+U0306 Software incompatibility - injector control module
+U0307 Software incompatibility - glow plug control module
+U0308 Software incompatibility - throttle actuator control (TAC) module
+U0309 Software incompatibility - alternative fuel control module
+U0310 Software incompatibility - fuel pump (FP) control module
+U0311 Software incompatibility - drive motor control module
+U0312 Software incompatibility - battery energy control module A
+U0313 Software incompatibility - battery energy control module B
+U0314 Software incompatibility - four wheel drive clutch control module
+U0315 Software incompatibility - anti-lock brake system (ASS) control module
+U0316 Software incompatibility - vehicle dynamics control module
+U0317 Software incompatibility - parking brake control module
+U0318 Software incompatibility - brake system control module
+U0319 Software incompatibility - steering effort control module
+U0320 Software incompatibility - power steering control module
+U0321 Software incompatibility - suspension ride height control module
+U0322 Software incompatibility - body control module
+U0323 Software incompatibility - instrumentation control module
+U0324 Software incompatibility - AlC control module
+U0325 Software incompatibility - auxiliary heater control module
+U0326 Software incompatibility - immobilizer control module
+U0327 Software incompatibility - alarm system control module
+U0328 Software incompatibility - steering position sensor control module
+U0329 Software incompatibility - steering column control module
+U0330 Software incompatibility - tire pressure monitor module
+U0331 Software incompatibility - body control module A
+U0332 Software incompatibility - multi-axis acceleration sensor module
+U0400 Invalid data received
+U0401 Invalid data received - engine control module (ECM)
+U0402 Invalid data received - transmission control module (TCM)
+U0403 Invalid data received - transfer box control module
+U0404 Invalid data received - gear shift module
+U0405 Invalid data received - cruise control module
+U0406 Invalid data received - injector control module
+U0407 Invalid data received - glow plug control module
+U0408 Invalid data received - throttle actuator control (TAC) module
+U0409 Invalid data received - alternative fuel control module
+U0410 Invalid data received - fuel pump (FP) control module
+U0411 Invalid data received -drive motor control module
+U0412 Invalid data received - battery energy control module A
+U0413 Invalid data received - battery energy control module B
+U0414 Invalid data received - four wheel drive clutch control module
+U0415 Invalid data received - anti-lock brake system (ABS) control module
+U0416 Invalid data received - vehicle dynamics control module
+U0417 Invalid data received - parking brake control module
+U0418 Invalid data received - brake system control module
+U0419 Invalid data received - steering effort control module
+U0420 Invalid data received - power steering control module
+U0421 Invalid data received - suspension ride height control module
+U0422 Invalid data received - body control module
+U0423 Invalid data received - instrumentation control module
+U0424 Invalid data received - A/C control module
+U0425 Invalid data received - auxiliary heater control module
+U0426 Invalid data received - immobilizer
+U0427 Invalid data received - alarm system control module
+U0428 Invalid data received - steering position sensor control module
+U0429 Invalid data received - steering column control module
+U0430 Invalid data received - tire pressure monitor module
+U0431 Invalid data received - body control module A
+U0433 Invalid data received - cruise control front distance range sensor
+U0481 Invalid Data Received From Automatic Lighting Control Module
+U1000 SCP (J1850) Invalid or Missing Data for Primary Id
+U1001 SCP (J1850) Invalid or Missing Data for Primary Id
+U1002 SCP (J1850) Invalid or Missing Data for Primary Id
+U1003 SCP (J1850) Invalid or Missing Data for Primary Id
+U1004 SCP (J1850) Invalid or Missing Data for EEC Programming
+U1005 SCP (J1850) Invalid or Missing Data for EEC Programming
+U1006 SCP (J1850) Invalid or Missing Data for Primary Id
+U1007 SCP (J1850) Invalid or Missing Data for Primary Id
+U1008 SCP (J1850) Invalid or Missing Data for Engine Torque
+U1009 SCP (J1850) Invalid or Missing Data for Engine Torque
+U1010 SCP (J1850) Invalid or Missing Data for Engine Air Intake
+U1011 SCP (J1850) Invalid or Missing Data for Engine Air Intake
+U1012 SCP (J1850) Invalid or Missing Data for Primary Id
+U1013 SCP (J1850) Invalid or Missing Data for Primary Id
+U1014 SCP (J1850) Invalid or Missing Data for Primary Id
+U1015 SCP (J1850) Invalid or Missing Data for Primary Id
+U1016 SCP (J1850) Invalid or Missing Data for Primary Id
+U1017 SCP (J1850) Invalid or Missing Data for Primary Id
+U1018 SCP (J1850) Invalid or Missing Data for Throttle
+U1019 SCP (J1850) Invalid or Missing Data for Throttle
+U1020 SCP (J1850) Invalid or Missing Data for Air Conditioning Clutch
+U1021 SCP (J1850) Invalid or Missing Data for Air Conditioning Clutch
+U1022 SCP (J1850) Invalid or Missing Data for Primary Id
+U1023 SCP (J1850) Invalid or Missing Data for Primary Id
+U1024 SCP (J1850) Invalid or Missing Data for Primary Id
+U1025 SCP (J1850) Invalid or Missing Data for Primary Id
+U1026 SCP (J1850) Invalid or Missing Data for Engine RPM
+U1027 SCP (J1850) Invalid or Missing Data for Engine RPM
+U1028 SCP (J1850) Invalid or Missing Data for Primary Id
+U1029 SCP (J1850) Invalid or Missing Data for Primary Id
+U1030 SCP (J1850) Invalid or Missing Data for Experimental #1
+U1031 SCP (J1850) Invalid or Missing Data for Experimental #1
+U1032 SCP (J1850) Invalid or Missing Data for Primary Id
+U1033 SCP (J1850) Invalid or Missing Data for Primary Id
+U1034 SCP (J1850) Invalid or Missing Data for Primary Id
+U1035 SCP (J1850) Invalid or Missing Data for Primary Id
+U1036 SCP (J1850) Invalid or Missing Data for Wheels
+U1037 SCP (J1850) Invalid or Missing Data for Wheels
+U1038 SCP (J1850) Invalid or Missing Data for Primary Id
+U1039 SCP (J1850) Invalid or Missing Data for Primary Id / Vehicle Speed
+U1040 SCP (J1850) Invalid or Missing Data for Vehicle Speed
+U1041 SCP (J1850) Invalid or Missing Data for Vehicle Speed
+U1042 SCP (J1850) Invalid or Missing Data for Traction Control
+U1043 SCP (J1850) Invalid or Missing Data for Traction Control
+U1044 SCP (J1850) Invalid or Missing Data for Traction Motor
+U1045 SCP (J1850) Invalid or Missing Data for Traction Motor
+U1046 SCP (J1850) Invalid or Missing Data for Primary Id
+U1047 SCP (J1850) Invalid or Missing Data for Primary Id
+U1048 SCP (J1850) Invalid or Missing Data for Primary Id
+U1049 SCP (J1850) Invalid or Missing Data for Primary Id
+U1050 SCP (J1850) Invalid or Missing Data for Brakes
+U1051 SCP (J1850) Invalid or Missing Data for Brakes
+U1052 SCP (J1850) Invalid or Missing Data for Steering / Steering Wheel
+U1053 SCP (J1850) Invalid or Missing Data for Steering / Steering Wheel
+U1054 SCP (J1850) Invalid or Missing Data for Primary Id
+U1055 SCP (J1850) Invalid or Missing Data for Primary Id
+U1056 SCP (J1850) Invalid or Missing Data for Vehicle Configuration
+U1057 SCP (J1850) Invalid or Missing Data for Vehicle Configuration
+U1058 SCP (J1850) Invalid or Missing Data for Transmission / Transaxle / PRNDL
+U1059 SCP (J1850) Invalid or Missing Data for Transmission / Transaxle / PRNDL
+U1060 SCP (J1850) Invalid or Missing Data for Primary Id
+U1061 SCP (J1850) Invalid or Missing Data for Primary Id
+U1062 SCP (J1850) Invalid or Missing Data for Primary Id
+U1063 SCP (J1850) Invalid or Missing Data for Primary Id
+U1064 SCP (J1850) Invalid or Missing Data for Primary Id
+U1065 SCP (J1850) Invalid or Missing Data for Primary Id
+U1066 SCP (J1850) Invalid or Missing Data for Primary Id
+U1067 SCP (J1850) Invalid or Missing Data for Primary Id
+U1068 SCP (J1850) Invalid or Missing Data for Primary Id
+U1069 SCP (J1850) Invalid or Missing Data for Primary Id
+U1070 SCP (J1850) Invalid or Missing Data for Engine Sensors
+U1071 SCP (J1850) Invalid or Missing Data for Engine Sensors
+U1072 SCP (J1850) Invalid or Missing Data for Engine Coolant
+U1073 Bus-Off (Mitsubishi) SCP (J1850) Invalid or Missing Data for Engine Coolant (GM) SCP (J1850) Invalid or Missing Data for Engine Coolant (Ford)
+U1074 SCP (J1850) Invalid or Missing Data for Engine Oil
+U1075 SCP (J1850) Invalid or Missing Data for Engine Oil Temp
+U1076 SCP (J1850) Invalid or Missing Data for Primary Id
+U1077 SCP (J1850) Invalid or Missing Data for Primary Id
+U1078 SCP (J1850) Invalid or Missing Data for Primary Id
+U1079 SCP (J1850) Invalid or Missing Data for Primary Id
+U1080 SCP (J1850) Invalid or Missing Data for Primary Id
+U1081 SCP (J1850) Invalid or Missing Data for Primary Id
+U1082 SCP (J1850) Invalid or Missing Data for Engine Systems Other
+U1083 SCP (J1850) Invalid or Missing Data for Engine Systems Other
+U1084 SCP (J1850) Invalid or Missing Data for Powertrain Status Request
+U1085 SCP (J1850) Invalid or Missing Data for Powertrain Status Request
+U1086 SCP (J1850) Invalid or Missing Data for Primary Id
+U1087 SCP (J1850) Invalid or Missing Data for Primary Id
+U1088 SCP (J1850) Invalid or Missing Data for Suspension
+U1089 SCP (J1850) Invalid or Missing Data for Suspension
+U1090 SCP (J1850) Invalid or Missing Data for Non-Legislated Diagnostics
+U1091 SCP (J1850) Invalid or Missing Data for Non-Legislated Diagnostics
+U1092 SCP (J1850) Invalid or Missing Data for Primary Id
+U1093 SCP (J1850) Invalid or Missing Data for Primary Id
+U1094 SCP (J1850) Invalid or Missing Data for Experimental #2
+U1095 SCP (J1850) Invalid or Missing Data for Experimental #2
+U1096 SCP (J1850) Invalid or Missing Data for Primary Id
+U1097 SCP (J1850) Invalid or Missing Data for Primary Id
+U1098 SCP (J1850) Invalid or Missing Data for Vehicle Speed Control
+U1099 SCP (J1850) Invalid or Missing Data for Vehicle Speed Control
+U1100 SCP (J1850) Invalid or Missing Data for Primary Id
+U1101 SCP (J1850) Invalid or Missing Data for Primary Id
+U1102 SCP (J1850) Invalid or Missing Data for Primary Id
+U1103 SCP (J1850) Invalid or Missing Data for Primary Id
+U1104 SCP (J1850) Invalid or Missing Data for Chassis Status Request
+U1105 SCP (J1850) Invalid or Missing Data for Chassis Status Request
+U1106 SCP (J1850) Invalid or Missing Data for Legislated Diagnostics
+U1107 SCP (J1850) Invalid or Missing Data for Legislated Diagnostics
+U1108 SCP (J1850) Invalid or Missing Data for Electric Traction Drive (Inverter)
+U1109 SCP (J1850) Invalid or Missing Data for Electric Traction Drive (Inverter)
+U1110 A/C-ECU Timeout
+U1111 SCP (J1850) Invalid or Missing Data for Primary Id
+U1112 SCP (J1850) Invalid or Missing Data for Primary Id
+U1113 SCP (J1850) Invalid or Missing Data for Primary Id
+U1114 SCP (J1850) Invalid or Missing Data for Charging System
+U1115 SCP (J1850) Invalid or Missing Data for Charging System
+U1116 SCP (J1850) Invalid or Missing Data for Electrical Energy Management
+U1117 SCP (J1850) Invalid or Missing Data for Electrical Energy Management
+U1118 SCP (J1850) Invalid or Missing Data for Primary Id
+U1119 SCP (J1850) Invalid or Missing Data for Primary Id
+U1120 SCP (J1850) Invalid or Missing Data for Primary Id
+U1121 SCP (J1850) Invalid or Missing Data for Primary Id
+U1122 SCP (J1850) Invalid or Missing Data for Odometer
+U1123 SCP (J1850) Invalid or Missing Data for Odometer
+U1124 SCP (J1850) Invalid or Missing Data for Primary Id
+U1125 SCP (J1850) Invalid or Missing Data for Primary Id
+U1126 SCP (J1850) Invalid or Missing Data for Primary Id
+U1127 SCP (J1850) Invalid or Missing Data for Primary Id
+U1128 SCP (J1850) Invalid or Missing Data for Primary Id
+U1129 SCP (J1850) Invalid or Missing Data for Primary Id
+U1130 SCP (J1850) Invalid or Missing Data for Fuel System
+U1131 SCP (J1850) Invalid or Missing Data for Fuel System
+U1132 SCP (J1850) Invalid or Missing Data for Vehicle Motion
+U1133 SCP (J1850) Invalid or Missing Data for Vehicle Motion
+U1134 SCP (J1850) Invalid or Missing Data for Ignition Switch / Starter
+U1135 SCP (J1850) Invalid or Missing Data for Ignition Switch / Starter
+U1136 SCP (J1850) Invalid or Missing Data for Telltales
+U1137 SCP (J1850) Invalid or Missing Data for Telltales
+U1138 SCP (J1850) Invalid or Missing Data for Primary Id
+U1139 SCP (J1850) Invalid or Missing Data for Primary Id
+U1140 SCP (J1850) Invalid or Missing Data for Gateway
+U1141 SCP (J1850) Invalid or Missing Data for Gateway
+U1142 SCP (J1850) Invalid or Missing Data for Primary Id
+U1143 SCP (J1850) Invalid or Missing Data for Primary Id
+U1144 SCP (J1850) Invalid or Missing Data for Primary Id
+U1145 SCP (J1850) Invalid or Missing Data for Primary Id
+U1146 SCP (J1850) Invalid or Missing Data for Vehicle Security
+U1147 SCP (J1850) Invalid or Missing Data for Vehicle Security
+U1148 SCP (J1850) Invalid or Missing Data for Audio Control
+U1149 SCP (J1850) Invalid or Missing Data for Audio Control
+U1150 SCP (J1850) Invalid or Missing Data for Audible Warnings
+U1151 SCP (J1850) Invalid or Missing Data for Audible Warnings
+U1152 SCP (J1850) Invalid or Missing Data for Experimental #3
+U1153 SCP (J1850) Invalid or Missing Data for Experimental #3
+U1154 SCP (J1850) Invalid or Missing Data for Compact Disc
+U1155 SCP (J1850) Invalid or Missing Data for Compact Disc
+U1156 SCP (J1850) Invalid or Missing Data for Digital Signal Processing
+U1157 SCP (J1850) Invalid or Missing Data for Digital Signal Processing
+U1158 SCP (J1850) Invalid or Missing Data for Antenna
+U1159 SCP (J1850) Invalid or Missing Data for Antenna
+U1160 SCP (J1850) Invalid or Missing Data for Primary Id
+U1161 SCP (J1850) Invalid or Missing Data for Primary Id
+U1162 SCP (J1850) Invalid or Missing Data for Digital Audio Tape
+U1163 SCP (J1850) Invalid or Missing Data for Digital Audio Tape
+U1164 SCP (J1850) Invalid or Missing Data for Tuner / Receiver
+U1165 SCP (J1850) Invalid or Missing Data for Tuner / Receiver
+U1166 SCP (J1850) Invalid or Missing Data for Cassette Tape
+U1167 SCP (J1850) Invalid or Missing Data for Cassette Tape
+U1168 SCP (J1850) Invalid or Missing Data for Primary Id
+U1169 SCP (J1850) Invalid or Missing Data for Primary Id
+U1170 SCP (J1850) Invalid or Missing Data for Cellular Phone / Paging System
+U1171 SCP (J1850) Invalid or Missing Data for Cellular Phone / Paging System
+U1172 SCP (J1850) Invalid or Missing Data for Remote Button Control
+U1173 SCP (J1850) Invalid or Missing Data for Remote Button Control
+U1174 SCP (J1850) Invalid or Missing Data for Primary Id
+U1175 SCP (J1850) Invalid or Missing Data for Primary Id
+U1176 SCP (J1850) Invalid or Missing Data for Primary Id
+U1177 SCP (J1850) Invalid or Missing Data for Primary Id
+U1178 SCP (J1850) Invalid or Missing Data for Climate Control (HVAC)
+U1179 SCP (J1850) Invalid or Missing Data for Climate Control (HVAC)
+U1180 SCP (J1850) Invalid or Missing Data for Personalization (Memory) Features
+U1181 SCP (J1850) Invalid or Missing Data for Personalization (Memory) Features
+U1182 SCP (J1850) Invalid or Missing Data for Primary Id
+U1183 SCP (J1850) Invalid or Missing Data for Primary Id
+U1184 SCP (J1850) Invalid or Missing Data for Window Wiper / Washer
+U1185 SCP (J1850) Invalid or Missing Data for Window Wiper / Washer
+U1186 SCP (J1850) Invalid or Missing Data for Primary Id
+U1187 SCP (J1850) Invalid or Missing Data for Primary Id
+U1188 SCP (J1850) Invalid or Missing Data for Primary Id
+U1189 SCP (J1850) Invalid or Missing Data for Primary Id
+U1190 SCP (J1850) Invalid or Missing Data for Primary Id
+U1191 SCP (J1850) Invalid or Missing Data for Primary Id
+U1192 SCP (J1850) Invalid or Missing Data for Primary Id
+U1193 SCP (J1850) Invalid or Missing Data for Primary Id
+U1194 SCP (J1850) Invalid or Missing Data for Mirrors
+U1195 SCP (J1850) Invalid or Missing Data for Mirrors
+U1196 SCP (J1850) Invalid or Missing Data for Door Locks
+U1197 SCP (J1850) Invalid or Missing Data for Door Locks
+U1198 SCP (J1850) Invalid or Missing Data for External Access (Doors)
+U1199 SCP (J1850) Invalid or Missing Data for External Access (Doors)
+U1200 SCP (J1850) Invalid or Missing Data for Seat Motion / Control
+U1201 SCP (J1850) Invalid or Missing Data for Seat Motion / Control
+U1202 SCP (J1850) Invalid or Missing Data for Windows
+U1203 SCP (J1850) Invalid or Missing Data for Windows
+U1204 SCP (J1850) Invalid or Missing Data for Steering Column
+U1205 SCP (J1850) Invalid or Missing Data for Steering Column
+U1206 SCP (J1850) Invalid or Missing Data for Primary Id
+U1207 SCP (J1850) Invalid or Missing Data for Primary Id
+U1208 SCP (J1850) Invalid or Missing Data for Seat Switches
+U1209 SCP (J1850) Invalid or Missing Data for Seat Switches
+U1210 SCP (J1850) Invalid or Missing Data for Restraints
+U1211 SCP (J1850) Invalid or Missing Data for Restraints
+U1212 SCP (J1850) Invalid or Missing Data for Primary Id
+U1213 SCP (J1850) Invalid or Missing Data for Primary Id
+U1214 SCP (J1850) Invalid or Missing Data for Primary Id
+U1215 SCP (J1850) Invalid or Missing Data for Primary Id
+U1216 SCP (J1850) Invalid or Missing Data for External Lamp Outage
+U1217 SCP (J1850) Invalid or Missing Data for External Lamp Outage
+U1218 SCP (J1850) Invalid or Missing Data for External Lamps
+U1219 SCP (J1850) Invalid or Missing Data for External Lamps
+U1220 SCP (J1850) Invalid or Missing Data for Interior Lamp Outage
+U1221 SCP (J1850) Invalid or Missing Data for Interior Lamp Outage
+U1222 SCP (J1850) Invalid or Missing Data for Interior Lamps
+U1223 SCP (J1850) Invalid or Missing Data for Interior Lamps
+U1224 SCP (J1850) Invalid or Missing Data for Primary Id
+U1225 SCP (J1850) Invalid or Missing Data for Primary Id
+U1226 SCP (J1850) Invalid or Missing Data for Body Status Request
+U1227 SCP (J1850) Invalid or Missing Data for Body Status Request
+U1228 SCP (J1850) Invalid or Missing Data for Tires
+U1229 SCP (J1850) Invalid or Missing Data for Tires
+U1230 SCP (J1850) Invalid or Missing Data for Electric Defrost
+U1231 SCP (J1850) Invalid or Missing Data for Electric Defrost
+U1232 SCP (J1850) Invalid or Missing Data for Navigation
+U1233 SCP (J1850) Invalid or Missing Data for Navigation
+U1234 SCP (J1850) Invalid or Missing Data for Displays
+U1235 SCP (J1850) Invalid or Missing Data for Displays
+U1236 SCP (J1850) Invalid or Missing Data for Memory Storage
+U1237 SCP (J1850) Invalid or Missing Data for Memory Storage
+U1238 SCP (J1850) Invalid or Missing Data for Experimental #4
+U1239 SCP (J1850) Invalid or Missing Data for Experimental #4
+U1240 SCP (J1850) Invalid or Missing Data for Primary Id
+U1241 SCP (J1850) Invalid or Missing Data for Primary Id
+U1242 SCP (J1850) Invalid or Missing Data for Exterior Environment
+U1243 SCP (J1850) Invalid or Missing Data for Exterior Environment
+U1244 SCP (J1850) Invalid or Missing Data for Interior Environment
+U1245 SCP (J1850) Invalid or Missing Data for Interior Environment
+U1246 SCP (J1850) Invalid or Missing Data for Primary Id
+U1247 SCP (J1850) Invalid or Missing Data for Primary Id
+U1248 SCP (J1850) Invalid or Missing Data for Time / Date
+U1249 SCP (J1850) Invalid or Missing Data for Time / Date
+U1250 SCP (J1850) Invalid or Missing Data for Vehicle Id (VIN)
+U1251 SCP (J1850) Invalid or Missing Data for Vehicle Id (VIN)
+U1252 SCP (J1850) Invalid or Missing Data for Class A Functions
+U1253 SCP (J1850) Invalid or Missing Data for Class A Functions
+U1254 SCP (J1850) Invalid or Missing Data for Network Control
+U1255 SCP (J1850) Invalid or Missing Data for Network Control
+U1260 SCP (J1850) Single Ended (+) Circuit Failure
+U1261 SCP (J1850) Single Ended (-) Circuit Failure
+U1262 SCP (J1850) Communication Bus Fault
+U1308 SCP (J1850) Invalid or Missing Data for Function Read Engine Torque
+U1341 SCP (J1850) Invalid or Missing Data for Function Read Vehicle Speed
+U140A Implausible Right Front Wheel Speed Signal Received (Jeep)
+U1412 Implausible Vehicle Speed Signal Received
+U1417 Implausible Left Wheel Distance Signal (Dodge, Chrysler, Jeep)
+U1418 Implausible Left Wheel Distance Signal Received (Chrysler, Dodge, Jeep)
+U1430 SCP (J1850) Invalid or Missing Data for Function Read Fuel System
+U1451 SCP (J1850) Invalid or Missing Data for Function Read Audible Warnings / Anti-Theft Module
+U1600 Electronic key-immobiliser system fault (Fiat, Alpha Romeo, Audi, Nissan)
+U1612 SCP (J1850) Lack of Acknowledgment for Primary Id
+U1736 SCP (J1850) Lack of Acknowledgment for Telltales
+U1750 SCP (J1850) Lack of Acknowledgment for Audible Warnings
+U1794 SCP (J1850) Lack of Acknowledgment for Mirrors
+U1797 SCP (J1850) Lack of Acknowledgment for Door Locks
+U1798 SCP (J1850) Lack of Acknowledgment for External Access (Doors)
+U1806 SCP (J1850) Lack of Acknowledgment for Primary Id
+U1900 CAN Communication Bus Fault
+U1950 UPB Communication Bus Fault
+U2000 Audio Rear Control Unit is Not Responding
+U2001 Audio Tape Deck Unit is Not Responding
+U2002 Audio Bezel is Not Responding
+U2003 Audio Compact Disk / Disk Jockey Unit is Not Responding
+U2004 Audio Steering Wheel Control Unit is Not Responding
+U2005 Audio Rear Integrated Control Panel Unit is Not Responding
+U2006 Audio Remote Climate Control Unit is Not Responding
+U2007 Audio Navigation Unit is Not Responding
+U2008 Audio Phone is Not Responding
+U2009 Audio Front Control Module (ACM) is Not Responding
+U2010 Module is Not Responding (Non SCP)
+U2011 Module Transmitted Invalid Data (Non SCP)
+U2012 Communication Bus Error (Non SCP)
+U2013 Compass Module is not Responding
+U2014 Audio Subwoofer Unit is Not Responding
+U2015 Signal Link Fault (Non SCP)
+U2016 Signal Link Short to Ground (Non SCP) / From NGV Module
+U2017 Driver Side Crash Sensor Communication Fault (Non SCP)
+U2018 Passenger Side Crash Sensor Communication Fault (Non SCP)
+U2019 Audio Voice Module Not Responding
+U2020 Audio Center Amp is not responding
+U2021 Invalid /fault data received (Non SCP)
+U20BB Communication Loss with TCM
+U2150 SCP (J1850) Invalid Data from REM
+U2152 SCP (J1850) Invalid Data from GEM
+U2160 SCP (J1850) Invalid Data from IC
+U2195 SCP (J1850) Invalid Data from SCLM
+U2500 (CAN) Lack of Acknowledgement From Engine Management
+U2510 Received Data Does Not Match (Ford)
+U3000 Control Module
+U3001 Control Module Improper Shutdown
+U3002 Vehicle Identification Number
+U3003 Battery Voltage
+U3004 Accessory Power Relay
+U3005 Retained Accessory Power
+U3006 Control Module Input Power "A"
+U3007 Control Module Input Power "B"
+U3008 Control Module Ground "A"
+U3009 Control Module Ground "B"
+U300A Ignition Switch
+U300B Ignition Input Accessory/On/Start
+U300C Ignition Input Off/On/Start
+U300D Ignition Input On/Start
+U300E Ignition Input On
+U300F Ignition Input Accessory
+U3010 Ignition Input Start
+U3011 Ignition Input Off
+U3012 ISO/SAE Reserved
+U3100 ISO/SAE Reserved
+U3F00 ISO/SAE Reserved

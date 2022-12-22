@@ -1,0 +1,168 @@
+P1004 Intake manifold air control valve (short runner) -performance
+P1105 Turbocharger (TC) boost pressure actuator circuit malfunction
+P1110 Decreased engine performance -high intake air temperature
+P1115
+Engine coolant temperature (ECT) sensor/intake air temperature (IAT) sensor/
+outside air temperature sensor -signal variation
+P1128 Heated oxygen sensor (H02S) 1, bank 1 signal error
+P1129 Heated oxygen sensor (H02S) 1, bank 2 signal error
+P113C Oxygen sensor (02S), control module
+P1180 Decreased engine performance -high injection pump fuel temperature
+P1192 Intake air temperature (IAT) sensor -voltage low
+P1193 Intake air temperature (IAT) sensor -voltage high
+P1194 Heated oxygen sensor (H02S), heater control -circuit malfunction
+P1195 Heated oxygen sensor (H02S) 1, bank 1 slow response
+P1196 Heated oxygen sensor (H02S) 1, bank 2 slow response
+P1197 Heated oxygen sensor (M02S) 2, bank 1 slow response
+P1239 Engine oil temperature (EOT) -temperature too low
+P125A Power enable control circuit -voltage low
+P125B Power enable control circuit -voltage high
+P1260 Engine control module, output driver -open circuit
+P126B Engine control module, output driver -short to ground
+P126C Engine control module, output driver -short to positive
+P126E Engine control module, output driver excessive current draw
+P1272 A/C compressor clutch, circuit 2 -voltage low
+P1273 A/C compressor clutch, circuit 2 -voltage high
+P1274 A/C compressor clutch, circuit 2 -open circuit
+P1275 A/C compressor clutch, circuit 2 –circuit malfunction
+P1277 Starter motor control circuit -voltage low
+P1278 Starter motor control circuit -voltage high
+P1279 Starter motor control circuit -open circuit
+P127A Starter motor control circuit -circuit malfunction
+P127C Fuel pump, circuit 2 -voltage low
+P127D Fuel pump, circuit 2 -voltage high
+P127E Fuel pump, circuit 2 -open circuit
+P1280 Fuel pump relay -circuit malfunction
+P1281 Engine temperature -low for long period
+P1282 Fuel pump relay
+P1283 Engine control module (ECM) 1 -idle signal malfunction
+P1284 Injection pump control module -battery voltage out of range
+P1285 Injection pump control module relay -circuitmalfunction
+P1286 Accelerator pedal position (APP) sensor -highinput
+P1287 Injection pump control module/engine control module (ECM) 1 -supply voltage low
+P1290 Compressed natural gas pressure sensorpressure high
+P1291 Intake manifold heaters -no temperature rise
+P1292 Compressed natural gas pressure sensor voltage high
+P1293 Compressed natural gas pressure sensor voltage low
+P1294 Idle speed control (ISC) system rpm lower/ higher than expected
+P1295 Accelerator pedal position (APP) sensor -low input
+P1296 Manifold absolute pressure (MAP) sensor no 5 volt supply
+P1297 Manifold absolute pressure (MAP) sensor
+P1298 System too lean -at prolonged wide open throttle
+P1299 Manifold absolute pressure (MAP) sensor/ throttle position (TP) sensor
+P129C Powertrain control module (PCM), inverter control -circuit 2 high
+P129E Powertrain control module (PCM), inverter control-circuit 2 over-current
+P1388 Engine control relay
+P1389 Engine control relay
+P1391 Crankshaft position (CKP) sensor/camshaft position (CMP) sensor -intermittent signal
+P1398 Engine control module (ECM) -misfire detection limit reached
+P1399 Glow plug waming lamp -circuit malfun~tion
+P1404 Exhaust gas recirculation (EGR) valve position sensor malfunction
+P1411 Cylinder cut-out solenoid 1 -malfunction
+P1414 Cylinder cut-out solenoid 4 -malfunction
+P1416 Cylinder cut-out solenoid 6 -malfunction
+P1417 Cylinder cut-out solenoid 7 -malfunction
+P141A Exhaust gas temperature (EGT) sensor 1 & 2 -interchanged
+P144E , Exhaust gas recirculation (EGR) -circuit voltage low
+P144F Exhaust gas recirculation (EGR) -circuit voltagehigh
+P1451 Diesel particulate filter (DPF) full
+P1475 Engine control module (ECM) 1 -auxiliary 5 volt output high
+P1476 Secondary air injection (AIR) system -insufficientflow detected
+P1477 Secondary air injection (AIR) system excessive flow detected
+P1478 AmbienUbattery temperature sensor -range/ performance problem
+P1478 Ambient/battery temperature sensor -range! performance problem
+P1479 Transmission cooling fan relay -circuit malfunction
+P1484 Diesel particulate filter (DPF) temperature toohigh
+P1486 Evaporative emission (EVAP) system -blockage detected
+P1488 Engine control module (ECM) -auxiliary 5 volt output low
+P1491 Engine coolant blower motor relay
+P1492 Ambient/battery temperature sensor -voltage high
+P1493 Ambient/battery temperature sensor -voltage low
+P1494 Evaporative emission (EVAP) leak detection pump pressure switch
+P1495 Evaporative emission (EVAP) leak detection pump solenoid
+P1496 Engine control module (ECM) -5 volt output low
+P1501 Vehicle over-speed condition -rear axle speed greater than front axle
+P1502 Vehicle over-speed condition -front axle speed greater than rear axle
+P1506 Crankcase pressure sensor range/performance
+P1507 Crankcase pressure sensor range/performance
+P1508 Crankcase pressure sensor range/performance
+P150D Cold start emission control -irregular idle speed
+P1521 Engine oil sensor module -malfunction
+P1572 Brake pedal position (BPP) switch -circuit malfunction
+P1573 Brake pedal position (BPP) switch -circuit malfunction
+P1593 Cruise control system, multi-function input AlB -circuit stuck
+P1594 Alternator -voltage high
+P1595 Cruise control
+P1596 Cruise control master switch -high voltage
+P1597 Cruise control master switch -low voltage
+P1598 NC refrigerant pressure sensor -high input
+P1599 AlC refrigerant pressure sensor -low input
+P1602 Engine control module (ECM) 1 not programmed
+P1603 Engine control module (ECM) -RAM link error
+P1604 Engine control module (ECM) -RAM read/writeerror
+P1607 Engine control module (ECM) -shut down timer error
+P1618 Engine control module (ECM) -primary 5 volt output erratic
+P1628 Engine control module (ECM) -auxiliary 5 volt output erratic
+P1652 CAN data bus -short circuit to ground
+P1680 Clutch pedal position (CPP) switch -circuit malfunction
+P1682 Altemator -voltage low
+P1683 Cruise control
+P1684Engine control module (ECM) 1 -supply voltage disconnected within last 50 ignition switch ON-OFF cycles
+P1685 Key not programmed into immobilizer control module
+P1686 CAN data bus, immobilizer control module no signal
+P1687 CAN data bus, instrumentation -no signal
+P1688 Injection pump/injection pump control module -intemal fault
+P1689Injection pump control module communication to engine control module (ECM) 1malfunction
+P1690 Crankshaft position/injection pump camshaft position sensor -correlation
+P1691 Injection pump -intemal fault
+P1693 Engine control module (ECM)
+P1694 CAN data bus, engine control module (ECM) no signal
+P1695 CAN data bus, SCM -no signal
+P1696 Engine control module (ECM) -EEPROM error
+P1697 Engine control module (ECM) -EEPROM error
+P1698 CAN data bus, engine control module (ECM) 2no signal
+P1698 CAN data bus, transmission control module (TCM) no signal
+P1715 Restricted port in T3 range
+P1719 Skip shift solenoid -circuit malfunction
+P1736 Transmission -gear/input speed/output speed ratio error
+P1740 Torque converter clutch (TCC)/overdrive solenoid-performance problem
+P1756 Governor pressure not equal to target (35-40 PSI)
+P1757 Governor pressure not equal to target -low pressure malfunction
+P1762 Governor pressure sensor -incorrect signal
+P1763 Governor pressure sensor -signal high
+P1764 Govemor pressure sensor -signal low
+P1765 Transmission system relay
+P1776 Solenoid switch valve locked in UR (low/reverse) position
+P1790 Fault immediately after shift
+P1793 Torque reduction communication error
+P1794 Transmission speed sensor -ground circuit
+P1797 Manual shift overheat
+P1897 Engine control module (ECM) communication malfunction
+P1899 Park/neutral position (PNP) switch -input circuit malfunction
+P1DF3 ECU Not Initialized
+P3400 Cylinder cut-out system, bank 1 -malfunction
+P3401 Cylinder cut-out solenoid 1 -circuit malfunction
+P3402 Cylinder cut-out solenoid 1 -malfunction
+P3425 Cylinder cut-out solenoid 4 -circuit malfunction
+P3426 Cylinder cut-out solenoid 4 -malfunction
+P3441 Cylinder cut-out solenoid 6 -circuit malfunction
+P3442 Cylinder cut-out solenoid 6 -malfunction
+P3449 Cylinder cut-out solenoid 7 -circuit malfunction
+P3450 Cylinder cut-out solenoid 7 -malfunction
+P3497 Cylinder cut-out system, bank 2 -malfunction
+U110A Steering column function control module, serialcommunication -circuit malfunction
+U110C Fuel level, serial communication -circuit malfunction
+U110E Outside air temperature, serial communication -circuit malfunction
+U110F Fuel volume, serial communication -circuitmalfunction
+U1110 Vehicle speed, serial communication -circuit malfunction
+U1111 Odometer mileage, serial communication -circuitmalfunction
+U1113 NC pressure sensor -communication malfunction
+U1120 Wheel distance traveled, serial communication -circuit malfunction
+U1403 Fuel level, serial communication -implausible signal
+U1403 Fuel level, serial communication -implausiblesignal
+U1411 Fuel volume, serial communication implausible signal
+U1412 Vehicle speed, serial communication -implausible signal
+U1413 Odometer mileage, serial communication implausible signal
+U1417 LH front wheel, distance traveled -implausible signal
+U1418 RH front wheel, distance traveled implausible signal
+U1421 Fuel volume, serial communication implausible signal

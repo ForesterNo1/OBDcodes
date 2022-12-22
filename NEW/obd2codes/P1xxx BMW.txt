@@ -1,0 +1,480 @@
+P1001 WT control circuit malfunction – no signal, bank 1
+P1002 VVT sensor circuit, solenoid loss, bank 1
+P1003 VVT sensor circuit malfunction – no input, bank 1
+P1004 VVT supply voltage circuit malfunction – high input, bank 1
+P1005 VVT self-test, bank 1 – adaptive learning – positions not stored
+P1006 WT self-test – out of range, bank 1
+P1007 VVT self-test – out of range, bank 1
+P1008 VVT control circuit , bank 1 – diagnostic fault
+P1009 VVT sensor circuit, bank 1 -diagnostic fault
+P1010 VVT control motor, bank 1 – position circuit malfunction
+P1011 VVT control circuit – current too high
+P1012 WT control circuit, bank 1 – high input
+P1013 VVT control circuit, bank 1 – low input
+P1014 WT control motor, bank 1 – supply voltage high input
+P1015 WT control motor, bank 1 – supply voltage low input
+P1017 VVT control module – internal fault, current too high
+P1018 VVT control module – internal fault, voltage low
+P1019 VVT starting position/rest position comparison – circuit malfunction, bank 1
+P101A WT overload protection – high input, bank 1
+P101B P101B - Oxygen Sensor Circuit No Activity Detected Bank 2 Sensor 1
+P1020 WT overload protection, control motor- current high, bank 1
+P1021 WT overload protection – control motor current too high
+P1022 WT overload protection – control motor temperature too high
+P1023 Fuel Control Mixture Lean Bank 1 Sensor 1
+P1024 Fuel Control Mixture Lean Bank 2 Sensor 1
+P1025 Fuel Control Mixture Rich Bank 2 Sensor 1
+P1026 O2 Sensor Circuit Slow Response in Lean Control Range Bank 1 Sensor 1
+P1027 O2 Sensor Circuit Slow Response in Rich Control Range Bank 1 Sensor 1
+P1028 Pre-Catalyst Fuel Trim Too Rich Bank 1
+P102C Pre-Catalyst Fuel Trim Too Lean Bank 2
+P1030 O2 Sensor Circuit Slow Response in Rich Control Range Bank 2 Sensor 1
+P1031 O2 Sensor Circuit Slow Switching From Lean to Rich Bank 1 Sensor 1
+P1033 O2 Sensor Circuit Slow Switching From Lean to Rich Bank 2 Sensor 1
+P1034 O2 Sensor Circuit Slow Response after Coast Down Fuel Cutoff Bank 1 Sensor 1
+P1036 O2 Sensor Circuit Slow Response after Coast Down Fuel Cutoff Bank 2 Sensor 2
+P1037 Throttle position sensor (TPS), sensor A and B – range/performance
+P1039 Manifold differential pressure (MOP) sensor, bank 1 – pressure above upper limit
+P103A Manifold differential pressure (MOP) sensor, bank 1 – pressure below lower limit
+P1040 Engine Coolant Temperature Radiator Outlet Sensor High Input
+P1041 Mass Or Volume Air Flow Circuit Low Input Bank 2
+P1042 Mass Or Volume Air Flow Circuit High Input Bank 2
+P1043 Intake air temperature (IAT) sensor 1, bank 1 – maximum temperature implausible
+P1044 Intake air temperature (IAT) sensor 1, bank 1 – minimum temperature implausible
+P1045 Heated oxygen sensor (H02S) 1, bank 2 – open circuit
+P1046 Pedal Position 1 Range/Performance Problem
+P1047 Pedal Position 1 High Input
+P1048 Heated oxygen sensor (H02S) 1, bank 1 – open circuit
+P1049 Heated oxygen sensor (H02S) 2, bank 2 – dynamic test malfunction
+P1050 O2 Sensor Heater Control Circuit Bank 1 Sensor 1
+P1051 O2 Sensor Heater Circuit Signal Intermittent Bank 1 Sensor 2
+P1052 O2 Sensor Heater Circuit Low Voltage Bank 1 Sensor 1
+P1053 O2 Sensor Heater Circuit High Voltage Bank 1 Sensor 1
+P1054 O2 Sensor Heater Circuit Signal Intermittent Bank 1 Sensor 2
+P1055 O2 Sensor Heater Circuit High Voltage Bank 1 Sensor 2
+P1056 Solenoid Valve Running Losses Control Circuit Electrical
+P1057 Post catalytic convertor fuel trim (FT), bank 1 – too lean
+P1058 Post catalytic convertor fuel trim (FT), bank 2 – too rich
+P1059 Post catalytic convertor fuel trim (FT), bank 2 – too lean
+P105A Mass air flow (MAF) sensor – defective
+P105B O2 Sensor Heater Circuit Signal Intermittent Bank 2 Sensor 1
+P1060 O2 Sensor Heater Circuit Low Voltage Bank 2 Sensor 1
+P1061 O2 Sensor Heater Circuit High Voltage Bank 2 Sensor 1
+P1062 O2 Sensor Heater Circuit Low Voltage Bank 2 Sensor 2
+P1063 O2 Sensor Heater Circuit High Voltage Bank 2 Sensor 2
+P1064 Mass air flow (MAF) sensor – defective
+P1068 Fuel Trim Additve Bank 2 Low
+P1069 Engine oil temperature (EOT) sensor - range/performance problem
+P1070 Fuel Trim Additve Per Ignition Bank 1 Low
+P1071 Fuel Trim Additve Per Ignition Bank 1 High
+P1072 Fuel Trim Additve Per Ignition Bank 2 Low
+P1075 Mass air flow (MAF) sensor – range/ performance
+P1076 Ambient Pressure Sensor Learned Value Error
+P1077 Ambient Pressure Sensor Rationality Check
+P1078 Fuel trim (FT), Bank 1 - range/performance problem
+P1079 Fuel Trim Adaptation Additve Bank 2 Malfunction
+P107A Heated oxygen sensor (HO2S) 1, Bank 1 - slow response
+P107B O2 Sensor Slow Response Bank 2
+P107C O2 Sensor Signal Circuit Slow Switching From Rich to Lean Bank 1 Sensor 1
+P1080 O2 Sensor Signal Circuit Slow Switching From Rich to Lean Bank 2 Sensor 1
+P1081 O2 Sensor Signal Circuit Slow Switching From Rich to Lean Bank 1 Sensor 2
+P1082 O2 Sensor Signal Circuit Slow Switching From Rich to Lean Bank 2 Sensor 2
+P1083 O2 Sensor Bank 1 Sensor 2 Open Circuit During Coast Down Fuel Cut-off
+P1084 O2 Sensor Bank 2 Sensor 2 Open Circuit During Coast Down Fuel Cut-off
+P1085 Heated oxygen sensor (HO2S) 2, Bank 2 - heater circuit malfunction
+P1086 O2 Sensor Heater Control Circuit Bank 2 Sensor 2
+P1087 Fuel trim (FT), Bank 1 - range/performance problem
+P1088 Fuel Control Bank 2 Sensor 1
+P1090 Pre-Catalyst Fuel Trim System Bank 1
+P1091 Pre-Catalyst Fuel Trim System Bank 2
+P1092 Post-catalyst Fuel Trim System Bank 1
+P1093 Post-catalyst Fuel Trim System Bank 2
+P1094 Manifold differential pressure (MOP) sensor, bank 1 – signal high
+P1095 Manifold differential pressure (MOP) sensor, bank 1 – signal low
+P1096 Fuel pump – speed too high
+P1097 Fuel pump – speed too low
+P1098 Fuel pump – emergency operation
+P1100 Fuel pump – temperature too high
+P1104 Pedal Position Sensor 2 High Input
+P1105 Fuel pump relay – primary circuit high voltage
+P110F Fuel pump – emergency cut-off
+P1112 Fuel Pressure Low
+P1116 Charge Air Pressure Actuator Short Circuit To Ground
+P1117 Engine torque difference Bank 1 to 2 - malfunction
+P1118 Ambient Air Pressure Sensor Electrical
+P111E Switching Solenoid for Air Assisted Injection Valves Bank 1 Control Circuit Signal Low
+P111F Switching Solenoid for Air Assisted Injection Valves Bank 2 Control Circuit Electrical
+P1120 Switching Solenoid for Air Assisted Injection Valves Bank 2 Control Circuit Signal Low
+P1121 Switching Solenoid for Air Assisted Injection Valves Bank 2 Control Circuit Signal High
+P1122 Camshaft position (CMP) sensor A, bank 1 – timing error
+P1123 Ignition system diagnostic monitor, cylinder 1 – duration too short
+P1124 Ignition system diagnostic monitor, cylinder 2 – duration too short
+P112B Ignition system diagnostic monitor, cylinder 3 – duration too short
+P112C Ignition system diagnostic monitor, cylinder 4 – duration too short
+P1130 Ignition system diagnostic monitor, cylinder 6 – duration too short
+P1131 A' Camshaft Position Plausibility
+P1132 Fuel System Error
+P1134 B' Camshaft Position Plausibility
+P1135 Knock sensor (KS) 2, bank 1 – low input
+P1136 Knock sensor (KS) 2, bank 1 – high input
+P1137 Knock Sensor 4 Low Input
+P1138 Knock Sensor 4 High Input
+P1139 Multiple Cylinder Misfire During Start
+P113A Multiple Cylinder Misfire With Fuel Cut-off
+P113B Misfire During Start Cylinder 1
+P1140 Misfire Cylinder 1 With Fuel Cut-off
+P1145 Misfire During Start Cylinder 2
+P114A Misfire Cylinder 2 With Fuel Cut-off
+P114B Misfire During Start Cylinder 3
+P114C Misfire Cylinder 3 With Fuel Cut-off
+P114D Misfire During Start Cylinder 4
+P114F Misfire Cylinder 4 With Fuel Cut-Off
+P1150 Misfire During Start Cylinder 5
+P1151 Misfire Cylinder 5 With Fuel Cut-Off
+P1152 Misfire During Start Cylinder 6
+P1153 Misfire Cylinder 6 With Fuel Cut-Off
+P1155 Misfire During Start Cylinder 7
+P1156 Misfire Cylinder 7 With Fuel Cut-Off
+P1157 Misfire During Start Cylinder 8
+P1159 Misfire Cylinder 8 With Fuel Cut-Off
+P115A Misfire Cylinder 9 With Fuel Cut-Off
+P115B Knock sensor (KS) 2, bank 1 – range/performance
+P115C Misfire During Start Cylinder 10
+P1160 Misfire Cylinder 10 With Fuel Cut-Off
+P1161 Misfire During Start Cylinder 11
+P1162 Misfire Cylinder 11 With Fuel Cut-Off
+P1163 Misfire During Start Cylinder 12
+P1164 Misfire Cylinder 12 With Fuel Cut-Off
+P1165 Ignition system diagnostic monitor – electrical malfunction
+P116C Knock Sensor 3 Circuit
+P116E Knock Sensor 4 Circuit
+P1171 Knock sensor(s) (KS) - circuit malfunction
+P1172 Crankshaft position (CKP) sensor – timing plausibility
+P1173 Camshaft Position Sensor 'B' Circuit Bank 1
+P1174 Heated Catalyst Battery Voltage or Current too Low During Heating Bank 1
+P1175 Heated Catalyst Current Too High During Heating Bank 1
+P1176 Heated Catalyst Power Switch Overtemperature Condition Bank 1
+P1177 Carbon Canister Shut Off Valve Control Circuit Electrical
+P1178 Heated Catalyst Current too High During Heating Bank 2
+P1179 Heated Catalyst Power Switch Overtemperature Condition Bank 2
+P1180 Heated Catalyst Internal Control Module Checksum/ROM Error
+P1181 Fuel level signal, 1 – incorrect value
+P1182 Fuel level signal, 2 – incorrect value
+P1183 Secondary air injection (AIR), bank 1, bank 2 – insufficient flow detected
+P1186 Fuel injection – injector cut-off
+P1187 Secondary air injection (AIR), pump relay – signal low
+P1188 Secondary air injection (AIR), pump relay – signal high
+P1189 Mass air flow (MAF)/vane air flow (VAF) – flow too low
+P1190 Throttle control system – incorrect air flow
+P1191 Secondary Air Valve Or The Tube Blocked
+P1192 Secondary Air System Air Mass Flow Sensor Disconnected or Stuck Signal
+P1193 Secondary Air Valve Control Circuit Electrical
+P1197 Secondary Air System Bank 2
+P1198 Mass air flow (MAF)/vane air flow (VAF) – flow too high
+P1199 Secondary Air Injection System Incorrect Flow Detected
+P1214 Fuel tank leakage diagnostic module
+P1215 Catalyst temperature sensor – wrong code
+P1216 Purge Control Valve Control Circuit Signal Low
+P1217 Catalyst temperature sensor – correlation error
+P1221 Catalyst temperature sensor – range error
+P1222 Purge Control Valve Control Circuit Signal High
+P1223 Leakage Diagnostic Pump Control Open Circuit
+P1230 Leakage Diagnostic Pump Control Circuit Signal Low
+P1234 Leakage Diagnostic Pump Control Circuit Signal High
+P1236 Diagnostic Module Tank Leakage Pump Control Open Circuit
+P1244 Diagnostic Module Tank Leakage Pump Control Circuit Signal Low
+P1250 Diagnostic Module Tank Leakage Pump Control Circuit Signal High
+P1252 Fuel tank leakage diagnostic module – pump current too high
+P1270 Fuel tank leakage diagnostic module – pump current too low
+P1271 Fuel tank leakage diagnostic module – pump current too high
+P1283 Diagnostic Module Tank Leakage Switching Solenoid Open Circuit
+P1284 Diagnostic Module Tank Leakage Switching Solenoid Control Circuit Signal Low
+P1285 Diagnostic Module Tank Leakage Switching Solenoid Control Circuit Signal High
+P1287 Secondary air injection (AIR), pump relay – signal low
+P1288 Secondary Air Injection Pump With Series Resistor Control Circuit Electrical
+P1289 Heated Catalyst Heater Power Switch Temperature Sensor Electrical Bank 1
+P1300 Heated Catalyst Heater Power Supply Open Circuit Bank 2
+P1301 Heated Catalyst Heater Power Switch Temperature Sensor Electrical Bank 2
+P1302 Heated Catalyst Gate Voltage Signal Low
+P1303 Heated Catalyst Internal Control Module Checksum/ROM Error
+P1304 Heated Catalyst Battery Temperature Sensor 1 Electrical
+P1305 Heated Catalyst Battery Temperature Sensor 2 Electrical
+P1306 Heated Catalyst Battery Temperature Sensor 1 or 2 Plausibility
+P130A Heated Catalyst Power Switch Temperature Sensor Plausibility
+P1313 Heated Catalyst Comparison Battery Voltages of Power Switches Plausibility
+P1314 Heated Catalyst Battery Disconnecting Switch Plausibility
+P1317 Evaporative emission (EVAP) canister purge valve - ECM output stage
+P1327 Diagnostic Module Tank Leakage Pump Current Plausibility
+P1328 Leakage Diagnostic Pump Clamped Tube
+P1329 Leakage Diagnostic Pump Reed Switch Did Not Open
+P1330 Evaporative Emissions System Leak Detected
+P1332 Brake Boost Vacuum System Mechanical Failure
+P1333 Downstream Throttle Air Leak
+P1340 Unmetered Air After Compressor
+P1341 Electric fan self-test fault
+P1342 Radiator ventilation self-test fault
+P1343 Manifold differential pressure circuit, actuator 1 – mechanical fault
+P1344 Manifold differential pressure circuit, actuator 2 – mechanical fault
+P1345 Radiator ventilation, lower- electrical fault
+P1346 Radiator ventilation, upper- electrical fault
+P1347 Radiator ventilation – electrical fault
+P1348 Battery temperature sensor circuit – temperature error
+P1349 Idle Speed Control Valve Stuck Closed
+P1350 Idle Speed Control Valve Closing Solenoid Control Circuit Signal High or Low
+P1351 Idle Speed Control Valve Closing Solenoid Control Circuit Signal Low
+P1352 Idle Speed Control Valve Closing Solenoid Control Open Circuit
+P1353 Idle Speed Control Valve Closing Solenoid Control Circuit Electrial
+P1354 Idle Speed Control Valve Open Solenoid Control Circuit Signal High
+P1355 Idle Speed Control Valve Open Solenoid Control Circuit Signal Low
+P1356 Idle Speed Control Valve Opening Solenoid Control Open Circuit
+P1357 Idle speed control (ISC) actuator - malfunction
+P1358 Battery temperature sensor circuit – electrical fault
+P1359 Battery temperature sensor circuit – electrical fault
+P135B Battery temperature sensor circuit
+P135C Battery temperature sensor circuit – voltage error
+P1360 Battery temperature sensor circuit – current error
+P1361 Idle Speed Control Valve Stuck
+P1362 Manifold differential pressure circuit – electrical fault
+P1363 Manifold differential pressure circuit – signal low
+P1364 Manifold differential pressure circuit – signal high
+P1365 Engine off timer – implausible signal
+P1377 MS40/41/42/46/M5. 2: Inlet camshaft control system, end position - plausibility
+P1381 Battery temperature sensor circuit – electrical fault
+P1382 Battery temperature sensor circuit – electrical fault
+P1383 Battery temperature sensor circuit
+P1384 Oil quality sensor- communication error
+P1385 Inlet camshaft control system, camshaft position - plausibility
+P1386 Camshaft Position Actuator 'A' Signal High Bank 1
+P1396 Camshaft position (CMP) actuator, inlet camshaft - ECM output stage
+P1397 Inlet camshaft control system, Bank 2 - ECM output stage
+P1400 Camshaft Position Actuator 'A' Control Circuit Signal Low Bank 1
+P1401 Camshaft Position Actuator 'A' Control Circuit Signal High Bank 1
+P1402 Camshaft position (CMP) actuator, exhaust camshaft - ECM output stage
+P1403 Idle Air Control Actuator 2 Target Position Fault
+P1404 Camshaft Position Actuator 'B' Control Open Circuit Bank 1
+P1405 Camshaft Position Actuator 'B' Control Open Circuit Bank 2
+P1406 Camshaft Position Actuator 'B' Control Circuit Signal Low Bank 2
+P1407 Camshaft Position Actuator 'B' Control Circuit Signal High Bank 2
+P1408 Electronic stability program (ESP) control switch – input too high
+P140A Electronic stability program (ESP) control switch – input too low
+P140E Pedal Position Sensor Electrical
+P1413 Pedal Position Sensor
+P1414 Pedal Position Sensor
+P1415 Pedal Position Sensor
+P1417 Pedal Position Sensor
+P1418 Idle speed control (ISC) actuator - malfunction
+P1419 Engine off timer – timeout
+P1420 Camshaft Position Actuator 'A' Control Open Circuit Bank 1
+P1421 Engine position system B, bank 1 – performance
+P1422 Engine position system A, bank 1 – performance –
+P1423 Camshaft Position Actuator 'A' Control Open Circuit Bank 1
+P1424 Cruise control signal – interface fault
+P1432 Camshaft Position Actuator 'B' Control Open Circuit Bank 1
+P1434 Cold start idle air control (lAC) system – RPM lower then expected
+P1438 Cruise control switch – defective
+P1439 Control Module Selection
+P143C Camshaft Position Actuator 'B' Control Open Circuit Bank 1
+P143E Camshaft Position Actuator 'A' Control Open Circuit Bank 2
+P1440 Cruise control signal – interface fault
+P1441 Oil pump circuit – high voltage
+P1442 Oil pump circuit – low voltage
+P1443 Oil pump circuit – open circuit
+P1444 Random/multiple cylinder(s) - misfire detected
+P1445 Oil quality sensor – temperature error
+P1446 Oil quality sensor – temperature error
+P1447 Knock sensor(s) (KS) - circuit malfunction
+P1448 Idle Air Control Actuator 2 Random Access Memory Error
+P1449 Engine oil pressure – mechanical control solenoid sticking deactivated
+P1450 Engine oil pressure – too high
+P1451 Engine oil pressure – too high before start
+P1452 Engine oil pressure – too low before start
+P1453 Charging system – battery discharged
+P1454 Charging system – voltage low
+P1457 Charging system – voltage high
+P1459 Charging system – battery discharged/disconnected
+P1460 Charging system – battery discharged
+P1461 ECM self-test – electrical fault
+P1462 Map Cooling Thermostat Control Circuit Signal Low
+P1463 Map Cooling Thermostat Control Circuit Signal High
+P1464 Engine coolant temperature (ECT) sensor, ECM controlled cooling system - ECM output stage
+P1465 MIL Request Signal Active
+P1466 Accelerator pedal position (APP) sensor, supply voltage 2 – electrical fault
+P1467 Throttle valve – adaptation failure
+P1468 Throttle valve adaptation – limp home position incorrect
+P1470 Throttle valve adaptation – return spring test failed, bank 1
+P1472 Throttle valve adaptation – mechanical stop not adapted, bank 1
+P1473 Throttle valve control circuit, bank 1 -circuit malfunction
+P1475 Throttle position control – control deviation, bank 1
+P1476 Throttle position control – throttle stuck temporarily, bank 1
+P1477 Throttle position control – throttle stuck permanently, bank 1
+P1478 Throttle valve adaptation – mechanical stop not adapted, bank 1
+P1479 Accelerator pedal position (APP) sensor, supply voltage 1 – electrical fault
+P1497 ECM – internal fault
+P1498 Cruise control module self-test – internal fault
+P14A3 Pressure Of Diesel Particulate Filter Implausible To Atmospheric Pressure Or Boost Pressure
+P14C0 Cruise control signal – malfunction
+P14C1 Cruise control signal – implausible signal
+P14C2 ECM – internal fault
+P14C3 Throttle valve actuator, start test – adaptive learning not complete
+P14C4 Malfunction indicator lamp (MIL) - circuit malfunction
+P14C5 Throttle valve adaptation – limp home position failed
+P14C6 ECM – internal fault
+P1500 ECM – internal fault
+P1501 Time out control module – knock sensor (KS) bus
+P1502 Time out control module – output bus
+P1503 ECM self-test – cruise control monitoring fault
+P1504 ECM self-test- mass air flow (MAF) sensor monitoring fault
+P1505 ECM self-test – throttle position (TP) monitoring fault
+P1506 ECM self-test – speed monitoring reset
+P1507 ECM self-test – accelerator pedal position ·(APP) monitoring fault
+P1508 ECM self-test- idle air control (lAC) system fault
+P1509 ECM self-test – idle air control (lAC) system fault
+P150A ECM self-test – cruise control distance monitoring fault
+P150B ECM self-test- torque converter clutch (TCC) monitoring fault
+P150C ECM self-test- torque loss monitoring fault
+P150D ECM self-test – electronic stability program (ESP) monitoring
+P150E ECM self-test – speed limitation monitoring fault
+P150F CAN interface timeout
+P1510 Fuel pump circuit – no signal
+P1511 CAN Torque Interface
+P1512 WT limp home mode – high input
+P1513 WT limp home mode – open circuit
+P1515 WT control circuit, solenoid loss, bank 1
+P1519 WT control circuit – reset malfunction, bank 1
+P151A WT control circuit malfunction – implausible sensor data, bank 1
+P151B WT control circuit – reset malfunction, bank 2
+P151C WT control circuit malfunction – implausible sensor data, bank 2
+P1520 WT sensor circuit, solenoid loss, bank 1
+P1521 WT sensor circuit malfunction – implausible sensor data, bank 1
+P1522 VVT sensor circuit – implausible sensor data, bank 1
+P1523 WT sensor circuit – implausible sensor data, bank 2
+P1524 WT supply voltage circuit malfunction – high input, bank 1
+P1525 WT supply voltage circuit malfunction -low input, bank 1
+P1526 WT supply voltage circuit malfunction – high input, bank 2
+P1527 WT supply voltage circuit malfunction – low input, bank 2
+P1528 VVT self-test – out of range, bank 1
+P1529 VVT self-test- out of range, bank 1
+P152A VVT self-test – no value, bank 1
+P152B VVT self-test – out of range, bank 2
+P1530 VVT self-test – out of range, bank 2
+P1531 VVT self-test – no value, bank 2
+P1532 WT control motor, bank 1 – position circuit malfunction
+P1533 VVT actuator, bank 1 – direction of rotation malfunction
+P1534 VVT control motor, bank 2 – position circuit malfunction
+P1540 VVT actuator, bank 2 – direction of rotation malfunction
+P1541 VVT CAN timeout, bank 1
+P1542 VVT CAN timeout, bank 1
+P1543 VVT CAN timeout, bank 2
+P1544 VVT CAN timeout, bank 2
+P1545 VVT control module, bank 1 – EEPROM error
+P1546 VVT control module, bank 1 – RAM error
+P1550 VVT control module, bank 1 – ROM error
+P1551 VVT control module, bank 2 – RAM error
+P1552 VVT control module, bank 2 – ROM error
+P1553 VVT control circuit, bank 1 – high input
+P1554 VVT control circuit, bank 1 – low input
+P1556 WT control circuit, bank 1 – short circuit
+P155A VVT control circuit, bank 1 – circuit malfunction
+P1560 VVT control circuit, bank 2 – high input
+P1561 VVT control circuit, bank 2 – short circuit
+P1562 WT control motor, bank 1 – supply voltage high input
+P1563 VVT control motor, bank 1 – supply voltage low input
+P1564 VVT control motor, bank 1 – supply voltage circuit malfunction
+P1565 WT control motor, bank 2 – supply voltage high input
+P1569 WT control motor, bank 2 – supply voltage low input
+P1576 VVT control motor, bank 2 supply voltage circuit malfunction
+P1577 WT limp home mode, bank 1 – circuit malfunction
+P1578 WT limp home mode, bank 1 – full stroke position not reached
+P1582 VVT limp home mode, bank 1 – mass air flow (MAF) signal malfunction
+P1583 WT starting position/rest position comparison – circuit malfunction, bank 1
+P1584 WT sensor circuit – reset malfunction, bank 2
+P1585 WT sensor circuit malfunction – no input, bank 2
+P1586 WT control module, bank 1 – internal fault
+P1587 WT control module, bank 2 – internal fault
+P1588 WT overload protection – high input, bank 1
+P1589 WT overload protection, ECU temperature – high input, bank 1
+P1593 WT overload protection, control motor temperature – high input, bank 1
+P1598 VVT overload protection, control motor – current high, bank 1
+P15A1 WT overload protection – high input, bank 2
+P15A2 WT overload protection, ECU temperature – high input, bank 2
+P15A3 WT overload protection, control motor temperature – high input, bank 2
+P15A6 WT overload protection, control motor – current high, bank 2
+P15A7 Manifold differential pressure (MDP) sensor, bank 1 – pressure above upper limit
+P15B9 Check Valve (Intake Manifold) Leak Detected
+P1603 Manifold differential pressure (MOP) sensor, bank 1 – pressure above upper limit
+P160A Manifold differential pressure (MOP) sensor, bank 1 – pressure above upper limit
+P160C Intake air temperature (IAT) sensor 1, bank 1 – maximum temperature implausible
+P160D Engine coolant temperature (ECT) sensor – minimum temperature implausible
+P160E Heated oxygen sensor (H02S) 2, bank 2 – dynamic test malfunction
+P160F Mass air flow (MAF)/volume air flow (VAF), 1 – incorrect signal
+P1614 Mass air flow (MAF)/volume air flow (VAF), A – above upper limit
+P1618 Mass air flow (MAF)/volume air flow (VAF), A – below lower limit
+P1619 Mass air flow (MAF)/volume air flow (VAF), A- incorrect signal
+P1620 Mass air flow (MAF)/volume air flow (VAF), A – above upper limit
+P1622 Manifold differential pressure (MOP) sensor, bank 1 – signal high
+P1624 Manifold differential pressure (MOP) sensor, bank 1 – signal low
+P1625 Manifold differential pressure (MOP) sensor, bank 1 – implausible signal
+P1630 Knock sensor (KS) 2, bank 1 – low input
+P1631 Knock sensor (KS) 2, bank 1 – high input
+P1632 Knock sensor (KS) 3 – low input
+P1633 Knock sensor (KS) circuit 2, bank 1 – internal failure
+P1634 ECM self-test – bank 1 knock control malfunction
+P1635 Knock sensor (KS), 3 – control circuit internal failure
+P1636 ECM self-test- bank 1 knock control fault
+P1637 Fuel tank leakage diagnostic module – pump current too high
+P1638 Fuel tank leakage diagnostic module – pump current too high
+P1639 Radiator ventilation, upper- electrical fault
+P163C Radiator ventilation – electrical fault
+P163E Battery temperature sensor circuit – electrical fault
+P1641 Battery temperature sensor circuit – electrical fault
+P1642 Battery temperature sensor circuit
+P1643 Battery temperature sensor circuit – temperature error
+P1644 Battery temperature sensor circuit – current error
+P1645 Manifold differential pressure circuit – electrical fault
+P1649 Manifold differential pressure circuit – signal low
+P164C Manifold differential pressure circuit – signal high
+P1650 Battery temperature sensor circuit – electrical fault
+P165F Battery temperature sensor circuit – electrical fault
+P166A Battery temperature sensor circuit
+P166B Oil quality sensor – communication error
+P166C Oil quality sensor – communication error
+P166F Vehicle speed sensor (VSS) – speed too low compared to reference value
+P1675 Vehicle speed sensor (VSS) – speed too low compared to reference value
+P1676 Engine off timer – timeout
+P1677 Cold start idle air control (lAC) system – RPM higher then expected
+P1678 Cold start idle air control (lAC) system – RPM lower then expected
+P1680 Vehicle speed sensor (VSS) signal
+P1681 Vehicle speed sensor (VSS) signal
+P1685 Oil quality sensor – temperature error
+P1686 ECM self-test- torque monitoring
+P1690 Charging system – battery discharged
+P1694 Charging system – voltage low
+P169A Charging system – voltage high
+P16A0 Charging system – battery discharged/ disconnected
+P16A1 Charging system – battery discharged
+P16A3 Cruise control – no signal
+P16A4 Throttle valve adaptation – limp home position incorrect
+P16A5 Throttle valve adaptation – return spring test failed, bank 1
+P16A6 Throttle valve adaptation – mechanical stop not adapted, bank 1
+P16A7 Throttle position control – control deviation, bank 1
+P16A8 Throttle position control – throttle stuck temporarily, bank 1
+P16A9 Throttle position control – throttle stuck permanently, bank 1
+P16B0 Engine control module (ECM) – incorrect voltage
+P16B1 Engine control module (ECM) – incorrect voltage
+P16B2 Engine control module (ECM) – communication error
+P16B3 Throttle valve adaptation – aborted
+P16B4 Throttle valve adaptation – aborted
+P16B6 Throttle valve actuator – adaptation failure
+P16B7 Throttle valve adaptation – mechanical stop not adapted, bank 1
+P16B8 Engine control module (ECM) – RAM malfunction
+P16B9 Engine control module (ECM) – ROM malfunction
+P16C0 Starter request circuit – engine start request while engine is running
+P16C1 Cruise contro.l – implausible signal
+P16C2 Cruise control – no signal
+P16C5 Cruise control – no response
+P16C6 Throttle position (TP) control circuit – internal malfunction
+P16C8 Throttle position (TP) control circuit- speed ratio error
+P1721 Throttle position (TP) control circuit – malfunction
+P1732 ECM, knock sensor (KS) control – internal failure
+P1770 CAN data bus monitoring – ETC timeout
+P3263 EML Frequently Illuminating

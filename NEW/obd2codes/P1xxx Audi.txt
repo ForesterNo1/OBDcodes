@@ -1,0 +1,588 @@
+P1009 Air Mass Meter 1/2 Implausible Signal From Load Detection
+P1018 Intake Manifold Runner Bank 2 Lower Limit Not Reached
+P1020 Fuel pressure - control limit exceeded
+P1023 Fuel pressure control valve - short to ground
+P1024 Fuel pressure control valve - open circuit
+P1025 Fuel pressure control valve - mechanical fault
+P1026 Intake manifold air control solenoid - short to positive
+P1027 Intake manifold air control solenoid - short to ground
+P1028 Intake manifold air control solenoid - open circuit
+P1029 Intake manifold air control valve position sensor - upper limit not reached
+P1030 Intake manifold air control valve position sensor - lower limit not reached
+P1031 Intake manifold air control valve position sensor - specification not attained
+P1032 Nitrogen oxides (NOx) sensor - signal too high
+P1033 Nitrogen oxides (NOx) sensor - signal too low
+P1034 Nitrogen oxides (NOx) sensor - signal outside tolerance
+P1035 Nitrogen oxides (NOx) sensor - range/performance problem
+P1036 Nitrogen oxides (NOx) heater sensor - short to positive
+P1037 Nitrogen oxides (NOx) heater sensor - short to ground
+P1038 Nitrogen oxides (NOx) heater sensor - open circuit
+P1039 Injector 1, supply voltage - short circuit
+P1040 Injector 1, supply voltage - circuit malfunction
+P1041 Injector 2, supply voltage - short circuit
+P1042 Injector 2, supply voltage - circuit malfunction
+P1043 Injector 3, supply voltage - short circuit
+P1044 Injector 3, supply voltage - circuit malfunction
+P1045 Injector 4, supply voltage - short circuit
+P1046 Injector 4, supply voltage - circuit malfunction
+P1047 Camshaft position (CMP) actuator, exhaust/ right/rear, Bank 1 - circuit malfunction
+P1048 Camshaft position (CMP) actuator, exhaust/ right/rear, Bank 1 - short to positive
+P1049 Camshaft position (CMP) actuator, exhaust/ right/rear, Bank 1 - short to ground
+P1050 Camshaft position (CMP) actuator, exhaust/ right/rear, Bank 1 - open circuit
+P1055 Bank 1 Camshaft Adjustment Short To B+
+P1056 Bank 1 Camshaft Adjustment Short To Ground
+P1057 Bank 1 Camshaft Adjustment Short To Open Circuit
+P1063 Fuel pressure - control limit not reached
+P1064 Fuel pressure - mechanical fault
+P1065 Fuel pressure - system deviation
+P1066 Intake manifold air control solenoid - short to positive
+P1067 Intake manifold air control solenoid - short to ground
+P1068 Intake manifold air control solenoid - open circuit
+P1069 Nitrogen oxides (NOx) sensor - heater control - short to ground
+P1070 Nitrogen oxides (NOx) sensor - heater control - short to positive
+P1071 Nitrogen oxides (NOx) sensor - heater control - incorrect signal
+P1072 Nitrogen oxides (NOx) sensor - heater control - circuit malfunction
+P1073 Mass Air Flow Sensor 2 Signal Too Small
+P1074 Mass Air Flow Sensor 2 Signal Too Large
+P1081 Exhaust Bank 3- Mixture Adaption Range 1 Lower Lean Limit Not Reached
+P1082 Exhaust Bank 3- Mixture Adaption Range 2 Lower Lean Limit Not Reached
+P1083 Exhaust Bank 3- Mixture Adaption Range 1 Lower Rich Limit Not Reached
+P1084 Exhaust Bank 3- Mixture Adaption Range 2 Lower Rich Limit Not Reached
+P1085 Exhaust Bank 4- Mixture Adaption Range 1 Lower Lean Limit Not Reached
+P1086 Exhaust Bank 4- Mixture Adaption Range 2 Lower Lean Limit Not Reached
+P1087 Exhaust Bank 4- Mixture Adaption Range 1 Lower Rich Limit Not Reached
+P1088 Exhaust Bank 4- Mixture Adaption Range 2 Lower Rich Limit Not Reached
+P1093 Mixture control (MC), Bank 1 - malfunction
+P1100 HO2S12 Sensor Circuit Voltage Too Low Air Leak
+P1101 Heated oxygen sensor (HO2S) 1, Bank 1 - low voltage/air leak
+P1102 Heated oxygen sensor (HO2S) 1, Bank 1 - heater short to positive
+P1103 Heated oxygen sensor (HO2S) 1, Bank 1 - heater output too low
+P1104 HO2S12 Sensor Circuit Voltage Too Low Air Leak
+P1105 Heated oxygen sensor (HO2S) 2, Bank 1 - heater short to positive
+P1106 Heated oxygen sensor (HO2S) 1, Bank 2 - low voltage/air leak
+P1107 Heated oxygen sensor (HO2S) 1, Bank 2 - heater short to positive
+P1109 HO2S22 Sensor Circuit Voltage Too Low Air Leak
+P1110 Heated oxygen sensor (HO2S) 2, Bank 2 - heater short to positive
+P1111 Heated oxygen sensor (HO2S) control, Bank 1 - system too lean
+P1112 Heated oxygen sensor (HO2S) control, Bank 1 - system too rich
+P1113 Heated oxygen sensor (HO2S) 1, Bank 1 - heater resistance too high
+P1114 Heated oxygen sensor (HO2S) 2, Bank 1 - heater resistance too high
+P1115 Heated oxygen sensor (HO2S) 1, Bank 1 - heater short to ground
+P1116 Heated oxygen sensor (HO2S) 1, Bank 1 - heater open circuit
+P1117 Heated oxygen sensor (HO2S) 2, Bank 1 - heater short to ground
+P1118 Heated oxygen sensor (HO2S) 2, Bank 1 - heater open circuit
+P1119 Heated oxygen sensor (HO2S) 1, Bank 2 - heater short to ground
+P1120 Heated oxygen sensor (HO2S) 1, Bank 2 - heater open circuit
+P1121 Heated oxygen sensor (HO2S) 2, Bank 2 - heater short to ground
+P1122 Heated oxygen sensor (HO2S) 2, Bank 2 - heater open circuit
+P1123 Long Term Fuel Trim Adjustment Bank 1 System Too Rich
+P1124 Long Term Fuel Trim Adjustment Bank 1 System Too Lean
+P1125 Long Term Fuel Trim Adjustment Bank 2 System Too Rich
+P1126 Long Term Fuel Trim Adjustment Bank 2 System Too Lean
+P1127 Long term fuel trim, entire speed/load range, Bank 1 - system too rich
+P1128 Long term fuel trim, entire speed/load range, Bank 1 - system too lean
+P1129 Long term fuel trim, entire speed/load range, Bank 2 - system too rich
+P1130 Long term fuel trim, entire speed/load range, Bank 2 - system too lean
+P1131 Heated oxygen sensor (HO2S) 1, Bank 1 - heater resistance too high
+P1132 Heated oxygen sensor (HO2S) 1, Bank 1 & 2 - heater control - circuit high
+P1133 Heated oxygen sensor (HO2S) 1, Bank 1 & 2 - heater control - circuit low
+P1134 HO2S Heater Circuit- Bank 1 & 2 Sensor 2 Short To B+
+P1135 HO2S Heater Circuit- Bank 1 & 2 Sensor 2 Electrical Malfunction
+P1136 Long term fuel trim, idling, Bank 1 - system too lean
+P1137 Long term fuel trim, idling, Bank 1 - system too rich
+P1138 Long term fuel trim, idling, Bank 2 - system too lean
+P1139 Long term fuel trim, idling, Bank 2 - system too rich
+P1140 Heated oxygen sensor (HO2S) 2, Bank 2 - heater resistance too high
+P1141 Load calculation - implausible value
+P1142 Load calculation - too low
+P1143 Load calculation - too high
+P1144 Mass air flow (MAF) sensor, Bank 1 - open circuit/short to ground
+P1145 Mass air flow (MAF) sensor, Bank 1 - short to positive
+P1146 Mass air flow (MAF) sensor, Bank 1 - supply voltage
+P1147 Heated oxygen sensor (HO2S) 1, Bank 2 - lambda regulation, system too lean
+P1148 Heated oxygen sensor (HO2S) 1, Bank 2 - lambda regulation, system too rich
+P1149 Heated oxygen sensor (HO2S) 1, Bank 1 - implausible lambda control value
+P1150 Heated oxygen sensor (HO2S) 1, Bank 2 - implausible lambda control value
+P1151 Long term fuel trim 1, Bank 1 - below lean limit
+P1152 Long term fuel trim 2, Bank 1 - below lean limit
+P1153 Heated oxygen sensor (HO2S) 2, Bank 1 & 2 - interchanged
+P1154 Manifold Switch Over Malfunction
+P1155 Manifold absolute pressure (MAP) sensor - short to positive
+P1156 Manifold absolute pressure (MAP) sensor - open circuit/short to ground
+P1157 Manifold absolute pressure (MAP) sensor - supply voltage
+P1158 Manifold absolute pressure (MAP) sensor - range/performance problem
+P1159 Mass air flow (MAF) sensor, Bank 1 & 2 - implausible ratio
+P1160 Intake air temperature (IAT) sensor - short to ground
+P1161 Intake air temperature (IAT) sensor - open circuit/short to positive
+P1162 Fuel temperature sensor - short to ground
+P1163 Fuel temperature sensor - open circuit/short to positive
+P1164 Fuel temperature sensor - range/performance problem
+P1165 Long term fuel trim 1, Bank 1 - above rich limit
+P1166 Long term fuel trim 2, Bank 1 - above rich limit
+P1167 Mass air flow (MAF) sensor, Bank 2 - range/performance problem
+P1168 Mass air flow (MAF) sensor, Bank 2 - low input
+P1169 Mass air flow (MAF) sensor, Bank 2 - high input
+P1170 Mass air flow (MAF) sensor, Bank 2 - supply voltage
+P1171 Throttle motor position sensor 2 - range/performance problem
+P1172 Throttle motor position sensor 2 - low input
+P1173 Throttle motor position sensor 2 - high input
+P1174 Fuel measurement system, Bank 1 - injection timing incorrect
+P1176 Lambda correction after catalyst, Bank 1 - control limit reached
+P1177 Lambda correction after catalyst, Bank 2 - control limit reached
+P1178 Heated oxygen sensor (HO2S) 1, Bank 1, pump current - open circuit
+P1179 Heated oxygen sensor (HO2S) 1, Bank 1, pump current - short to ground
+P1180 Heated oxygen sensor (HO2S) 1, Bank 1, pump current - short to positive
+P1181 Heated oxygen sensor (HO2S) 1, Bank 1, reference voltage - open circuit
+P1182 Heated oxygen sensor (HO2S) 1, Bank 1, reference voltage - short to ground
+P1183 Heated oxygen sensor (HO2S) 1, Bank 1, reference voltage - short to positive
+P1184 Linear Oxygen Sensor Common Ground Open Circuit
+P1185 Linear Oxygen Sensor Common Ground Short To Ground
+P1186 Linear Oxygen Sensor Common Ground Short To Positive
+P1187 Heated oxygen sensor (HO2S) 1, Bank 1 or 2 - circuit malfunction
+P1188 Linear O2 Sensor Compensation Resistor Short to Ground
+P1189 Linear O2 Sensor Compensation Resistor Short to B+
+P1190 Heated oxygen sensor (HO2S) 1, Bank 1, reference voltage - range/performance problem
+P1191 Heated oxygen sensor (HO2S) 1, Bank 1 & 2 - interchanged
+P1192 Fuel pressure sensor - supply voltage
+P1193 Fuel pressure sensor - open circuit/ short to positive
+P1194 Fuel pressure control valve - short to positive
+P1195 Fuel pressure control valve - open circuit/short to ground
+P1196 Heated oxygen sensor (HO2S) 1, Bank 1, heater circuit malfunction
+P1197 Heated oxygen sensor (HO2S) 1, Bank 2, heater circuit malfunction
+P1198 Heated oxygen sensor (HO2S) 2, Bank 1, heater circuit malfunction
+P1199 Heated oxygen sensor (HO2S) 2, Bank 2, heater circuit malfunction
+P1200 Turbocharger Recirculating Valve Mechanical Malfunction
+P1201 Injector 1 - circuit malfunction
+P1202 Injector 2 - circuit malfunction
+P1203 Injector 3 - circuit malfunction
+P1204 Injector 4 - circuit malfunction
+P1205 Injector 5 - circuit malfunction
+P1206 Injector 6 - circuit malfunction
+P1207 Injector 7 - circuit malfunction
+P1208 Injector 8 - circuit malfunction
+P1209 Intake Valves For Cylinder Shut Off Short Circuit To Ground
+P1210 Intake Valves For Cylinder Shut Off Short to B+
+P1211 Intake Valves For Cylinder Shut Off Open Circuit
+P1213 Injector 1 - short to positive
+P1214 Injector 2 - short to positive
+P1215 Injector 3 - short to positive
+P1216 Injector 4 - short to positive
+P1217 Injector 5 - short to positive
+P1218 Injector 6 - short to positive
+P1219 Injector 7 - short to positive
+P1220 Injector 8 - short to positive
+P1221 Cylinder Shut Off Exhaust Valves Short Circuit To Ground
+P1222 Cylinder Shut Off Exhaust Valves Short To B+
+P1223 Cylinder Shut Off Exhaust Valves Open Circuit
+P1225 Injector 1 - short to ground
+P1226 Injector 2 - short to ground
+P1227 Injector 3 - short to ground
+P1228 Injector 4 - short to ground
+P1229 Injector 5 - short to ground
+P1230 Injector 6 - short to ground
+P1231 Injector 7 - short to ground
+P1232 Injector 8 - short to ground
+P1237 Injector 1 - open circuit
+P1238 Injector 2 - open circuit
+P1239 Injector 3 - open circuit
+P1240 Injector 4 - open circuit
+P1241 Injector 5 - open circuit
+P1242 Injector 6 - open circuit
+P1243 Injector 7 - open circuit
+P1244 Injector 8 - open circuit
+P1245 Injector needle lift sensor - short to ground
+P1246 Injector needle lift sensor - range/performance problem
+P1247 Injector needle lift sensor - open circuit/short to positive
+P1248 Start of injection - control difference
+P1249 Fuel Consumption Signal Electrical Fault In Circuit
+P1250 Fuel tank level sensor - low input
+P1251 Fuel injection timing solenoid - short to positive
+P1252 Fuel injection timing solenoid - open circuit/short to ground
+P1253 Instrument panel, fuel consumption signal - short to ground
+P1254 Instrument panel, fuel consumption signal - short to positive
+P1255 Engine coolant temperature (ECT) sensor - short to ground
+P1256 Engine coolant temperature (ECT) sensor - open circuit/short to positive
+P1257 Engine Coolant System Valve Open
+P1258 Engine Coolant System Valve Short To B+
+P1259 Engine Coolant System Valve Short To Ground
+P1260 Injector 1 - implausible signal
+P1261 Injector 1 - control limit exceeded
+P1262 Injector 1 - control limit not reached
+P1263 Injector 2 - implausible signal
+P1264 Injector 2 - control limit exceeded
+P1265 Injector 2 - control limit not reached
+P1266 Injector 3 - implausible signal
+P1267 Injector 3 - control limit exceeded
+P1268 Injector 3 - control limit not reached
+P1269 Injector 4 - implausible signal
+P1270 Injector 4 - control limit exceeded
+P1271 Injector 4 - control limit not reached
+P1278 Fuel metering solenoid - short to positive
+P1279 Fuel metering solenoid - open circuit/short to ground
+P1281 Fuel metering solenoid - short to ground
+P1282 Fuel metering solenoid - open circuit
+P1285 Fuel Injection Air Control Valve Circuit Short To Ground
+P1287 Turbocharger (TC) bypass valve - open circuit
+P1288 Turbocharger (TC) bypass valve - short to positive
+P1289 Turbocharger (TC) bypass valve - short to ground
+P1290 Engine coolant temperature (ECT) sensor, ECM controlled cooling system - high input
+P1291 Engine coolant temperature (ECT) sensor, ECM controlled cooling system - high input
+P1292 Engine coolant thermostat - open circuit
+P1293 Engine coolant thermostat - short to positive
+P1294 Engine coolant thermostat - short to ground
+P1295 Turbocharger (TC), bypass - flow malfunction
+P1296 Engine cooling system - malfunction
+P1297 Turbocharger (TC)/throttle valve, hose connection - pressure loss
+P1299 Fuel metering solenoid - circuit malfunction
+P1300 Random/multiple cylinder(s) - misfire detected
+P1320 Knock Sensor 2 Circuit Short To Ground
+P1321 Knock Sensor 3 Signal Too Low
+P1322 Knock Sensor 3 Signal Too High
+P1323 Knock Sensor 4 Signal Too Low
+P1324 Knock Sensor 4 Signal Too Low
+P1325 Knock control, cylinder 1 - control limit reached
+P1326 Knock control, cylinder 2 - control limit reached
+P1327 Knock control, cylinder 3 - control limit reached
+P1328 Knock control, cylinder 4 - control limit reached
+P1329 Knock control, cylinder 5 - control limit reached
+P1330 Knock control, cylinder 6 - control limit reached
+P1331 Knock control, cylinder 7 - control limit reached
+P1332 Knock control, cylinder 8 - control limit reached
+P1335 Engine torque control - limit reached
+P1336 Engine torque monitoring - control limit exceeded
+P1337 Camshaft position (CMP) sensor, Bank 1 - short to ground
+P1338 Camshaft position (CMP) sensor, Bank 1 - open circuit/short to positive
+P1339 Crankshaft position (CKP) sensor/ engine speed (RPM) sensor - interchanged
+P1340 Camshaft position (CMP) sensor 1/Bank 1/ crankshaft position (CKP) sensor - out of sequence
+P1341 Ignition amplifier, primary circuit 1 - short to ground
+P1342 Ignition amplifier, primary circuit 1 - short to positive
+P1343 Ignition amplifier, primary circuit 2 - short to ground
+P1344 Ignition amplifier, primary circuit 2 - short to positive
+P1345 Ignition amplifier, primary circuit 3 - short to ground
+P1346 Ignition amplifier, primary circuit 3 - short to positive
+P1347 Camshaft position (CMP) sensor 2/Bank 2/ crankshaft position (CKP) sensor - out of sequence
+P1348 Ignition amplifier, primary circuit 1 - open circuit
+P1349 Ignition amplifier, primary circuit 2 - open circuit
+P1350 Ignition amplifier, primary circuit 3 - open circuit
+P1351 Camshaft position (CMP) sensor, Bank 1 - range/performance problem
+P1354 Fuel quantity adjuster position sensor
+P1355 Ignition coil/amplifier, cylinder 1 - open circuit
+P1356 Ignition coil/amplifier, cylinder 1 - short to positive
+P1357 Ignition coil/amplifier, cylinder 1 - short to ground
+P1358 Ignition coil/amplifier, cylinder 2 - open circuit
+P1359 Ignition coil/amplifier, cylinder 2 - short to positive
+P1360 Ignition coil/amplifier, cylinder 2 - short to ground
+P1361 Ignition coil/amplifier, cylinder 3 - open circuit
+P1362 Ignition coil/amplifier, cylinder 3 - short to positive
+P1363 Ignition coil/amplifier, cylinder 3 - short to ground
+P1364 Ignition coil/amplifier, cylinder 4 - open circuit
+P1365 Ignition coil/amplifier, cylinder 4 - short to positive
+P1366 Ignition coil/amplifier, cylinder 4 - short to ground
+P1367 Ignition coil/amplifier, cylinder 5 - open circuit
+P1368 Ignition coil/amplifier, cylinder 5 - short to positive
+P1369 Ignition coil/amplifier, cylinder 5 - short to ground
+P1370 Ignition coil/amplifier, cylinder 6 - open circuit
+P1371 Ignition coil/amplifier, cylinder 6 - short to positive
+P1372 Ignition coil/amplifier, cylinder 6 - short to ground
+P1373 Ignition coil/amplifier, cylinder 7 - open circuit
+P1374 Ignition coil/amplifier, cylinder 7 - short to positive
+P1375 Ignition coil/amplifier, cylinder 7 - short to ground
+P1376 Ignition coil/amplifier, cylinder 8 - open circuit
+P1377 Ignition coil/amplifier, cylinder 8 - short to positive
+P1378 Ignition coil/amplifier, cylinder 8 - short to ground
+P1385 Engine control module (ECM) - defective
+P1386 Engine control module (ECM), knock control - defective
+P1387 Engine control module (ECM), BARO sensor - defective
+P1388 Engine control module (ECM), ETS - defective
+P1389 Engine control module (ECM) 2 - defective
+P1391 Camshaft position (CMP) sensor 2/ Bank 2 - short to ground
+P1392 Camshaft position (CMP) sensor 2/ Bank 2 - open circuit/short to positive
+P1393 Ignition amplifier, primary circuit 1 - circuit malfunction
+P1394 Ignition amplifier, primary circuit 2 - circuit malfunction
+P1395 Ignition amplifier, primary circuit 3 - circuit malfunction
+P1397 Crankshaft position (CKP) sensor/engine speed (RPM) sensor - control limit reached
+P1398 Crankshaft position (CKP) sensor/engine speed (RPM) sensor - short to ground
+P1399 Crankshaft position (CKP) sensor/engine speed (RPM) sensor - short to positive
+P1400 Exhaust gas recirculation (EGR) valve/solenoid, Bank 1 - circuit malfunction
+P1401 Exhaust gas recirculation (EGR) valve/solenoid, Bank 1 - short to ground
+P1402 Exhaust gas recirculation (EGR) valve/solenoid, Bank 1 - short to positive
+P1403 Exhaust gas recirculation (EGR) system - control difference
+P1404 Exhaust gas recirculation (EGR) system - basic setting
+P1406 EGR Temperature Sensor Signal Range Performance
+P1407 Exhaust gas recirculation temperature (EGRT) sensor - low input
+P1408 Exhaust gas recirculation temperature (EGRT) sensor - high input
+P1409 Evaporative emission (EVAP) canister purge valve - circuit malfunction
+P1410 Evaporative emission (EVAP) canister purge valve - short to positive
+P1411 Secondary air injection (AIR) system, Bank 2 - insufficient flow detected
+P1412 EGR Differential Pressure Sensor Signal Too Low
+P1413 EGR Differential Pressure Sensor Signal Too High
+P1414 Secondary air injection (AIR) system, Bank 2 - leak detected
+P1415 Exhaust gas recirculation (EGR) valve position sensor - lower limit exceeded
+P1416 Exhaust gas recirculation (EGR) valve position sensor - upper limit exceeded
+P1417 Fuel Level Sensor Circuit Signal Too Low
+P1418 Fuel Level Sensor Circuit Signal Too High
+P1420 Secondary air injection (AIR) valve/solenoid - circuit malfunction
+P1421 Secondary air injection (AIR) valve/solenoid - short to ground
+P1422 Secondary air injection (AIR) valve/solenoid - short to positive
+P1423 Secondary air injection (AIR) system, Bank 1 - insufficient flow detected
+P1424 Secondary air injection (AIR) system, Bank 1 - leak detected
+P1425 Evaporative emission (EVAP) canister purge valve - short to ground
+P1426 Evaporative emission (EVAP) canister purge valve - open circuit
+P1427 Vacuum pump, brakes - short to positive
+P1428 Vacuum pump, brakes - short to ground
+P1429 Vacuum pump, brakes - open circuit
+P1430 Vacuum pump, brakes - open circuit/ short to positive
+P1431 Vacuum pump, brakes - open circuit/ short to ground
+P1432 Secondary air injection (AIR) valve/solenoid - open circuit
+P1433 Secondary air injection (AIR) pump relay - open circuit
+P1434 Secondary air injection (AIR) pump relay - short to positive
+P1435 Secondary air injection (AIR) pump relay - short to ground
+P1436 Secondary air injection (AIR) pump relay - circuit malfunction
+P1437 Exhaust gas recirculation (EGR) valve/solenoid, Bank 2 - short to positive
+P1438 Exhaust gas recirculation (EGR) valve/solenoid, Bank 2 - open circuit/short to ground
+P1439 Exhaust gas recirculation (EGR) valve position sensor - basic setting
+P1440 Exhaust gas recirculation (EGR) valve - open circuit
+P1441 Exhaust gas recirculation (EGR) valve/solenoid, Bank 1 - open circuit/short to ground
+P1442 Exhaust gas recirculation (EGR) valve position sensor - high input
+P1443 Exhaust gas recirculation (EGR) valve position sensor - low input
+P1444 Exhaust gas recirculation (EGR) valve position sensor - range/performance problem
+P1445 Catalyst Temperature Sensor 2 Circuit Range/Performance
+P1446 Catalyst Temperature Circuit Short To Ground
+P1447 Catalyst Temperature Circuit Open/Short to B+
+P1448 Catalyst Temperature Sensor 2 Circuit Short to Ground
+P1449 Catalyst Temperature Sensor 2 Circuit Open/Short to B+
+P1450 Secondary air injection (AIR) system - short to positive
+P1451 Secondary air injection (AIR) system - short to ground
+P1452 Secondary air injection (AIR) system - open circuit
+P1453 Exhaust gas recirculation temperature (EGRT) sensor 1/Bank 1 - open circuit/short to positive
+P1454 Exhaust gas recirculation temperature (EGRT) sensor 1/Bank 1 - short to ground
+P1455 Exhaust gas recirculation temperature (EGRT) sensor 1/Bank 1 - range/performance problem
+P1456 Exhaust gas recirculation temperature (EGRT) control, Bank 1 - control limit reached
+P1457 Exhaust gas recirculation temperature (EGRT) sensor 2/Bank 2 - open circuit/short to positive
+P1458 Exhaust gas recirculation temperature (EGRT) sensor 2/Bank 2 - short to ground
+P1459 Exhaust gas recirculation temperature (EGRT) sensor 2/Bank 2 - range/performance problem
+P1460 Exhaust gas recirculation temperature (EGRT) control, Bank 2 - control limit reached
+P1461 Exhaust gas recirculation temperature (EGRT) control, Bank 1 - range/performance problem
+P1462 Exhaust gas recirculation temperature (EGRT) control, Bank 2 - range/performance problem
+P1465 Additive Pump Short Circuit to B+
+P1466 Additive Pump Open/Short to Ground
+P1467 EVAP Canister Purge Solenoid Valve Short Circuit to B+
+P1468 EVAP Canister Purge Solenoid Valve Short Circuit to Ground
+P1469 EVAP Canister Purge Solenoid Valve Open Circuit
+P1470 EVAP Control System LDP Circuit Electrical Malfunction
+P1471 EVAP Control System LDP Circuit Short to Positive
+P1472 EVAP Control System LDP Circuit Short To Ground
+P1473 EVAP Control System LDP Open Circuit
+P1474 EVAP Canister Purge Solenoid Valve Electrical Malfunction
+P1475 EVAP Control System LDP Malfunction/Signal Circuit Open
+P1476 EVAP Control System LDP Malfunction/Insufficient Vacuum
+P1477 EVAP Control System LDP Malfunction
+P1478 EVAP Control System LDP Clamped Tube Detected
+P1479 Vacuum system, brakes - mechanical fault
+P1482 Secondary Air Injection Pump Relay 2 Short To B+
+P1483 Secondary Air Injection Pump Relay 2 Short To Ground
+P1484 Secondary Air Injection Pump Relay 2 Electrical Circuit Malfunction
+P1489 EVAP Canister Purge Regulator Valve 2 Short To B+
+P1490 EVAP Canister Purge Regulator Valve 2 Short To Ground
+P1491 EVAP Canister Purge Regulator Valve 2 Open Circuit
+P1493 Low Pressure Pump For Brake Power Too Low
+P1494 EVAP canister purge valve 2 – incorrect flow detected
+P1497 Secondary Air System Bank 3 Flow Fault
+P1500 Fuel pump relay - circuit malfunction
+P1501 Fuel pump relay - short to ground
+P1502 Fuel pump relay - short to positive
+P1503 Alternator load signal
+P1504 Intake system - leak detected
+P1505 Closed throttle position (CTP) switch - does not close
+P1506 Closed throttle position (CTP) switch - does not open
+P1507 Idle speed control (ISC) - lower limit reached
+P1508 Idle speed control (ISC) - upper limit reached
+P1509 Idle air control (IAC) valve - circuit malfunction
+P1510 Idle air control (IAC) valve - short to positive
+P1511 Intake manifold air control solenoid 1 - current circuit
+P1512 Intake manifold air control solenoid 1 - short to positive
+P1513 Intake manifold air control solenoid 2 - short to positive
+P1514 Intake manifold air control solenoid 2 - short to ground
+P1515 Intake manifold air control solenoid 1 - short to ground
+P1516 Intake manifold air control solenoid 1 - open circuit
+P1517 Engine control relay - circuit malfunction
+P1518 Engine control relay - short to positive
+P1519 Camshaft position (CMP) control, Bank 1 - malfunction
+P1520 Intake manifold air control solenoid 2 - open circuit
+P1521 Intake Manifold Changeover Valve 2 Circuit Electrical Malfunction
+P1522 Camshaft position (CMP) control, Bank 2 - malfunction
+P1523 SRS crash signal received
+P1524 Fuel pump relay - open circuit/short to ground
+P1525 Camshaft position (CMP) actuator, Bank 1 - circuit malfunction
+P1526 Camshaft position (CMP) actuator, Bank 1 - short to positive
+P1527 Camshaft position (CMP) actuator, Bank 1 - short to ground
+P1528 Camshaft position (CMP) actuator, Bank 1 - open circuit
+P1529 Camshaft position (CMP) actuator - short to positive
+P1530 Camshaft position (CMP) actuator - short to ground
+P1531 Camshaft position (CMP) actuator - open circuit
+P1532 Idle control - lean running speed below specification
+P1533 Camshaft position (CMP) actuator, Bank 2 - circuit malfunction
+P1534 Camshaft position (CMP) actuator, Bank 2 - short to positive
+P1535 Camshaft position (CMP) actuator, Bank 2 - short to ground
+P1536 Camshaft position (CMP) actuator, Bank 2 - open circuit
+P1537 Fuel shut-off solenoid - malfunction
+P1538 Fuel shut-off solenoid - open circuit/short to ground
+P1539 Clutch pedal position (CPP) switch - range/performance problem
+P1540 Vehicle speed signal - high input
+P1541 Fuel pump relay - open circuit
+P1542 Throttle motor position sensor 1 - range/performance problem
+P1543 Throttle motor position sensor 1 - low input
+P1544 Throttle motor position sensor 1 - high input
+P1545 Throttle valve control - malfunction
+P1546 Turbocharger (TC) wastegate regulating valve - short to positive
+P1547 Turbocharger (TC) wastegate regulating valve - short to ground
+P1548 Turbocharger (TC) wastegate regulating valve - open circuit
+P1549 Turbocharger (TC) wastegate regulating valve - open circuit/short to ground
+P1550 Turbocharger (TC) pressure - control difference
+P1551 Barometric Pressure Sensor Circuit Short to B+
+P1552 Barometric Pressure Sensor Circuit Open/Short to Ground
+P1553 Manifold absolute pressure (MAP) sensor/ barometric pressure (BARO) sensor - range/performance problem
+P1554 Throttle control unit - basic setting conditions
+P1555 Turbocharger (TC) pressure - upper limit exceeded
+P1556 Turbocharger (TC) pressure - control limit not reached
+P1557 Turbocharger (TC) pressure - control limit exceeded
+P1558 Idle speed control (ISC) actuator/throttle motor - circuit malfunction
+P1559 Throttle control unit - basic setting malfunction
+P1560 Maximum engine RPM exceeded
+P1561 Fuel quantity adjuster - control difference
+P1562 Fuel quantity adjuster - upper stop value
+P1563 Fuel quantity adjuster - lower stop value
+P1564 Throttle control unit - voltage low during basic setting
+P1565 Throttle control unit - lower stop not reached
+P1566 AC compressor, load signal - implausible signal
+P1567 Load Signal from A/C Compressor No Signal
+P1568 Throttle control unit - mechanical fault
+P1569 Cruise control master switch
+P1570 Engine control module (ECM) - immobilizer active
+P1571 Engine mounting control solenoid, Bank 2 - short to positive
+P1572 Engine mounting control solenoid, Bank 2 - short to ground
+P1573 Engine mounting control solenoid, Bank 2 - open circuit
+P1575 Engine mounting control solenoid, Bank 1 - short to positive
+P1576 Engine mounting control solenoid, Bank 1 - short to ground
+P1577 Engine mounting control solenoid, Bank 1 - open circuit
+P1579 Throttle control unit - basic setting
+P1580 Throttle motor, Bank 1 - circuit malfunction
+P1581 Throttle control unit - basic setting
+P1582 Idle speed adaptation - limit reached
+P1586 Engine mounting control solenoid, Bank 1 & 2 - short to positive
+P1589 AC/heater air temperature control switch - short to ground
+P1590 AC/heater air temperature control switch - open circuit
+P1592
+Barometric pressure (BARO) sensor/manifold absolute pressure (MAP) sensor -
+implausible ratio
+P1593 Altitude adoption - signal outside tolerance
+P1599 Idle control - lean running speed above specification
+P1600 Engine control module (ECM) - supply voltage low from ignition switch
+P1601 Engine control module (ECM) - supply voltage
+P1602 Engine control module (ECM) - supply voltage low from battery
+P1603 Engine control module (ECM) - defective
+P1604 Engine control module (ECM) - defective
+P1606 Rough road signal - circuit malfunction
+P1608 Power steering pressure (PSP) switch - circuit malfunction
+P1609 Engine control module (ECM) - crash switch-off triggered
+P1610 Engine control module (ECM) - defective
+P1611 Malfunction indicator lamp (MIL) - short to ground
+P1612 Engine control module (ECM) - coding
+P1613 Malfunction indicator lamp (MIL) - open circuit/short to positive
+P1615 Engine oil temperature (EOT) sensor - range/performance problem
+P1616 Glow plug warning lamp - short to positive
+P1617 Glow plug warning lamp - open circuit/short to ground
+P1618 Glow plug relay - short to positive
+P1619 Glow plug relay - open circuit/short to ground
+P1620 Instrument panel, ECT signal - open circuit/short to positive
+P1621 Instrument panel, ECT signal - short to ground
+P1622 Instrument panel, ECT signal - implausible signal
+P1623 CAN data bus - no signal
+P1624 Malfunction indicator lamp (MIL) - request signal active
+P1625 CAN data bus, TCM - incorrect signal
+P1626 CAN data bus, TCM - no signal
+P1629 CAN data bus, cruise control - no signal
+P1630 Accelerator pedal position (APP) sensor 1 - low input
+P1631 Accelerator pedal position (APP) sensor 1 - high input
+P1632 Accelerator pedal position (APP) sensor - supply voltage
+P1633 Accelerator pedal position (APP) sensor 2 - low input
+P1634 Accelerator pedal position (APP) sensor 2 - high input
+P1635 CAN data bus, AC - no signal
+P1636 CAN data bus, SRS - no signal
+P1637 CAN data bus, electronic CE - no signal
+P1639 Accelerator pedal position (APP) sensor 1/2 - range/performance problem
+P1640 Engine control module (ECM) - defective
+P1642 SRS control module - system malfunction
+P1645 CAN data bus, 4WD - no signal
+P1648 CAN data bus - defective
+P1649 CAN data bus, ABS - no signal
+P1650 CAN data bus, instrumentation - no signal
+P1652 Transmission control module (TCM) - system malfunction
+P1653 ABS control module - system malfunction
+P1654 Instrumentation control module - system malfunction
+P1656 AC signal - short to ground
+P1657 AC signal - short to positive
+P1658 CAN data bus, cruise control - incorrect signal
+P1659 Engine coolant blower motor, speed 1 - short to positive
+P1660 Engine coolant blower motor, speed 1 - short to ground
+P1661 Engine coolant blower motor, speed 2 - short to positive
+P1662 Engine coolant blower motor, speed 2 - short to ground
+P1663 Injector, activation - short to positive
+P1664 Injector, activation - current circuit
+P1665 Injector - mechanical fault
+P1666 Injector 1 - current circuit
+P1667 Injector 2 - current circuit
+P1668 Injector 3 - current circuit
+P1669 Injector 4 - current circuit
+P1672 Engine coolant blower motor, speed 1 - open circuit/short to ground
+P1674 CAN data bus, instrumentation - incorrect signal
+P1676 ETS warning lamp - circuit malfunction
+P1677 ETS warning lamp - short to positive
+P1678 ETS warning lamp - short to ground
+P1679 ETS warning lamp - open circuit
+P1680 Limp-home mode - active
+P1681 Engine control module (ECM) - programming incomplete
+P1682 CAN data bus, ABS - implausible signal
+P1683 CAN data bus, SRS - implausible signal
+P1690 Malfunction indicator lamp (MIL) - circuit malfunction
+P1691 Malfunction indicator lamp (MIL) - open circuit
+P1692 Malfunction indicator lamp (MIL) - short to ground
+P1693 Malfunction indicator lamp (MIL) - short to positive
+P1696 CAN data bus, steering column electronics - incorrect signal
+P1698 Check DTC Memory Of Steering Column ECU
+P1699 Engine control module (ECM) – programmed for cruise control
+P1740 Clutch Temperature Monitoring
+P1745 Solenoid valves, supply voltage – short to positive
+P1746 TCM/solenoid valves, supply voltage – circuit malfunction
+P1747 Solenoid valves, supply voltage – open circuit/short to ground
+P1748 Transmission control module (TCM) – defective
+P1750 Transmission control module (TCM) – supply voltage low
+P1751 Transmission control module (TCM) – supply voltage high
+P1851 CAN data bus, ABS - incorrect signal
+P1853 CAN data bus, ABS - incorrect signal
+P1854 CAN data bus, ABS - defective
+P1857 Load Signal Error Message From ECU
+P1900 Engine coolant blower motor, speed 2 - open circuit/short to ground
+P1901 Engine coolant blower motor run-on relay - short to positive
+P1902 Engine coolant blower motor run-on relay - open circuit/short to ground
+P1903 Engine coolant hydraulic blower motor solenoid - short to positive
+P1904 Engine coolant hydraulic blower motor solenoid - open circuit/short to ground
+P1905 Charge air coolant pump relay - short to positive
+P1906 Charge air coolant pump relay - open circuit/short to ground
+P1907 Data bus, ECM 1/2 - defective
+P1908 Data bus, ECM 1/2 - software version monitoring
+P1909 Data bus, ECM 1/2 - no signal from ECM 1
+P1910 Data bus, ECM 1/2 - no signal from ECM 2
+P1911 Data bus, ECM 1/2 - circuit malfunction
+P1912 Brake servo pressure sensor - open circuit/short to positive
+P1913 Brake servo pressure sensor - short to ground
+P1914 Brake servo pressure sensor - range/performance problem
+P1920 Engine mounting control solenoid, Bank 1 & 2 - open circuit/short to ground
+P1923 Engine control module (ECM) 2 - malfunction
+P1951 Radiator Fan 2 Movement Restricted / Jammed
+P1952 Turbocharger Control Module 1 Defective
+P1953 Turbocharger Control Module 2 Defective
+P1996 Friction Too High Intake Camshaft Adjustment Bank 1
+P1997 Friction Too High Exhaust Camshaft Adjustment Bank 1
+P1998 Friction Too High Intake Camshaft Adjustment Bank 2
+P1999 Friction Too High Exhaust Camshaft Adjustment Bank 2
